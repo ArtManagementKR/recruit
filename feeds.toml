@@ -24,3 +24,12 @@ titleSelector = "h2.list-bbs-title"
 linkSelector = "span.list-bbs-notice-name a"
 contentSelector = "span.list-bbs-date"
 waitUntil = "networkidle"
+
+[hybe_recruit]
+title = "HYBE ─ ALL JOBS"
+url = "https://careers.hybecorp.com/go/ALL-JOBS/562844/"
+entrySelector = "tbody tr.data-row.clickable"
+titleSelector = "span.jobTitle.hidden-phone"
+linkSelector = "a.jobTitle-link"
+contentSelector = "span.jobDepartment"
+waitUntil = "networkidle"
