@@ -1,0 +1,26 @@
+[jyp_recruit]
+title = "JYP RECRUIT"
+url = "https://recruit.jype.com/Recruit"
+entrySelector = "div.recruitList ul li"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.date"
+waitUntil = "networkidle"
+
+[sm_recruit]
+title = "SM Entertainment ─ RECRUIT"
+url = "https://recruit.smentertainment.com/"
+entrySelector = "ul.hrlist li"
+titleSelector = "span.title_txt"
+linkSelector = "a"
+contentSelector = "div.sts p"
+waitUntil = "networkidle"
+
+[yg_recruit]
+title = "YG Entertainment ─ RECRUIT"
+url = "https://yg-entertainment.recruiter.co.kr/app/jobnotice/list"
+entrySelector = "div.list-bbs.with-tab ul li"
+titleSelector = "h2.list-bbs-title"
+linkSelector = "span.list-bbs-notice-name a"
+contentSelector = "span.list-bbs-date"
+waitUntil = "networkidle"
