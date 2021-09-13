@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2021-09-13T01:07:51.791Z</updated>
+    <updated>2021-09-13T02:30:52.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -55,16 +55,16 @@
         <content type="html"><![CDATA[2021.05.26(수) 18:00 ~ 2021.12.31(금) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공연기획(경력) / 사업 기획 및 전략 담당자* 연장]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66540</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66540"/>
+        <title type="html"><![CDATA[공연기획(경력) / 마케팅 및 프로모션 담당자 * 연장]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66539</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66539"/>
         <updated>2021-09-11T04:20:39.437Z</updated>
         <content type="html"><![CDATA[2021.08.03(화) 01:00 ~ 2021.09.12(일) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공연기획(경력) / 마케팅 및 프로모션 담당자 * 연장]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66539</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66539"/>
+        <title type="html"><![CDATA[공연기획(경력) / 사업 기획 및 전략 담당자* 연장]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66540</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66540"/>
         <updated>2021-09-11T04:20:39.437Z</updated>
         <content type="html"><![CDATA[2021.08.03(화) 01:00 ~ 2021.09.12(일) 18:00]]></content>
     </entry>
