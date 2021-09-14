@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-09-14T06:24:44.075Z</updated>
+    <updated>2021-09-14T07:20:25.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Weverse Company] QA (Test Automation Specialist)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/"/>
-        <updated>2021-09-13T02:30:51.522Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[HYBE OSB] 브랜드 마케터(스토리사업)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231544/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231544/"/>
@@ -46,6 +39,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4398044/"/>
         <updated>2021-09-13T02:30:51.522Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] QA (Test Automation Specialist)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/"/>
+        <updated>2021-09-13T02:30:51.522Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[BIGHIT MUSIC] 스타일디렉팅]]></title>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[IT]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[PLEDIS Entertainment] 아티스트마케팅]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/4027144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/4027144/"/>
-        <updated>2021-09-11T04:42:16.456Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
+        <title type="html"><![CDATA[[Weverse Company] QA]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/"/>
+        <updated>2021-09-14T07:20:24.700Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
     </entry>
 </feed>
