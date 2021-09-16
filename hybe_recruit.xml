@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-09-16T01:10:16.439Z</updated>
+    <updated>2021-09-16T02:33:15.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] CRM 마케터]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-CRM-%EB%A7%88%EC%BC%80%ED%84%B0-%ED%95%9C%EA%B5%AD/4589944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-CRM-%EB%A7%88%EC%BC%80%ED%84%B0-%ED%95%9C%EA%B5%AD/4589944/"/>
+        <updated>2021-09-16T02:33:14.455Z</updated>
+        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PLEDIS Entertainment] 캐스팅]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%BA%90%EC%8A%A4%ED%8C%85-%ED%95%9C%EA%B5%AD/3958644/</id>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8-%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/3941844/"/>
         <updated>2021-09-12T02:31:26.077Z</updated>
         <content type="html"><![CDATA[Artist Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIGHIT MUSIC] 스타일디렉팅]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/3939044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/3939044/"/>
-        <updated>2021-09-12T02:31:26.077Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
