@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-17T01:13:42.000Z</updated>
+    <updated>2021-09-17T02:33:50.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2021년 JYP엔터테인먼트 Music 특별 채용 (JYP RECRUIT)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[2021.09.06(월) 18:00 ~ 2021.09.22(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[다자인센터(경력) / 모션 디자이너 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850"/>
+        <updated>2021-09-17T01:13:31.029Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 11:00 ~ 2021.10.04(월) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[상시 채용] 영상콘텐츠센터(경력) / 프로그램 제작 연출 PD 및 조연출 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=54078</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=54078"/>
@@ -187,13 +194,6 @@
         <content type="html"><![CDATA[2021.05.26(수) 18:00 ~ 2021.12.31(금) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다자인센터(경력) / 모션 디자이너 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850"/>
-        <updated>2021-09-17T01:13:31.029Z</updated>
-        <content type="html"><![CDATA[2021.09.17(금) 11:00 ~ 2021.10.04(월) 18:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[공연기획(경력) / 마케팅 및 프로모션 담당자 * 연장 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66539</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66539"/>
@@ -206,6 +206,34 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=66540"/>
         <updated>2021-09-11T04:20:39.437Z</updated>
         <content type="html"><![CDATA[2021.08.03(화) 01:00 ~ 2021.09.12(일) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 위버스 매거진 에디터 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9C%84%EB%B2%84%EC%8A%A4-%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%97%90%EB%94%94%ED%84%B0-%ED%95%9C%EA%B5%AD/4417944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9C%84%EB%B2%84%EC%8A%A4-%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%97%90%EB%94%94%ED%84%B0-%ED%95%9C%EA%B5%AD/4417944/"/>
+        <updated>2021-09-17T02:33:48.918Z</updated>
+        <content type="html"><![CDATA[Artist Contents Business]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 기업PR (Corporate PR) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%B0%EC%97%85PR-%28Corporate-PR%29-%ED%95%9C%EA%B5%AD/4601944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%B0%EC%97%85PR-%28Corporate-PR%29-%ED%95%9C%EA%B5%AD/4601944/"/>
+        <updated>2021-09-17T02:33:48.918Z</updated>
+        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 경영관리 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/4422844/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/4422844/"/>
+        <updated>2021-09-17T02:33:48.920Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE OSB] 스토리영상디자인 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%98%81%EC%83%81%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%9C%EA%B5%AD/4422944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%98%81%EC%83%81%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%9C%EA%B5%AD/4422944/"/>
+        <updated>2021-09-17T02:33:48.923Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] CRM 마케터 (HYBE ─ ALL JOBS)]]></title>
@@ -248,33 +276,5 @@
         <link href="https://careers.hybecorp.com/job/HYBE-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EB%A7%88%EC%BC%80%ED%8C%85%EB%A6%AC%EC%84%9C%EC%B9%98/5621244/"/>
         <updated>2021-09-14T05:18:56.581Z</updated>
         <content type="html"><![CDATA[Business Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] QA (Test Automation Specialist) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/"/>
-        <updated>2021-09-13T02:30:51.522Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 스튜디오엔지니어 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4398044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4398044/"/>
-        <updated>2021-09-13T02:30:51.522Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] 브랜드 마케터(스토리사업) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231544/"/>
-        <updated>2021-09-13T02:30:51.522Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIGHIT MUSIC] 아티스트 의전 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8-%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/3941844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8-%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/3941844/"/>
-        <updated>2021-09-12T02:31:26.077Z</updated>
-        <content type="html"><![CDATA[Artist Management]]></content>
     </entry>
 </feed>
