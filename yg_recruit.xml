@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2021-09-28T13:25:58.388Z</updated>
+    <updated>2021-09-28T14:19:32.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[2021.09.09(목) 18:00 ~ 2021.10.04(월) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다자인센터(경력) / 모션 디자이너]]></title>
+        <title type="html"><![CDATA[디자인센터(경력) / 모션 디자이너]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850"/>
         <updated>2021-09-17T01:13:31.029Z</updated>

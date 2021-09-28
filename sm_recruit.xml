@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-09-28T13:25:58.391Z</updated>
+    <updated>2021-09-28T14:19:32.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -18,27 +18,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=657"/>
         <updated>2021-09-11T04:20:30.315Z</updated>
         <content type="html"><![CDATA[2021-09-09 ~ 2021-10-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 세계관 스토리 기획/개발 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=660</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=660"/>
-        <updated>2021-09-17T04:27:23.169Z</updated>
-        <content type="html"><![CDATA[2021-09-16 ~ 2021-09-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 아티스트 숏폼 컨텐츠 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=659</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=659"/>
-        <updated>2021-09-15T04:27:02.318Z</updated>
-        <content type="html"><![CDATA[2021-09-15 ~ 2021-09-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 2021 3분기 정기채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=658</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=658"/>
-        <updated>2021-09-11T04:20:30.341Z</updated>
-        <content type="html"><![CDATA[2021-09-10 ~ 2021-09-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 안전관리자 채용]]></title>
@@ -62,11 +41,25 @@
         <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 MC매니지먼트 매니저 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=639</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=639"/>
-        <updated>2021-09-11T04:20:30.348Z</updated>
-        <content type="html"><![CDATA[2021-08-04 ~ 2021-09-03]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 세계관 스토리 기획/개발 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=660</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=660"/>
+        <updated>2021-09-17T04:27:23.169Z</updated>
+        <content type="html"><![CDATA[2021-09-16 ~ 2021-09-28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 아티스트 숏폼 컨텐츠 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=659</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=659"/>
+        <updated>2021-09-15T04:27:02.318Z</updated>
+        <content type="html"><![CDATA[2021-09-15 ~ 2021-09-28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 2021 3분기 정기채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=658</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=658"/>
+        <updated>2021-09-11T04:20:30.341Z</updated>
+        <content type="html"><![CDATA[2021-09-10 ~ 2021-09-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 웹 서버 개발자(경력) 모집]]></title>
@@ -74,5 +67,12 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=646"/>
         <updated>2021-09-11T04:20:30.344Z</updated>
         <content type="html"><![CDATA[2021-08-23 ~ 2021-09-03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 MC매니지먼트 매니저 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=639</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=639"/>
+        <updated>2021-09-11T04:20:30.348Z</updated>
+        <content type="html"><![CDATA[2021-08-04 ~ 2021-09-03]]></content>
     </entry>
 </feed>
