@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-10-07T10:23:59.850Z</updated>
+    <updated>2021-10-07T11:17:42.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[Artist Management]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Weverse Company] 브랜드 마케터]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0-%ED%95%9C%EA%B5%AD/3925044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0-%ED%95%9C%EA%B5%AD/3925044/"/>
-        <updated>2021-10-06T02:31:59.726Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[BELIFT LAB] 레이블사업기획/운영Jr.]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/4812344/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/4812344/"/>
         <updated>2021-10-06T02:31:59.728Z</updated>
         <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 브랜드 마케터]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0-%ED%95%9C%EA%B5%AD/3925044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%A7%88%EC%BC%80%ED%84%B0-%ED%95%9C%EA%B5%AD/3925044/"/>
+        <updated>2021-10-06T02:31:59.726Z</updated>
+        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
