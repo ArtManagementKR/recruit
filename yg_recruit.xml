@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2021-10-08T08:25:19.556Z</updated>
+    <updated>2021-10-08T09:20:40.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=72246"/>
         <updated>2021-10-07T09:18:56.685Z</updated>
         <content type="html"><![CDATA[2021.09.27(월) 15:00 ~ 2021.10.11(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영상제작2(경력) / 영상 콘텐츠 연출 및 조연출 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=73624</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=73624"/>
+        <updated>2021-10-07T09:18:56.690Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 18:00 ~ 2021.10.24(일) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[상시 채용] 영상콘텐츠센터(경력) / 프로그램 제작 연출 PD 및 조연출]]></title>
@@ -39,13 +46,6 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=56758"/>
         <updated>2021-10-07T09:18:56.689Z</updated>
         <content type="html"><![CDATA[2021.05.26(수) 18:00 ~ 2021.12.31(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영상제작2(경력) / 영상 콘텐츠 연출 및 조연출 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=73624</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=73624"/>
-        <updated>2021-10-07T09:18:56.690Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 18:00 ~ 2021.10.24(일) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팬커뮤니티사업(경력) / 콘텐츠 기획 및 제작 담당자 * 연장]]></title>
