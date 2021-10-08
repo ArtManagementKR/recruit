@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-10-08T07:20:13.518Z</updated>
+    <updated>2021-10-08T08:25:19.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BD%98%ED%85%90%EC%B8%A0%EA%B8%B0%ED%9A%8D-%28%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%29-%ED%95%9C%EA%B5%AD/3997244/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BD%98%ED%85%90%EC%B8%A0%EA%B8%B0%ED%9A%8D-%28%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%29-%ED%95%9C%EA%B5%AD/3997244/"/>
         <updated>2021-10-08T02:34:12.842Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 프로덕션코디네이터(빌리프랩 담당)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/5814144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/5814144/"/>
+        <updated>2021-10-08T08:25:18.852Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%28SMI-Lab%29-%ED%95%9C%EA%B5%AD/5801644/"/>
         <updated>2021-10-07T08:25:29.198Z</updated>
         <content type="html"><![CDATA[Artist Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BELIFT LAB] 레이블사업기획/운영Jr.]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/4812344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/4812344/"/>
-        <updated>2021-10-06T02:31:59.728Z</updated>
-        <content type="html"><![CDATA[Business Management]]></content>
     </entry>
 </feed>
