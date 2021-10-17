@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-17T01:09:15.511Z</updated>
+    <updated>2021-10-17T02:32:37.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2021년 JYP엔터테인먼트 Music 특별 채용 (JYP RECRUIT)]]></title>
@@ -208,6 +208,20 @@
         <content type="html"><![CDATA[2021.08.03(화) 01:00 ~ 2021.09.12(일) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[PLEDIS Entertainment] 레이블사업분석/개선 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EB%B6%84%EC%84%9D%EA%B0%9C%EC%84%A0-%ED%95%9C%EA%B5%AD/3971344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EB%B6%84%EC%84%9D%EA%B0%9C%EC%84%A0-%ED%95%9C%EA%B5%AD/3971344/"/>
+        <updated>2021-10-17T02:32:36.434Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PLEDIS Entertainment] 레이블사업기획/운영 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/3971144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/3971144/"/>
+        <updated>2021-10-17T02:32:36.434Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SOURCE MUSIC] A&R팀장 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/3967444/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/3967444/"/>
@@ -262,19 +276,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-%EC%BA%90%EC%8A%A4%ED%8C%85-%ED%95%9C%EA%B5%AD/5857044/"/>
         <updated>2021-10-16T10:23:15.379Z</updated>
         <content type="html"><![CDATA[Artist Development]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 사업기획/마케팅리서치 (신규 레이블) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/HYBE-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EB%A7%88%EC%BC%80%ED%8C%85%EB%A6%AC%EC%84%9C%EC%B9%98/5621244/</id>
-        <link href="https://careers.hybecorp.com/job/HYBE-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EB%A7%88%EC%BC%80%ED%8C%85%EB%A6%AC%EC%84%9C%EC%B9%98/5621244/"/>
-        <updated>2021-10-16T10:23:15.380Z</updated>
-        <content type="html"><![CDATA[Business Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] A&R (신규 레이블) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-A&amp;R-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5621444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-A&amp;R-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5621444/"/>
-        <updated>2021-10-16T10:23:15.382Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
