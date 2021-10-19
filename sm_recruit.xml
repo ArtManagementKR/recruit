@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-10-19T06:25:55.583Z</updated>
+    <updated>2021-10-19T07:20:42.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=665"/>
         <updated>2021-10-07T05:19:00.573Z</updated>
         <content type="html"><![CDATA[2021-10-07 ~ 2021-10-20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 아티스트 숏폼 컨텐츠 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=667</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=667"/>
+        <updated>2021-10-19T07:20:26.715Z</updated>
+        <content type="html"><![CDATA[2021-10-19 ~ 2021-11-01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
