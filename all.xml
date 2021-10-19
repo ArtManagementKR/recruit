@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T13:25:56.456Z</updated>
+    <updated>2021-10-19T14:19:56.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2021년 JYP엔터테인먼트 Music 특별 채용 (JYP RECRUIT)]]></title>
@@ -68,13 +68,6 @@
         <content type="html"><![CDATA[2021-09-09 ~ 2021-09-27]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 투자전략 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=663</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=663"/>
-        <updated>2021-10-07T09:18:47.107Z</updated>
-        <content type="html"><![CDATA[2021-10-06 ~ 2021-10-19]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 연기자매니지먼트 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=665</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=665"/>
@@ -101,6 +94,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=557"/>
         <updated>2021-10-07T09:18:47.111Z</updated>
         <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 투자전략 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=663</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=663"/>
+        <updated>2021-10-07T09:18:47.107Z</updated>
+        <content type="html"><![CDATA[2021-10-06 ~ 2021-10-19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠 제휴 마케팅 및 협찬 영업 담당(경력) 모집 (SM Entertainment ─ RECRUIT)]]></title>
