@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-10-20T07:21:30.649Z</updated>
+    <updated>2021-10-20T08:25:04.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE] Recruiter (레이블 담당)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Recruiter-%28%EB%A0%88%EC%9D%B4%EB%B8%94-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/5923744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Recruiter-%28%EB%A0%88%EC%9D%B4%EB%B8%94-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/5923744/"/>
+        <updated>2021-10-20T08:25:03.441Z</updated>
+        <content type="html"><![CDATA[HR]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HYBE] T&D운영]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/3857844/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/3857844/"/>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%A4%EC%9E%A5%28IPX%29-%ED%95%9C%EA%B5%AD/5903144/"/>
         <updated>2021-10-18T08:25:12.225Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 브랜드마케팅팀장 (IPX)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A7%88%EC%BC%80%ED%8C%85%ED%8C%80%EC%9E%A5-%28IPX%29-%ED%95%9C%EA%B5%AD/5903244/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A7%88%EC%BC%80%ED%8C%85%ED%8C%80%EC%9E%A5-%28IPX%29-%ED%95%9C%EA%B5%AD/5903244/"/>
-        <updated>2021-10-18T09:21:42.999Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
