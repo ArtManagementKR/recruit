@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-10-21T01:17:02.357Z</updated>
+    <updated>2021-10-21T02:38:00.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[HYBE OSB] 스토리기획]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/3991844/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/3991844/"/>
+        <updated>2021-10-21T02:38:00.115Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(커뮤니티)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%29-%ED%95%9C%EA%B5%AD/4111944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%29-%ED%95%9C%EA%B5%AD/4111944/"/>
+        <updated>2021-10-21T02:38:00.116Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 백엔드개발(커머스)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/3862044/</id>
@@ -60,19 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%A8%B8%EC%8A%A4%29-%ED%95%9C%EA%B5%AD/4111844/"/>
         <updated>2021-10-19T02:34:52.490Z</updated>
         <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 커머스운영지원*]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/5912744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/5912744/"/>
-        <updated>2021-10-19T08:25:37.403Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 디자인실장(IPX)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%A4%EC%9E%A5%28IPX%29-%ED%95%9C%EA%B5%AD/5903144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%A4%EC%9E%A5%28IPX%29-%ED%95%9C%EA%B5%AD/5903144/"/>
-        <updated>2021-10-18T08:25:12.225Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
