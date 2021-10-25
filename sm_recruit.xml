@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-10-25T07:20:51.535Z</updated>
+    <updated>2021-10-25T08:25:38.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 연기자매니지먼트 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=665</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=665"/>
-        <updated>2021-10-07T05:19:00.573Z</updated>
-        <content type="html"><![CDATA[2021-10-07 ~ 2021-10-20]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 웹 서버 개발자(경력) 모집]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=646</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=646"/>
@@ -74,5 +67,12 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=637"/>
         <updated>2021-10-15T02:33:11.985Z</updated>
         <content type="html"><![CDATA[2021-08-04 ~ 2021-08-20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM 스튜디오스 Apple 기기 담당 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=617</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=617"/>
+        <updated>2021-10-25T08:25:20.166Z</updated>
+        <content type="html"><![CDATA[2021-07-09 ~ 2021-07-19]]></content>
     </entry>
 </feed>
