@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-10-31T14:19:16.619Z</updated>
+    <updated>2021-10-31T15:22:09.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-VC%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/4173644/"/>
         <updated>2021-10-30T02:32:58.575Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PLEDIS Entertainment] 해외콘텐츠제작지원(중국)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%ED%95%B4%EC%99%B8%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91%EC%A7%80%EC%9B%90%28%EC%A4%91%EA%B5%AD%29-%ED%95%9C%EA%B5%AD/4691044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%ED%95%B4%EC%99%B8%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91%EC%A7%80%EC%9B%90%28%EC%A4%91%EA%B5%AD%29-%ED%95%9C%EA%B5%AD/4691044/"/>
-        <updated>2021-10-30T02:32:58.576Z</updated>
-        <content type="html"><![CDATA[Artist Contents Business]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 정산관리]]></title>
@@ -74,5 +67,12 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6010844/"/>
         <updated>2021-10-29T10:24:32.779Z</updated>
         <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KOZ Entertainment] T&D운영]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/4454344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/4454344/"/>
+        <updated>2021-10-31T15:22:08.356Z</updated>
+        <content type="html"><![CDATA[Artist Development]]></content>
     </entry>
 </feed>
