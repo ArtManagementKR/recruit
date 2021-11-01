@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-11-01T07:21:31.949Z</updated>
+    <updated>2021-11-01T08:25:47.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[Game Business]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[PLEDIS Entertainment] 해외콘텐츠제작지원(중국)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%ED%95%B4%EC%99%B8%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91%EC%A7%80%EC%9B%90%28%EC%A4%91%EA%B5%AD%29-%ED%95%9C%EA%B5%AD/4691044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%ED%95%B4%EC%99%B8%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91%EC%A7%80%EC%9B%90%28%EC%A4%91%EA%B5%AD%29-%ED%95%9C%EA%B5%AD/4691044/"/>
+        <updated>2021-11-01T08:25:47.140Z</updated>
+        <content type="html"><![CDATA[Artist Contents Business]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SOURCE MUSIC] 프로덕션코디네이터]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/4329744/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/4329744/"/>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6010844/"/>
         <updated>2021-10-29T10:24:32.779Z</updated>
         <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IM] 3D모델러(캐릭터)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE3D%EB%AA%A8%EB%8D%B8%EB%9F%AC%28%EC%BA%90%EB%A6%AD%ED%84%B0%29-%ED%95%9C%EA%B5%AD/6008044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE3D%EB%AA%A8%EB%8D%B8%EB%9F%AC%28%EC%BA%90%EB%A6%AD%ED%84%B0%29-%ED%95%9C%EA%B5%AD/6008044/"/>
-        <updated>2021-10-29T05:19:49.819Z</updated>
-        <content type="html"><![CDATA[Game Business]]></content>
     </entry>
 </feed>
