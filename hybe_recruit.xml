@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-11-03T05:19:34.325Z</updated>
+    <updated>2021-11-03T06:25:42.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%9A%B4%EC%98%81-%28%EA%B8%80%EB%A1%9C%EB%B2%8C%29-%ED%95%9C%EA%B5%AD/4046944/"/>
         <updated>2021-11-03T02:32:44.904Z</updated>
         <content type="html"><![CDATA[IT]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 뮤직퍼블리싱]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%AE%A4%EC%A7%81%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%ED%95%9C%EA%B5%AD/6039644/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%AE%A4%EC%A7%81%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%ED%95%9C%EA%B5%AD/6039644/"/>
+        <updated>2021-11-03T06:25:41.721Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 플랫폼사업운영 (멤버십/콘서트)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/4173844/"/>
         <updated>2021-10-30T02:32:58.579Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 정산관리]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/4512344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/4512344/"/>
-        <updated>2021-10-30T02:32:58.576Z</updated>
-        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
 </feed>
