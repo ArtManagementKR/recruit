@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-11-05T13:26:14.404Z</updated>
+    <updated>2021-11-05T14:20:22.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -11,20 +11,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=675"/>
         <updated>2021-11-05T07:20:49.421Z</updated>
         <content type="html"><![CDATA[2021-11-05 ~ 2021-11-15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠마케팅 담당(팀장급) 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=669</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=669"/>
-        <updated>2021-10-25T07:20:33.622Z</updated>
-        <content type="html"><![CDATA[2021-10-25 ~ 2021-11-05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠 해외유통 담당(경력) 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=668</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=668"/>
-        <updated>2021-10-25T07:20:33.623Z</updated>
-        <content type="html"><![CDATA[2021-10-25 ~ 2021-11-05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 기술전략 담당자 채용]]></title>
@@ -74,5 +60,19 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=557"/>
         <updated>2021-09-11T04:20:30.343Z</updated>
         <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠마케팅 담당(팀장급) 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=669</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=669"/>
+        <updated>2021-10-25T07:20:33.622Z</updated>
+        <content type="html"><![CDATA[2021-10-25 ~ 2021-11-05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠 해외유통 담당(경력) 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=668</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=668"/>
+        <updated>2021-10-25T07:20:33.623Z</updated>
+        <content type="html"><![CDATA[2021-10-25 ~ 2021-11-05]]></content>
     </entry>
 </feed>
