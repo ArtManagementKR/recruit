@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-11-08T03:23:11.592Z</updated>
+    <updated>2021-11-08T04:29:03.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -17,6 +17,13 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/3939044/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/3939044/"/>
         <updated>2021-11-08T02:33:53.224Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE IPX] 상품디자인(팬시/문구/패키지)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%AC%EC%8B%9C%EB%AC%B8%EA%B5%AC%ED%8C%A8%ED%82%A4%EC%A7%80%29-%ED%95%9C%EA%B5%AD/6062644/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%AC%EC%8B%9C%EB%AC%B8%EA%B5%AC%ED%8C%A8%ED%82%A4%EC%A7%80%29-%ED%95%9C%EA%B5%AD/6062644/"/>
+        <updated>2021-11-08T04:29:03.006Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Risk-Management%28%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5799644/"/>
         <updated>2021-11-05T02:34:14.334Z</updated>
         <content type="html"><![CDATA[Communications]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 소셜미디어마케팅 (SMI-Lab)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%EB%A7%88%EC%BC%80%ED%8C%85-%28SMI-Lab%29-%ED%95%9C%EA%B5%AD/5801544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%EB%A7%88%EC%BC%80%ED%8C%85-%28SMI-Lab%29-%ED%95%9C%EA%B5%AD/5801544/"/>
-        <updated>2021-11-05T02:34:14.340Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
