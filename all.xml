@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-10T01:07:27.227Z</updated>
+    <updated>2021-11-10T02:34:35.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2021년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -229,6 +229,34 @@
         <content type="html"><![CDATA[2021.08.25(수) 14:00 ~ 2021.09.08(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE] 사업기획/마케팅리서치 (신규 레이블) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/HYBE-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EB%A7%88%EC%BC%80%ED%8C%85%EB%A6%AC%EC%84%9C%EC%B9%98/5621244/</id>
+        <link href="https://careers.hybecorp.com/job/HYBE-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EB%A7%88%EC%BC%80%ED%8C%85%EB%A6%AC%EC%84%9C%EC%B9%98/5621244/"/>
+        <updated>2021-11-10T02:34:34.838Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 국내외투자담당 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B5%AD%EB%82%B4%EC%99%B8%ED%88%AC%EC%9E%90%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/5847444/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B5%AD%EB%82%B4%EC%99%B8%ED%88%AC%EC%9E%90%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/5847444/"/>
+        <updated>2021-11-10T02:34:34.839Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] A&R (신규 레이블) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-A&amp;R-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5621444/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-A&amp;R-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5621444/"/>
+        <updated>2021-11-10T02:34:34.840Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 영상콘텐츠제작 (신규 레이블) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%98%81%EC%83%81%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5621344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%98%81%EC%83%81%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5621344/"/>
+        <updated>2021-11-10T02:34:34.841Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] QA (Test Automation Specialist) (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/"/>
@@ -269,33 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/3939044/"/>
         <updated>2021-11-08T02:33:53.224Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 상품디자인(팬시/문구/패키지) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%AC%EC%8B%9C%EB%AC%B8%EA%B5%AC%ED%8C%A8%ED%82%A4%EC%A7%80%29-%ED%95%9C%EA%B5%AD/6062644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%AC%EC%8B%9C%EB%AC%B8%EA%B5%AC%ED%8C%A8%ED%82%A4%EC%A7%80%29-%ED%95%9C%EA%B5%AD/6062644/"/>
-        <updated>2021-11-08T04:29:03.006Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] QA (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/"/>
-        <updated>2021-11-07T02:35:05.990Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] 콘텐츠 마케터(스토리사업) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231644/"/>
-        <updated>2021-11-07T02:35:05.993Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프론트엔드 개발 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/"/>
-        <updated>2021-11-07T02:35:05.991Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
     </entry>
 </feed>
