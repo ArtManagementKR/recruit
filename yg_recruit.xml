@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2021-11-10T15:23:15.536Z</updated>
+    <updated>2021-12-04T02:47:28.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[YGX] 경영관리(신입 및 경력) / 회계 및 총무 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=79780</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=79780"/>
+        <updated>2021-12-04T02:47:15.343Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 00:00 ~ 2021.12.15(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구매총무(경력) / 구매 및 자산관리 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=78069</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=78069"/>
+        <updated>2021-12-04T02:47:15.346Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 00:00 ~ 2021.11.28(일) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021 하반기 공개채용] 매니저 부문]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=76466</id>
@@ -34,45 +48,24 @@
         <content type="html"><![CDATA[2021.10.22(금) 18:00 ~ 2021.11.07(일) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영상제작2(경력) / 영상 콘텐츠 연출 및 조연출 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=73624</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=73624"/>
-        <updated>2021-10-07T09:18:56.690Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 18:00 ~ 2021.10.24(일) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴미디어사업(인턴) / 유튜브 콘텐츠 영문 번역 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=72246</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=72246"/>
-        <updated>2021-10-07T09:18:56.685Z</updated>
-        <content type="html"><![CDATA[2021.09.27(월) 15:00 ~ 2021.10.11(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬커뮤니티사업(경력) / 콘텐츠 기획 및 제작 담당자 * 연장]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=70487</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=70487"/>
-        <updated>2021-10-07T09:18:56.691Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 18:00 ~ 2021.10.04(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자인센터(경력) / 모션 디자이너]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=71850"/>
-        <updated>2021-10-07T09:18:56.692Z</updated>
-        <content type="html"><![CDATA[2021.09.17(금) 11:00 ~ 2021.10.04(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비주얼(신입) / 비주얼 디렉팅 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=70494</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=70494"/>
-        <updated>2021-10-07T09:18:56.695Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 18:00 ~ 2021.09.23(목) 18:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[팬커넥트(경력) / 팬 이벤트 관리 담당자]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=68539</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=68539"/>
         <updated>2021-10-27T05:19:23.226Z</updated>
         <content type="html"><![CDATA[2021.08.25(수) 14:00 ~ 2021.09.08(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬커넥트(경력) / 팬 이벤트 기획 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=68561</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=68561"/>
+        <updated>2021-12-04T02:47:15.355Z</updated>
+        <content type="html"><![CDATA[2021.08.25(수) 14:00 ~ 2021.09.08(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅전략(경력) / 아티스트전략 파트 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=59990</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=59990"/>
+        <updated>2021-12-04T02:47:15.357Z</updated>
+        <content type="html"><![CDATA[2021.06.07(월) 15:00 ~ 2021.06.20(일) 18:00]]></content>
     </entry>
 </feed>
