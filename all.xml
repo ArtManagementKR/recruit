@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-05T13:16:42.685Z</updated>
+    <updated>2021-12-05T14:10:31.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2021년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -138,13 +138,6 @@
         <content type="html"><![CDATA[2021-11-08 ~ 2021-12-08]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠 해외유통 담당(경력) 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=686</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=686"/>
-        <updated>2021-12-04T02:47:07.640Z</updated>
-        <content type="html"><![CDATA[2021-11-29 ~ 2021-12-05]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 Classic A&R 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=684</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=684"/>
@@ -157,6 +150,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2021-10-07T09:18:47.109Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2021-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Maker Entertainment 수시채용공고문 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=557</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=557"/>
+        <updated>2021-12-05T14:10:13.613Z</updated>
+        <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[YGX] 경영관리(신입 및 경력) / 회계 및 총무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
