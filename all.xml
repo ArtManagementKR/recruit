@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-06T06:12:53.756Z</updated>
+    <updated>2021-12-06T07:11:08.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2021년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -250,13 +250,6 @@
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Weverse Company] 데이터엔지니어 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/"/>
-        <updated>2021-12-04T02:47:26.626Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[HYBE] 소셜미디어퍼블리싱 (SMI-Lab) (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%28SMI-Lab%29-%ED%95%9C%EA%B5%AD/5801644/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%28SMI-Lab%29-%ED%95%9C%EA%B5%AD/5801644/"/>
@@ -290,5 +283,12 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRIS-Sr%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/6050944/"/>
         <updated>2021-12-04T02:47:26.633Z</updated>
         <content type="html"><![CDATA[HR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 데이터엔지니어 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/"/>
+        <updated>2021-12-04T02:47:26.626Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
     </entry>
 </feed>
