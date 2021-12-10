@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-12-10T13:18:36.002Z</updated>
+    <updated>2021-12-10T14:11:16.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -34,20 +34,6 @@
         <content type="html"><![CDATA[2021-12-02 ~ 2021-12-15]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 경영기획 담당자(경력) 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=685</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=685"/>
-        <updated>2021-12-04T02:47:07.637Z</updated>
-        <content type="html"><![CDATA[2021-11-25 ~ 2021-12-10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 사업전략 담당자(신입/경력) 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=690</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=690"/>
-        <updated>2021-12-04T02:47:07.638Z</updated>
-        <content type="html"><![CDATA[2021-12-03 ~ 2021-12-10]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 Classic A&R 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=684</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=684"/>
@@ -74,5 +60,19 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2021-09-11T04:20:30.342Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2021-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Maker Entertainment 수시채용공고문]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=557</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=557"/>
+        <updated>2021-12-10T14:10:58.532Z</updated>
+        <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM브랜드마케팅 사업전략 담당자(신입/경력) 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=690</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=690"/>
+        <updated>2021-12-04T02:47:07.638Z</updated>
+        <content type="html"><![CDATA[2021-12-03 ~ 2021-12-10]]></content>
     </entry>
 </feed>
