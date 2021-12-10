@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-10T01:53:11.895Z</updated>
+    <updated>2021-12-10T02:26:33.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2021년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -229,6 +229,13 @@
         <content type="html"><![CDATA[2021.08.25(수) 14:00 ~ 2021.09.08(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[PLEDIS Entertainment] 캐스팅 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%BA%90%EC%8A%A4%ED%8C%85-%ED%95%9C%EA%B5%AD/3958644/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%BA%90%EC%8A%A4%ED%8C%85-%ED%95%9C%EA%B5%AD/3958644/"/>
+        <updated>2021-12-10T02:26:32.597Z</updated>
+        <content type="html"><![CDATA[Artist Development]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HYBE] 글로벌 사업기획 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/6087144/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/6087144/"/>
@@ -290,12 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/"/>
         <updated>2021-12-06T02:30:15.895Z</updated>
         <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] 콘텐츠 마케터(스토리사업) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%84%B0%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4231644/"/>
-        <updated>2021-12-06T02:30:15.897Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
