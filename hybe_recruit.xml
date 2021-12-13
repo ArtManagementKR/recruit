@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-12-13T08:13:10.717Z</updated>
+    <updated>2021-12-13T09:14:03.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%AA%A8%EB%8D%B8%EB%9F%AC-%28%EA%B2%8C%EC%9E%84%EB%B0%B0%EA%B2%BD%29-%ED%95%9C%EA%B5%AD/6477244/"/>
         <updated>2021-12-13T01:56:32.491Z</updated>
         <content type="html"><![CDATA[Game Business]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] HRBP (HR Business Partner)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRBP-%28HR-Business-Partner%29-%ED%95%9C%EA%B5%AD/6481044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRBP-%28HR-Business-Partner%29-%ED%95%9C%EA%B5%AD/6481044/"/>
+        <updated>2021-12-13T09:14:02.242Z</updated>
+        <content type="html"><![CDATA[HR]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE OSB] 스토리영상디자인]]></title>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B5%AD%EB%82%B4%EC%99%B8%ED%88%AC%EC%9E%90%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/5847444/"/>
         <updated>2021-12-09T02:29:48.985Z</updated>
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] QA (Test Automation Specialist)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/"/>
-        <updated>2021-12-08T02:32:26.263Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
     </entry>
 </feed>
