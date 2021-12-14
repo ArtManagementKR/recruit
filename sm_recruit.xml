@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-12-14T06:12:44.815Z</updated>
+    <updated>2021-12-14T07:10:55.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 언론홍보 담당(경력) 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=693</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=693"/>
+        <updated>2021-12-14T07:10:39.442Z</updated>
+        <content type="html"><![CDATA[2021-12-14 ~ 2021-12-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠 해외유통 담당(경력) 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=686</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=686"/>
+        <updated>2021-12-14T07:10:39.443Z</updated>
+        <content type="html"><![CDATA[2021-12-14 ~ 2021-12-24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 MC매니지먼트 매니저 모집(신입/경력)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=683</id>
@@ -60,19 +74,5 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2021-09-11T04:20:30.342Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2021-12-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream Maker Entertainment 수시채용공고문]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=557</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=557"/>
-        <updated>2021-12-10T14:10:58.532Z</updated>
-        <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 사업전략 담당자(신입/경력) 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=690</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=690"/>
-        <updated>2021-12-04T02:47:07.638Z</updated>
-        <content type="html"><![CDATA[2021-12-03 ~ 2021-12-10]]></content>
     </entry>
 </feed>
