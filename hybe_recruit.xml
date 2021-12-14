@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-12-14T08:13:49.162Z</updated>
+    <updated>2021-12-14T09:11:22.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[HYBE]모델러 (게임배경)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%AA%A8%EB%8D%B8%EB%9F%AC-%28%EA%B2%8C%EC%9E%84%EB%B0%B0%EA%B2%BD%29-%ED%95%9C%EA%B5%AD/6477244/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%AA%A8%EB%8D%B8%EB%9F%AC-%28%EA%B2%8C%EC%9E%84%EB%B0%B0%EA%B2%BD%29-%ED%95%9C%EA%B5%AD/6477244/"/>
-        <updated>2021-12-13T01:56:32.491Z</updated>
-        <content type="html"><![CDATA[Game Business]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[HYBE] HRBP (HR Business Partner)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRBP-%28HR-Business-Partner%29-%ED%95%9C%EA%B5%AD/6481044/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRBP-%28HR-Business-Partner%29-%ED%95%9C%EA%B5%AD/6481044/"/>
         <updated>2021-12-13T09:14:02.242Z</updated>
         <content type="html"><![CDATA[HR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE]모델러 (게임배경)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%AA%A8%EB%8D%B8%EB%9F%AC-%28%EA%B2%8C%EC%9E%84%EB%B0%B0%EA%B2%BD%29-%ED%95%9C%EA%B5%AD/6477244/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%AA%A8%EB%8D%B8%EB%9F%AC-%28%EA%B2%8C%EC%9E%84%EB%B0%B0%EA%B2%BD%29-%ED%95%9C%EA%B5%AD/6477244/"/>
+        <updated>2021-12-13T01:56:32.491Z</updated>
+        <content type="html"><![CDATA[Game Business]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE OSB] 스토리영상디자인]]></title>
