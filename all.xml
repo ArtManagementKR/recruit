@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-15T06:12:35.556Z</updated>
+    <updated>2021-12-15T07:11:06.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2021-12-15T06:12:10.328Z</updated>
+        <updated>2021-12-15T07:10:41.850Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -181,6 +181,20 @@
         <content type="html"><![CDATA[Artist Contents Business]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE] QA (IM) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-QA-%28IM%29-%ED%95%9C%EA%B5%AD/6513844/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-QA-%28IM%29-%ED%95%9C%EA%B5%AD/6513844/"/>
+        <updated>2021-12-15T07:11:05.988Z</updated>
+        <content type="html"><![CDATA[Game Business]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BELIFT LAB] 레이블사업기획/운영 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6514144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6514144/"/>
+        <updated>2021-12-15T07:11:05.988Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[PLEDIS Entertainment] 레이블사업분석/개선 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EB%B6%84%EC%84%9D%EA%B0%9C%EC%84%A0-%ED%95%9C%EA%B5%AD/3971344/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EB%B6%84%EC%84%9D%EA%B0%9C%EC%84%A0-%ED%95%9C%EA%B5%AD/3971344/"/>
@@ -207,19 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%96%B4%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%28Account-Manager%29-%ED%95%9C%EA%B5%AD/6495744/"/>
         <updated>2021-12-14T08:13:48.473Z</updated>
         <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SOURCE MUSIC] A&R팀장 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/3967444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/3967444/"/>
-        <updated>2021-12-13T02:30:19.312Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] HRBP (HR Business Partner) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRBP-%28HR-Business-Partner%29-%ED%95%9C%EA%B5%AD/6481044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRBP-%28HR-Business-Partner%29-%ED%95%9C%EA%B5%AD/6481044/"/>
-        <updated>2021-12-13T09:14:02.242Z</updated>
-        <content type="html"><![CDATA[HR]]></content>
     </entry>
 </feed>
