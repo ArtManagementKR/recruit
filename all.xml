@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-20T03:11:35.923Z</updated>
+    <updated>2021-12-20T04:14:02.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP Three Sixty MD 공개 채용 (JYP RECRUIT)]]></title>
@@ -194,18 +194,18 @@
         <content type="html"><![CDATA[2021.10.22(금) 18:00 ~ 2021.11.07(일) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Weverse Company] 재무기획 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/4123844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/4123844/"/>
-        <updated>2021-12-20T02:36:57.082Z</updated>
-        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[Weverse Company] Senior Tech Recruiter (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Senior-Tech-Recruiter-%ED%95%9C%EA%B5%AD/4296144/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Senior-Tech-Recruiter-%ED%95%9C%EA%B5%AD/4296144/"/>
         <updated>2021-12-20T02:36:57.082Z</updated>
         <content type="html"><![CDATA[HR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 재무기획 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/4123844/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/4123844/"/>
+        <updated>2021-12-20T02:36:57.082Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ADOR] 아티스트기획/캐스팅 (HYBE ─ ALL JOBS)]]></title>
@@ -236,13 +236,6 @@
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[HYBE] 총무(복지운영) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%B4%9D%EB%AC%B4%28%EB%B3%B5%EC%A7%80%EC%9A%B4%EC%98%81%29-%ED%95%9C%EA%B5%AD/4445044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%B4%9D%EB%AC%B4%28%EB%B3%B5%EC%A7%80%EC%9A%B4%EC%98%81%29-%ED%95%9C%EA%B5%AD/4445044/"/>
-        <updated>2021-12-17T02:36:37.049Z</updated>
-        <content type="html"><![CDATA[Service &amp; Support]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[BIGHIT MUSIC] 프로덕션코디네이터 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/5921544/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/5921544/"/>
@@ -262,5 +255,12 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%95%9C%EA%B5%AD/6191144/"/>
         <updated>2021-12-17T02:36:37.053Z</updated>
         <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 뉴미디어콘텐츠제작PD Jr. (SMI-Lab) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91PD-Jr_-%28SMI-Lab%29-%ED%95%9C%EA%B5%AD/6184044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91PD-Jr_-%28SMI-Lab%29-%ED%95%9C%EA%B5%AD/6184044/"/>
+        <updated>2021-12-20T04:14:01.777Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
