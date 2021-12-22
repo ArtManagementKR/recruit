@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-12-22T11:09:51.042Z</updated>
+    <updated>2021-12-22T12:16:43.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -17,13 +17,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%A0%9C%EC%9E%91%28%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%BA%90%EB%A6%AD%ED%84%B0%29-%ED%95%9C%EA%B5%AD/4468444/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%A0%9C%EC%9E%91%28%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%BA%90%EB%A6%AD%ED%84%B0%29-%ED%95%9C%EA%B5%AD/4468444/"/>
         <updated>2021-12-22T02:39:57.901Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE 360] 콘텐츠기획(영상콘텐츠제작)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-360-%EC%BD%98%ED%85%90%EC%B8%A0%EA%B8%B0%ED%9A%8D%28%EC%98%81%EC%83%81%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91%29-%ED%95%9C%EA%B5%AD/6236044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-360-%EC%BD%98%ED%85%90%EC%B8%A0%EA%B8%B0%ED%9A%8D%28%EC%98%81%EC%83%81%EC%BD%98%ED%85%90%EC%B8%A0%EC%A0%9C%EC%9E%91%29-%ED%95%9C%EA%B5%AD/6236044/"/>
-        <updated>2021-12-22T02:39:57.904Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
@@ -74,5 +67,12 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr-%ED%95%9C%EA%B5%AD/5966744/"/>
         <updated>2021-12-22T02:39:57.913Z</updated>
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 기업PR (Corporate PR)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%B0%EC%97%85PR-%28Corporate-PR%29-%ED%95%9C%EA%B5%AD/4601944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%B0%EC%97%85PR-%28Corporate-PR%29-%ED%95%9C%EA%B5%AD/4601944/"/>
+        <updated>2021-12-22T12:16:43.187Z</updated>
+        <content type="html"><![CDATA[Communications]]></content>
     </entry>
 </feed>
