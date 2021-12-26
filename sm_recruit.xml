@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-12-26T13:18:00.338Z</updated>
+    <updated>2021-12-26T14:10:09.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=699"/>
         <updated>2021-12-23T07:10:36.994Z</updated>
         <content type="html"><![CDATA[2021-12-23 ~ 2022-01-03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 언론홍보 담당(경력) 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=693</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=693"/>
-        <updated>2021-12-14T07:10:39.442Z</updated>
-        <content type="html"><![CDATA[2021-12-14 ~ 2021-12-26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 트레이닝 담당자 / 연습생 의전 담당자 채용]]></title>
@@ -74,5 +67,12 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2021-12-24T14:10:16.679Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2021-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Maker Entertainment 수시채용공고문]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=557</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=557"/>
+        <updated>2021-12-26T14:09:51.839Z</updated>
+        <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
     </entry>
 </feed>
