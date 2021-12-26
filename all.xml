@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-26T02:02:28.893Z</updated>
+    <updated>2021-12-26T03:12:56.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP Three Sixty MD 공개 채용 (JYP RECRUIT)]]></title>
@@ -194,6 +194,13 @@
         <content type="html"><![CDATA[2021.11.01(월) 00:00 ~ 2021.11.15(월) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[BIGHIT MUSIC] A&R (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/6007744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/6007744/"/>
+        <updated>2021-12-26T03:12:55.316Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] iOS 개발 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-iOS-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/3888744/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-iOS-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/3888744/"/>
@@ -255,12 +262,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IT%EA%B0%9C%EB%B0%9CPM%28ERP-FCM%29-%ED%95%9C%EA%B5%AD/5976244/"/>
         <updated>2021-12-23T02:35:24.973Z</updated>
         <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] OSB사업관리 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-OSB-OSB%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/5714144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-OSB-OSB%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/5714144/"/>
-        <updated>2021-12-23T02:35:24.974Z</updated>
-        <content type="html"><![CDATA[Business Management]]></content>
     </entry>
 </feed>
