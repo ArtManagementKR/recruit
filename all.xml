@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-28T05:11:41.117Z</updated>
+    <updated>2021-12-28T06:13:33.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP Three Sixty MD 공개 채용 (JYP RECRUIT)]]></title>
@@ -82,13 +82,6 @@
         <content type="html"><![CDATA[2021-12-23 ~ 2022-01-03]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝 담당자 / 연습생 의전 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=692</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=692"/>
-        <updated>2021-12-09T09:10:55.809Z</updated>
-        <content type="html"><![CDATA[2021-12-09 ~ 2021-12-28]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 2021 4분기 정기채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=691</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=691"/>
@@ -96,11 +89,11 @@
         <content type="html"><![CDATA[2021-12-08 ~ 2021-12-28]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 캐스팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=695</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=695"/>
-        <updated>2021-12-16T05:09:57.436Z</updated>
-        <content type="html"><![CDATA[2021-12-16 ~ 2021-12-28]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝 담당자 / 연습생 의전 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=692</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=692"/>
+        <updated>2021-12-09T09:10:55.809Z</updated>
+        <content type="html"><![CDATA[2021-12-09 ~ 2021-12-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 IP라이선스 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
@@ -110,11 +103,11 @@
         <content type="html"><![CDATA[2021-12-15 ~ 2021-12-28]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 동남아 경영관리 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=697</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=697"/>
-        <updated>2021-12-20T10:11:30.652Z</updated>
-        <content type="html"><![CDATA[2021-12-20 ~ 2021-12-31]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 캐스팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=695</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=695"/>
+        <updated>2021-12-16T05:09:57.436Z</updated>
+        <content type="html"><![CDATA[2021-12-16 ~ 2021-12-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용 (SM Entertainment ─ RECRUIT)]]></title>
@@ -122,6 +115,20 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2021-12-24T14:10:16.679Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2021-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 동남아 경영관리 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=697</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=697"/>
+        <updated>2021-12-20T10:11:30.652Z</updated>
+        <content type="html"><![CDATA[2021-12-20 ~ 2021-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경영전략(경력) / 전략 업무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=82443</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=82443"/>
+        <updated>2021-12-28T06:13:24.186Z</updated>
+        <content type="html"><![CDATA[2021.12.28(화) 00:00 ~ 2022.01.11(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IT센터(경력) / IT 기획 담당자 (YG Entertainment ─ RECRUIT)]]></title>
@@ -184,13 +191,6 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=76466</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=76466"/>
         <updated>2021-11-01T02:34:45.129Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 00:00 ~ 2021.11.15(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021 하반기 공개채용] 기획/콘텐츠 제작 부문 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=76451</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=76451"/>
-        <updated>2021-11-01T02:34:45.145Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 00:00 ~ 2021.11.15(월) 18:00]]></content>
     </entry>
     <entry>

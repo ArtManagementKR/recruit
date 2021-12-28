@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2021-12-28T05:11:41.155Z</updated>
+    <updated>2021-12-28T06:13:33.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[2021-12-23 ~ 2022-01-03]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝 담당자 / 연습생 의전 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=692</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=692"/>
-        <updated>2021-12-09T09:10:55.809Z</updated>
-        <content type="html"><![CDATA[2021-12-09 ~ 2021-12-28]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 2021 4분기 정기채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=691</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=691"/>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[2021-12-08 ~ 2021-12-28]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 캐스팅 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=695</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=695"/>
-        <updated>2021-12-16T05:09:57.436Z</updated>
-        <content type="html"><![CDATA[2021-12-16 ~ 2021-12-28]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝 담당자 / 연습생 의전 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=692</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=692"/>
+        <updated>2021-12-09T09:10:55.809Z</updated>
+        <content type="html"><![CDATA[2021-12-09 ~ 2021-12-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 IP라이선스 담당자 채용]]></title>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[2021-12-15 ~ 2021-12-28]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 동남아 경영관리 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=697</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=697"/>
-        <updated>2021-12-20T10:11:30.652Z</updated>
-        <content type="html"><![CDATA[2021-12-20 ~ 2021-12-31]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 캐스팅 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=695</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=695"/>
+        <updated>2021-12-16T05:09:57.436Z</updated>
+        <content type="html"><![CDATA[2021-12-16 ~ 2021-12-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
@@ -74,5 +67,12 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2021-12-24T14:10:16.679Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2021-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 동남아 경영관리 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=697</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=697"/>
+        <updated>2021-12-20T10:11:30.652Z</updated>
+        <content type="html"><![CDATA[2021-12-20 ~ 2021-12-31]]></content>
     </entry>
 </feed>
