@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2021-12-29T06:13:27.295Z</updated>
+    <updated>2021-12-29T07:11:02.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/4512344/"/>
         <updated>2021-12-27T02:36:04.555Z</updated>
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PLEDIS Entertainment] 스타일디렉팅]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/4173844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/4173844/"/>
-        <updated>2021-12-27T02:36:04.555Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE IM]컨셉아티스트 (게임배경)]]></title>
@@ -74,5 +67,12 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EC%BA%90%EB%A6%AD%ED%84%B0%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010444/"/>
         <updated>2021-12-23T02:35:24.967Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE OSB] UX/UI디자인 (스토리사업)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-UXUI%EB%94%94%EC%9E%90%EC%9D%B8-%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-UXUI%EB%94%94%EC%9E%90%EC%9D%B8-%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009144/"/>
+        <updated>2021-12-29T07:11:01.902Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
     </entry>
 </feed>
