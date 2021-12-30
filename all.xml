@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-30T01:58:14.016Z</updated>
+    <updated>2021-12-30T02:33:20.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2021-12-30T01:57:52.383Z</updated>
+        <updated>2021-12-30T02:32:59.078Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[2021-01-14 ~ 2022-01-10]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 중국마케팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=702</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=702"/>
+        <updated>2021-12-30T02:33:04.948Z</updated>
+        <content type="html"><![CDATA[2021-12-30 ~ 2022-01-12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=556</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
@@ -74,13 +81,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=693"/>
         <updated>2021-12-29T02:33:44.185Z</updated>
         <content type="html"><![CDATA[2021-12-14 ~ 2021-12-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 MC매니지먼트 매니저 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=683</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=683"/>
-        <updated>2021-12-29T02:33:44.187Z</updated>
-        <content type="html"><![CDATA[2021-11-23 ~ 2021-12-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경영전략(경력) / 전략 업무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
@@ -153,6 +153,34 @@
         <content type="html"><![CDATA[2021.11.01(월) 00:00 ~ 2021.11.15(월) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[ADOR] 경영기획 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B2%BD%EC%98%81%EA%B8%B0%ED%9A%8D-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/6030544/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B2%BD%EC%98%81%EA%B8%B0%ED%9A%8D-%28%EC%8B%A0%EA%B7%9C-%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/6030544/"/>
+        <updated>2021-12-30T02:33:19.704Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 플랫폼사업운영 (멤버십/콘서트) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%82%AC%EC%97%85%EC%9A%B4%EC%98%81-%28%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%BD%98%EC%84%9C%ED%8A%B8%29-%ED%95%9C%EA%B5%AD/4275044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%82%AC%EC%97%85%EC%9A%B4%EC%98%81-%28%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%BD%98%EC%84%9C%ED%8A%B8%29-%ED%95%9C%EA%B5%AD/4275044/"/>
+        <updated>2021-12-30T02:33:19.704Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BELIFT LAB] 재무/회계Sr (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr-%ED%95%9C%EA%B5%AD/6030344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr-%ED%95%9C%EA%B5%AD/6030344/"/>
+        <updated>2021-12-30T02:33:19.707Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] IT개발(웹서비스개발) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IT%EA%B0%9C%EB%B0%9C%28%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C%29-%ED%95%9C%EA%B5%AD/6034444/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IT%EA%B0%9C%EB%B0%9C%28%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C%29-%ED%95%9C%EA%B5%AD/6034444/"/>
+        <updated>2021-12-30T02:33:19.707Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] 멤버십사업기획/관리 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/6308944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/6308944/"/>
@@ -193,33 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85Jr_-%ED%95%9C%EA%B5%AD/4669744/"/>
         <updated>2021-12-24T02:33:13.606Z</updated>
         <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] DevOps (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-DevOps-%ED%95%9C%EA%B5%AD/4085344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-DevOps-%ED%95%9C%EA%B5%AD/4085344/"/>
-        <updated>2021-12-29T14:10:05.150Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] UX/UI디자인 (스토리사업) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-UXUI%EB%94%94%EC%9E%90%EC%9D%B8-%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-UXUI%EB%94%94%EC%9E%90%EC%9D%B8-%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009144/"/>
-        <updated>2021-12-29T07:11:01.902Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] 스토리컨셉아트 (캐릭터디자인) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EC%BA%90%EB%A6%AD%ED%84%B0%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EC%BA%90%EB%A6%AD%ED%84%B0%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010444/"/>
-        <updated>2021-12-23T02:35:24.967Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] 스토리컨셉아트 (배경디자인) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EB%B0%B0%EA%B2%BD%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EB%B0%B0%EA%B2%BD%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010344/"/>
-        <updated>2021-12-29T20:11:53.158Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
