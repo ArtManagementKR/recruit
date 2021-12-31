@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-31T06:13:11.844Z</updated>
+    <updated>2021-12-31T07:10:37.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2021-12-31T06:12:50.190Z</updated>
+        <updated>2021-12-31T07:10:13.656Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM브랜드마케팅 경영기획 담당자(신입/경력) 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=703</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=703"/>
+        <updated>2021-12-31T07:10:19.195Z</updated>
+        <content type="html"><![CDATA[2021-12-31 ~ 2022-01-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 연기자매니지먼트 매니저 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
@@ -74,13 +81,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2021-12-24T14:10:16.679Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2022-03-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 언론홍보 담당(경력) 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=693</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=693"/>
-        <updated>2021-12-29T02:33:44.185Z</updated>
-        <content type="html"><![CDATA[2021-12-14 ~ 2021-12-26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경영전략(경력) / 전략 업무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
