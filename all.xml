@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-04T02:01:04.536Z</updated>
+    <updated>2022-01-04T02:40:28.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-01-04T02:00:37.346Z</updated>
+        <updated>2022-01-04T02:40:04.683Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -104,6 +104,20 @@
         <content type="html"><![CDATA[2021.12.21(화) 00:00 ~ 2022.01.11(화) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[상시 채용] 배우매니저(신입 및 경력) / 매니지먼트 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=54059</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=54059"/>
+        <updated>2022-01-04T02:40:18.786Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 15:00 ~ 2022.12.31(토) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[상시 채용] 가수매니저(신입 및 경력) / 매니지먼트 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=54065</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=54065"/>
+        <updated>2022-01-04T02:40:18.787Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 15:00 ~ 2022.12.31(토) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인사(경력) / 인사 관리 담당자 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=81551</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=81551"/>
@@ -139,18 +153,18 @@
         <content type="html"><![CDATA[2021.12.08(수) 00:00 ~ 2021.12.22(수) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[YGX] 경영관리(신입 및 경력) / 회계 및 총무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=79780</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=79780"/>
-        <updated>2021-12-04T02:47:15.343Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 00:00 ~ 2021.12.15(수) 18:00]]></content>
+        <title type="html"><![CDATA[[Weverse Company] 프론트엔드 개발 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/"/>
+        <updated>2022-01-04T02:40:27.588Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2021 하반기 공개채용] 매니저 부문 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=76466</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=76466"/>
-        <updated>2021-11-01T02:34:45.129Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 00:00 ~ 2021.11.15(월) 18:00]]></content>
+        <title type="html"><![CDATA[[Weverse Company] QA (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/"/>
+        <updated>2022-01-04T02:40:27.588Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE] 프로덕션코디네이터(빌리프랩 담당) (HYBE ─ ALL JOBS)]]></title>
@@ -207,19 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%94%94%EC%9E%90%EC%9D%B8%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/6374944/"/>
         <updated>2022-01-01T03:13:17.538Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BELIFT LAB] 레이블사업기획/운영Jr. (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/4812344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/4812344/"/>
-        <updated>2022-01-01T03:13:17.535Z</updated>
-        <content type="html"><![CDATA[Business Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] CS운영/관리 (Weverse Shop) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-CS%EC%9A%B4%EC%98%81%EA%B4%80%EB%A6%AC-%28Weverse-Shop%29-%ED%95%9C%EA%B5%AD/3994644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-CS%EC%9A%B4%EC%98%81%EA%B4%80%EB%A6%AC-%28Weverse-Shop%29-%ED%95%9C%EA%B5%AD/3994644/"/>
-        <updated>2021-12-31T02:40:20.180Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
