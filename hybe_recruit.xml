@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-01-07T00:40:05.122Z</updated>
+    <updated>2022-01-07T02:11:44.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] T&D운영]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6801244/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6801244/"/>
+        <updated>2022-01-07T02:11:43.702Z</updated>
+        <content type="html"><![CDATA[Artist Development]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] QA (Test Automation Specialist)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/</id>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Game-Community-Manager-%ED%95%9C%EA%B5%AD/6733144/"/>
         <updated>2022-01-03T06:13:28.875Z</updated>
         <content type="html"><![CDATA[Game Business]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 데이터엔지니어]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/"/>
-        <updated>2022-01-02T03:12:07.506Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
