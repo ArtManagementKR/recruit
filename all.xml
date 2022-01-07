@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T02:11:44.417Z</updated>
+    <updated>2022-01-07T03:14:42.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-01-07T02:11:21.198Z</updated>
+        <updated>2022-01-07T03:14:18.258Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -153,11 +153,39 @@
         <content type="html"><![CDATA[2021.12.08(수) 00:00 ~ 2021.12.22(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE] 글로벌 사업기획 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/6087144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/6087144/"/>
+        <updated>2022-01-07T03:14:41.424Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 위버스PM (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9C%84%EB%B2%84%EC%8A%A4PM-%ED%95%9C%EA%B5%AD/5959244/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9C%84%EB%B2%84%EC%8A%A4PM-%ED%95%9C%EA%B5%AD/5959244/"/>
+        <updated>2022-01-07T03:14:41.425Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 국내외투자담당 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B5%AD%EB%82%B4%EC%99%B8%ED%88%AC%EC%9E%90%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/5847444/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B5%AD%EB%82%B4%EC%99%B8%ED%88%AC%EC%9E%90%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/5847444/"/>
+        <updated>2022-01-07T03:14:41.427Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HYBE] T&D운영 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6801244/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-T&amp;D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6801244/"/>
         <updated>2022-01-07T02:11:43.702Z</updated>
         <content type="html"><![CDATA[Artist Development]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ADOR] 아티스트의전 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/6802344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/6802344/"/>
+        <updated>2022-01-07T03:14:41.431Z</updated>
+        <content type="html"><![CDATA[Artist Management]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] QA (Test Automation Specialist) (HYBE ─ ALL JOBS)]]></title>
@@ -193,33 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%AC%EC%8B%9C%EB%AC%B8%EA%B5%AC%ED%8C%A8%ED%82%A4%EC%A7%80%29-%ED%95%9C%EA%B5%AD/6062644/"/>
         <updated>2022-01-05T03:12:19.106Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프론트엔드 개발 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/"/>
-        <updated>2022-01-04T02:40:27.588Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] QA (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/"/>
-        <updated>2022-01-04T02:40:27.588Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 프로덕션코디네이터(빌리프랩 담당) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/5814144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/5814144/"/>
-        <updated>2022-01-03T02:38:01.410Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IM] Game Community Manager (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Game-Community-Manager-%ED%95%9C%EA%B5%AD/6733144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Game-Community-Manager-%ED%95%9C%EA%B5%AD/6733144/"/>
-        <updated>2022-01-03T06:13:28.875Z</updated>
-        <content type="html"><![CDATA[Game Business]]></content>
     </entry>
 </feed>
