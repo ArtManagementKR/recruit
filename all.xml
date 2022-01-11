@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T04:14:00.482Z</updated>
+    <updated>2022-01-11T05:11:54.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-01-11T04:13:36.414Z</updated>
+        <updated>2022-01-11T05:11:29.557Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[HR]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[ADOR] 미디어프로모션 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EB%AF%B8%EB%94%94%EC%96%B4%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%ED%95%9C%EA%B5%AD/6847944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EB%AF%B8%EB%94%94%EC%96%B4%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%ED%95%9C%EA%B5%AD/6847944/"/>
+        <updated>2022-01-11T05:11:53.749Z</updated>
+        <content type="html"><![CDATA[Artist Management]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HYBE OSB] 스토리영상디자인 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%98%81%EC%83%81%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%9C%EA%B5%AD/4422944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%98%81%EC%83%81%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%9C%EA%B5%AD/4422944/"/>
@@ -214,12 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9C%84%EB%B2%84%EC%8A%A4PM-%ED%95%9C%EA%B5%AD/5959244/"/>
         <updated>2022-01-07T03:14:41.425Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 국내외투자담당 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B5%AD%EB%82%B4%EC%99%B8%ED%88%AC%EC%9E%90%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/5847444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B5%AD%EB%82%B4%EC%99%B8%ED%88%AC%EC%9E%90%EB%8B%B4%EB%8B%B9-%ED%95%9C%EA%B5%AD/5847444/"/>
-        <updated>2022-01-07T03:14:41.427Z</updated>
-        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
 </feed>
