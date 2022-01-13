@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-01-13T06:13:21.441Z</updated>
+    <updated>2022-01-13T07:10:59.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이터인사이트(인턴) / 데이터 수집, 분석 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=84082</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=84082"/>
+        <updated>2022-01-13T07:10:50.069Z</updated>
+        <content type="html"><![CDATA[2022.01.13(목) 15:00 ~ 2022.01.27(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[상시 채용] 가수매니저(신입 및 경력) / 매니지먼트 담당자]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=54065</id>
@@ -67,12 +74,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=81361"/>
         <updated>2021-12-21T06:12:58.293Z</updated>
         <content type="html"><![CDATA[2021.12.21(화) 00:00 ~ 2022.01.11(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인사(경력) / 인사 관리 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=81551</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=81551"/>
-        <updated>2021-12-16T08:14:42.902Z</updated>
-        <content type="html"><![CDATA[2021.12.16(목) 18:00 ~ 2022.01.02(일) 18:00]]></content>
     </entry>
 </feed>
