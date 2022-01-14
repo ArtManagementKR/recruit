@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-01-14T07:10:43.995Z</updated>
+    <updated>2022-01-14T08:14:30.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-OSB-OSB%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/6908444/"/>
         <updated>2022-01-14T05:12:41.929Z</updated>
         <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BELIFT LAB] 미디어프로모션]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%AF%B8%EB%94%94%EC%96%B4%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%ED%95%9C%EA%B5%AD/6910944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%AF%B8%EB%94%94%EC%96%B4%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%ED%95%9C%EA%B5%AD/6910944/"/>
+        <updated>2022-01-14T08:14:29.670Z</updated>
+        <content type="html"><![CDATA[Artist Management]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE IPX] 브랜드마케팅팀장 (IPX)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Jr-%ED%95%9C%EA%B5%AD/6886344/"/>
         <updated>2022-01-13T03:13:23.229Z</updated>
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 어카운트 매니저 (Account Manager)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%96%B4%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%28Account-Manager%29-%ED%95%9C%EA%B5%AD/6495744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%96%B4%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%28Account-Manager%29-%ED%95%9C%EA%B5%AD/6495744/"/>
-        <updated>2022-01-12T03:13:36.315Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
