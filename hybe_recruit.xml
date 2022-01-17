@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-01-17T02:03:24.272Z</updated>
+    <updated>2022-01-17T03:13:49.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ADOR] 아티스트기획/캐스팅]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EA%B8%B0%ED%9A%8D%EC%BA%90%EC%8A%A4%ED%8C%85-%28%EC%8B%A0%EA%B7%9C%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5691944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EA%B8%B0%ED%9A%8D%EC%BA%90%EC%8A%A4%ED%8C%85-%28%EC%8B%A0%EA%B7%9C%EB%A0%88%EC%9D%B4%EB%B8%94%29-%ED%95%9C%EA%B5%AD/5691944/"/>
+        <updated>2022-01-17T03:13:49.157Z</updated>
+        <content type="html"><![CDATA[Artist Development]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(커뮤니티)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%29-%ED%95%9C%EA%B5%AD/4111944/</id>
@@ -66,13 +73,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-DB-Administrator-%ED%95%9C%EA%B5%AD/6174044/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-DB-Administrator-%ED%95%9C%EA%B5%AD/6174044/"/>
         <updated>2022-01-14T03:13:09.610Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(커머스)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%A8%B8%EC%8A%A4%29-%ED%95%9C%EA%B5%AD/4111844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%A8%B8%EC%8A%A4%29-%ED%95%9C%EA%B5%AD/4111844/"/>
-        <updated>2022-01-14T03:13:09.608Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
