@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-24T01:59:19.971Z</updated>
+    <updated>2022-01-24T02:33:29.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-01-24T01:58:56.896Z</updated>
+        <updated>2022-01-24T02:33:06.668Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[2022.01.07(금) 00:00 ~ 2022.01.16(일) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[BIGHIT MUSIC] A&R (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/6007744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/6007744/"/>
+        <updated>2022-01-24T02:33:29.112Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] iOS 개발 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-iOS-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/3888744/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-iOS-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/3888744/"/>
@@ -214,12 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9D%B8%EC%82%AC%EA%B8%B0%ED%9A%8D%28ER%29-%ED%95%9C%EA%B5%AD/6260544/"/>
         <updated>2022-01-21T02:26:46.147Z</updated>
         <content type="html"><![CDATA[HR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIGHIT MUSIC] 아티스트마케팅 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/7009844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/7009844/"/>
-        <updated>2022-01-21T10:12:08.504Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
