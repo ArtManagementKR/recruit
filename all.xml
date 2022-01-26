@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T09:10:34.391Z</updated>
+    <updated>2022-01-26T10:11:18.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-01-26T09:10:09.892Z</updated>
+        <updated>2022-01-26T10:10:55.522Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[2022.01.04(화) 12:00 ~ 2022.12.31(토) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[글로벌경영관리(경력) / 글로벌 지사 관리 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86301</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86301"/>
+        <updated>2022-01-26T10:11:08.506Z</updated>
+        <content type="html"><![CDATA[2022.01.26(수) 18:00 ~ 2022.02.09(수) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[YGX] 아카데미 운영(신입 및 경력) / X ACADEMY 행정 지원 업무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86013</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86013"/>
@@ -146,13 +153,6 @@
         <content type="html"><![CDATA[2021.12.28(화) 00:00 ~ 2022.01.18(화) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경영관리(경력) / IR 업무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83312</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83312"/>
-        <updated>2022-01-04T09:10:57.642Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 18:00 ~ 2022.01.18(화) 18:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[Weverse Company] 멤버십사업기획/관리 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/6308944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/6308944/"/>
@@ -160,11 +160,11 @@
         <content type="html"><![CDATA[Business Management]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[HED] 디지털교육제작 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HED-%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%90%EC%9C%A1%EC%A0%9C%EC%9E%91-%ED%95%9C%EA%B5%AD/7064144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HED-%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%90%EC%9C%A1%EC%A0%9C%EC%9E%91-%ED%95%9C%EA%B5%AD/7064144/"/>
-        <updated>2022-01-26T07:10:27.227Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
+        <title type="html"><![CDATA[[HYB] 위버스매거진 인턴* (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYB-%EC%9C%84%EB%B2%84%EC%8A%A4%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%9D%B8%ED%84%B4-%ED%95%9C%EA%B5%AD/7064644/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYB-%EC%9C%84%EB%B2%84%EC%8A%A4%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%9D%B8%ED%84%B4-%ED%95%9C%EA%B5%AD/7064644/"/>
+        <updated>2022-01-26T09:10:33.715Z</updated>
+        <content type="html"><![CDATA[Communications]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE] 재무/회계Sr. (HYBE ─ ALL JOBS)]]></title>
@@ -174,11 +174,11 @@
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[HYB] 위버스매거진 인턴 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYB-%EC%9C%84%EB%B2%84%EC%8A%A4%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%9D%B8%ED%84%B4-%ED%95%9C%EA%B5%AD/7064644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYB-%EC%9C%84%EB%B2%84%EC%8A%A4%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%9D%B8%ED%84%B4-%ED%95%9C%EA%B5%AD/7064644/"/>
-        <updated>2022-01-26T09:10:33.715Z</updated>
-        <content type="html"><![CDATA[Communications]]></content>
+        <title type="html"><![CDATA[[HED] 디지털교육제작* (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HED-%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%90%EC%9C%A1%EC%A0%9C%EC%9E%91-%ED%95%9C%EA%B5%AD/7064144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HED-%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%90%EC%9C%A1%EC%A0%9C%EC%9E%91-%ED%95%9C%EA%B5%AD/7064144/"/>
+        <updated>2022-01-26T07:10:27.227Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE IM]컨셉아티스트 (게임배경) (HYBE ─ ALL JOBS)]]></title>
