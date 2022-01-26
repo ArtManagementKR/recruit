@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-01-26T07:10:27.849Z</updated>
+    <updated>2022-01-26T08:12:10.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HED-%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%90%EC%9C%A1%EC%A0%9C%EC%9E%91-%ED%95%9C%EA%B5%AD/7064144/"/>
         <updated>2022-01-26T07:10:27.227Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 재무/회계Sr.]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr_-%ED%95%9C%EA%B5%AD/7064244/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr_-%ED%95%9C%EA%B5%AD/7064244/"/>
+        <updated>2022-01-26T08:12:10.084Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE IM]컨셉아티스트 (게임배경)]]></title>
@@ -66,13 +73,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-UXUI%EB%94%94%EC%9E%90%EC%9D%B8-%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009144/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-UXUI%EB%94%94%EC%9E%90%EC%9D%B8-%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009144/"/>
         <updated>2022-01-21T02:26:46.139Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] DevOps]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-DevOps-%ED%95%9C%EA%B5%AD/4085344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-DevOps-%ED%95%9C%EA%B5%AD/4085344/"/>
-        <updated>2022-01-21T02:26:46.141Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
