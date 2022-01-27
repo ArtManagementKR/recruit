@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-27T12:15:52.476Z</updated>
+    <updated>2022-01-27T13:16:42.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-01-27T12:15:29.145Z</updated>
+        <updated>2022-01-27T13:16:19.230Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -111,6 +111,27 @@
         <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.18(금) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IT개발(경력) / 백엔드 및 백오피스 개발자(BE) (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85926</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85926"/>
+        <updated>2022-01-27T13:16:33.029Z</updated>
+        <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.18(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT개발(경력) / 프론트 및 웹 개발자(FE) (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85923</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85923"/>
+        <updated>2022-01-27T13:16:33.030Z</updated>
+        <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.18(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT개발(경력) / 데이터 엔지니어(DE) (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85920</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85920"/>
+        <updated>2022-01-27T13:16:33.032Z</updated>
+        <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.18(금) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[글로벌사업(경력) / 글로벌 사업 담당자 * 연장 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83552</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83552"/>
@@ -130,27 +151,6 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86013"/>
         <updated>2022-01-25T02:33:56.549Z</updated>
         <content type="html"><![CDATA[2022.01.25(화) 10:00 ~ 2022.02.08(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IP사업(경력) / IP사업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85101</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85101"/>
-        <updated>2022-01-21T06:13:01.668Z</updated>
-        <content type="html"><![CDATA[2022.01.21(금) 18:00 ~ 2022.02.06(일) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터인사이트(인턴) / 데이터 수집, 분석 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=84082</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=84082"/>
-        <updated>2022-01-13T07:10:50.069Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 15:00 ~ 2022.01.27(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌경영관리(경력) / 글로벌 지사 관리 담당자 * 연장 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83560</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83560"/>
-        <updated>2022-01-11T08:14:10.102Z</updated>
-        <content type="html"><![CDATA[2022.01.11(화) 17:00 ~ 2022.01.26(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 멤버십사업기획/관리 (HYBE ─ ALL JOBS)]]></title>
