@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-01-27T06:12:30.798Z</updated>
+    <updated>2022-01-27T07:10:42.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://recruit.smentertainment.com/Employ?employNo=718</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=718"/>
         <updated>2022-01-20T09:10:53.809Z</updated>
-        <content type="html"><![CDATA[2022-01-20 ~ 2022-01-31]]></content>
+        <content type="html"><![CDATA[2022-01-20 ~ 2022-02-02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 동남아 매니지먼트 담당자 채용]]></title>
