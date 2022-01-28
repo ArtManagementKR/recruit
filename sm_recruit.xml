@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-01-28T13:13:45.482Z</updated>
+    <updated>2022-01-28T14:09:45.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -41,20 +41,6 @@
         <content type="html"><![CDATA[2022-01-19 ~ 2022-01-31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 경영기획 담당자(신입/경력) 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=703</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=703"/>
-        <updated>2021-12-31T07:10:19.195Z</updated>
-        <content type="html"><![CDATA[2021-12-31 ~ 2022-01-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 재무관리 정산담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=709</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=709"/>
-        <updated>2022-01-10T14:10:39.134Z</updated>
-        <content type="html"><![CDATA[2022-01-06 ~ 2022-01-28]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 연결회계 / 그룹택스 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=718</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=718"/>
@@ -74,5 +60,19 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2022-01-11T15:12:44.427Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2022-03-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM브랜드마케팅 경영기획 담당자(신입/경력) 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=703</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=703"/>
+        <updated>2021-12-31T07:10:19.195Z</updated>
+        <content type="html"><![CDATA[2021-12-31 ~ 2022-01-28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 재무관리 정산담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=709</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=709"/>
+        <updated>2022-01-10T14:10:39.134Z</updated>
+        <content type="html"><![CDATA[2022-01-06 ~ 2022-01-28]]></content>
     </entry>
 </feed>
