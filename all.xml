@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T03:10:33.293Z</updated>
+    <updated>2022-01-28T04:13:05.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-01-28T03:10:07.462Z</updated>
+        <updated>2022-01-28T04:12:40.355Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.18(금) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[법무(신입 및 경력) / 법무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85202</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85202"/>
+        <updated>2022-01-28T04:12:55.358Z</updated>
+        <content type="html"><![CDATA[2022.01.28(금) 12:00 ~ 2022.02.13(일) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[글로벌사업(경력) / 글로벌 사업 담당자 * 연장 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83552</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=83552"/>
@@ -144,13 +151,6 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86301"/>
         <updated>2022-01-26T10:11:08.506Z</updated>
         <content type="html"><![CDATA[2022.01.26(수) 18:00 ~ 2022.02.09(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[YGX] 아카데미 운영(신입 및 경력) / X ACADEMY 행정 지원 업무 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86013</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=86013"/>
-        <updated>2022-01-25T02:33:56.549Z</updated>
-        <content type="html"><![CDATA[2022.01.25(화) 10:00 ~ 2022.02.08(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE] IT개발(웹서비스개발) (HYBE ─ ALL JOBS)]]></title>
