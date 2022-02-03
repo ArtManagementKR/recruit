@@ -2,15 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.jype.com/Recruit</id>
     <title>JYP RECRUIT</title>
-    <updated>2022-02-03T14:10:47.049Z</updated>
+    <updated>2022-02-03T15:10:08.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.jype.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://recruit.jype.com/Recruit</id>
-        <link href="https://recruit.jype.com/Recruit"/>
-        <updated>2022-02-03T14:10:18.870Z</updated>
-        <content type="html"><![CDATA[<!-- 목록없음 -->
-                진행중인 채용공고가 없습니다.]]></content>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=523&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=523&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.112Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 마케팅 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=524&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=524&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.112Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 팬마케팅 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=525&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=525&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.113Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 영상 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=526&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=526&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.113Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 Music 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=527&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=527&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.113Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 Production 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=528&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=528&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.122Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 Production Coordinator 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=529&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=529&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.124Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 디자인 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=530&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=530&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.125Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 연출가 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=541&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=541&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.126Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 안무가 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=531&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=531&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.130Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트 Admin 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=544&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=544&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.130Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 JYP엔터테인먼트  홍보 공개 채용]]></title>
+        <id>https://recruit.jype.com/Recruit/Detail?Seq=543&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
+        <link href="https://recruit.jype.com/Recruit/Detail?Seq=543&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
+        <updated>2022-02-03T15:09:42.131Z</updated>
+        <content type="html"><![CDATA[2022-02-04 ~ 2022-02-15]]></content>
     </entry>
 </feed>
