@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-02-07T15:10:21.740Z</updated>
+    <updated>2022-02-07T16:14:23.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[BELIFT LAB] 레이블사업기획/운영Jr.]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/7171044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/7171044/"/>
+        <updated>2022-02-07T16:14:23.279Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[BIGHIT MUSIC] 아티스트 의전]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8-%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/3941844/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8-%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/3941844/"/>
@@ -66,13 +73,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/3939044/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%94%94%EB%A0%89%ED%8C%85-%ED%95%9C%EA%B5%AD/3939044/"/>
         <updated>2022-02-03T02:22:27.804Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 상품디자인(팬시/문구/패키지)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%AC%EC%8B%9C%EB%AC%B8%EA%B5%AC%ED%8C%A8%ED%82%A4%EC%A7%80%29-%ED%95%9C%EA%B5%AD/6062644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%AC%EC%8B%9C%EB%AC%B8%EA%B5%AC%ED%8C%A8%ED%82%A4%EC%A7%80%29-%ED%95%9C%EA%B5%AD/6062644/"/>
-        <updated>2022-02-07T06:12:50.968Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
