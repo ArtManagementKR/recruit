@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-02-08T07:10:11.651Z</updated>
+    <updated>2022-02-08T08:12:32.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6834244/"/>
         <updated>2022-02-08T02:26:32.920Z</updated>
         <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BIGHIT MUSIC] Visual Creative Sr.]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Visual-Creative-Sr_-%ED%95%9C%EA%B5%AD/7213044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Visual-Creative-Sr_-%ED%95%9C%EA%B5%AD/7213044/"/>
+        <updated>2022-02-08T08:12:31.937Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE] 글로벌아티스트 PR]]></title>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%28Test-Automation-Specialist%29-%ED%95%9C%EA%B5%AD/4065644/"/>
         <updated>2022-02-04T03:09:47.249Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BELIFT LAB] 레이블사업기획/운영Jr.]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/7171044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81Jr_-%ED%95%9C%EA%B5%AD/7171044/"/>
-        <updated>2022-02-07T16:14:23.279Z</updated>
-        <content type="html"><![CDATA[Business Management]]></content>
     </entry>
 </feed>
