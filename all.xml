@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-10T09:10:36.340Z</updated>
+    <updated>2022-02-10T10:12:04.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -271,6 +271,13 @@
         <content type="html"><![CDATA[Game Business]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Weverse Company] 데이터분석가 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%ED%95%9C%EA%B5%AD/7246244/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%ED%95%9C%EA%B5%AD/7246244/"/>
+        <updated>2022-02-10T10:12:04.220Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HYBE IM]모델러 (게임배경) (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%AA%A8%EB%8D%B8%EB%9F%AC-%28%EA%B2%8C%EC%9E%84%EB%B0%B0%EA%B2%BD%29-%ED%95%9C%EA%B5%AD/6477244/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%AA%A8%EB%8D%B8%EB%9F%AC-%28%EA%B2%8C%EC%9E%84%EB%B0%B0%EA%B2%BD%29-%ED%95%9C%EA%B5%AD/6477244/"/>
@@ -290,12 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EB%AF%B8%EB%94%94%EC%96%B4%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%ED%95%9C%EA%B5%AD/6847944/"/>
         <updated>2022-02-09T02:35:35.834Z</updated>
         <content type="html"><![CDATA[Artist Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SOURCE MUSIC] A&R팀장 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/3967444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/3967444/"/>
-        <updated>2022-02-09T02:35:35.836Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
