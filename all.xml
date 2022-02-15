@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-15T09:11:27.882Z</updated>
+    <updated>2022-02-15T10:12:34.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -124,6 +124,13 @@
         <content type="html"><![CDATA[2022-02-10 ~ 2022-02-21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 회계 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=735</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=735"/>
+        <updated>2022-02-15T10:12:16.948Z</updated>
+        <content type="html"><![CDATA[2022-02-15 ~ 2022-02-20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 웹 디자이너 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=725</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=725"/>
@@ -149,13 +156,6 @@
         <id>https://recruit.smentertainment.com/Employ?employNo=727</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=727"/>
         <updated>2022-02-13T14:09:51.433Z</updated>
-        <content type="html"><![CDATA[2022-02-09 ~ 2022-02-22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 퍼포먼스디렉팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=726</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=726"/>
-        <updated>2022-02-13T14:09:51.435Z</updated>
         <content type="html"><![CDATA[2022-02-09 ~ 2022-02-22]]></content>
     </entry>
     <entry>
