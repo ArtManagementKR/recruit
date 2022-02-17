@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T04:13:27.038Z</updated>
+    <updated>2022-02-17T05:09:54.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -271,6 +271,20 @@
         <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Weverse Company] Localization Specialist (일본어) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Localization-Specialist-%28%EC%9D%BC%EB%B3%B8%EC%96%B4%29-%ED%95%9C%EA%B5%AD/7330444/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Localization-Specialist-%28%EC%9D%BC%EB%B3%B8%EC%96%B4%29-%ED%95%9C%EA%B5%AD/7330444/"/>
+        <updated>2022-02-17T05:09:54.045Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] Localization Specialist (영어) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Localization-Specialist-%28%EC%98%81%EC%96%B4%29-%ED%95%9C%EA%B5%AD/7330344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Localization-Specialist-%28%EC%98%81%EC%96%B4%29-%ED%95%9C%EA%B5%AD/7330344/"/>
+        <updated>2022-02-17T05:09:54.045Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] Senior Tech Recruiter (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Senior-Tech-Recruiter-%ED%95%9C%EA%B5%AD/4296144/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-Senior-Tech-Recruiter-%ED%95%9C%EA%B5%AD/4296144/"/>
@@ -283,19 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/4123844/"/>
         <updated>2022-02-16T03:11:15.606Z</updated>
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(플랫폼) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%ED%94%8C%EB%9E%AB%ED%8F%BC%29-%ED%95%9C%EA%B5%AD/6948344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%ED%94%8C%EB%9E%AB%ED%8F%BC%29-%ED%95%9C%EA%B5%AD/6948344/"/>
-        <updated>2022-02-16T03:11:15.606Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PLEDIS Entertainment] 아티스트마케팅 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/7308744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/7308744/"/>
-        <updated>2022-02-16T04:12:43.276Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
