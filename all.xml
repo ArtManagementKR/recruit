@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-22T01:56:13.101Z</updated>
+    <updated>2022-02-22T02:25:25.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -229,6 +229,13 @@
         <content type="html"><![CDATA[2022.01.27(목) 15:00 ~ 2022.02.24(목) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[BIGHIT MUSIC] A&R (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/6007744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/6007744/"/>
+        <updated>2022-02-22T02:25:25.052Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HYBE IPX] IPX_기획MD팀 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-IPX_%EA%B8%B0%ED%9A%8DMD%ED%8C%80-%ED%95%9C%EA%B5%AD/7382144/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-IPX_%EA%B8%B0%ED%9A%8DMD%ED%8C%80-%ED%95%9C%EA%B5%AD/7382144/"/>
@@ -290,12 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-UXUI%EB%94%94%EC%9E%90%EC%9D%B8-%28%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009144/"/>
         <updated>2022-02-19T02:27:44.081Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIGHIT MUSIC] 정산관리 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/7009344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/7009344/"/>
-        <updated>2022-02-19T02:27:44.082Z</updated>
-        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
 </feed>
