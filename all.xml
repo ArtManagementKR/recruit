@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T08:13:22.059Z</updated>
+    <updated>2022-02-24T09:11:40.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -222,11 +222,11 @@
         <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.27(일) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A&R(신입) / 아티스트 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85269</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85269"/>
-        <updated>2022-02-22T20:11:41.259Z</updated>
-        <content type="html"><![CDATA[2022.01.27(목) 15:00 ~ 2022.02.24(목) 18:00]]></content>
+        <title type="html"><![CDATA[플랫폼그룹(경력) / 플랫폼 사업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=89414</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=89414"/>
+        <updated>2022-02-24T09:11:30.451Z</updated>
+        <content type="html"><![CDATA[2022.02.25(금) 10:00 ~ 2022.03.18(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE] 재무/회계Sr. (HYBE ─ ALL JOBS)]]></title>
