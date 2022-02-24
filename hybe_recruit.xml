@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-02-24T02:04:14.420Z</updated>
+    <updated>2022-02-24T03:10:30.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 재무/회계Sr.]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr_-%ED%95%9C%EA%B5%AD/7064244/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr_-%ED%95%9C%EA%B5%AD/7064244/"/>
+        <updated>2022-02-24T03:10:29.352Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KOZ Entertainment] A&R]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-A&amp;R-%ED%95%9C%EA%B5%AD/7415544/</id>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/6007744/"/>
         <updated>2022-02-22T02:25:25.052Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 상품기획MD(문구/생활잡화)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-IPX_%EA%B8%B0%ED%9A%8DMD%ED%8C%80-%ED%95%9C%EA%B5%AD/7382144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-IPX_%EA%B8%B0%ED%9A%8DMD%ED%8C%80-%ED%95%9C%EA%B5%AD/7382144/"/>
-        <updated>2022-02-22T01:56:12.209Z</updated>
-        <content type="html"><![CDATA[MD]]></content>
     </entry>
 </feed>
