@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-28T10:12:18.022Z</updated>
+    <updated>2022-02-28T11:09:46.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -264,6 +264,13 @@
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE] 데이터운영지원 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7476744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7476744/"/>
+        <updated>2022-02-28T11:09:46.076Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] 커머스 운영 (글로벌) (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%9A%B4%EC%98%81-%28%EA%B8%80%EB%A1%9C%EB%B2%8C%29-%ED%95%9C%EA%B5%AD/4046944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%9A%B4%EC%98%81-%28%EA%B8%80%EB%A1%9C%EB%B2%8C%29-%ED%95%9C%EA%B5%AD/4046944/"/>
@@ -290,12 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6712544/"/>
         <updated>2022-02-27T02:37:38.011Z</updated>
         <content type="html"><![CDATA[Business Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] IT개발(웹서비스개발) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IT%EA%B0%9C%EB%B0%9C%28%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C%29-%ED%95%9C%EA%B5%AD/6034444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IT%EA%B0%9C%EB%B0%9C%28%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C%29-%ED%95%9C%EA%B5%AD/6034444/"/>
-        <updated>2022-02-26T02:28:50.507Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
