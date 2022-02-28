@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-28T08:13:41.133Z</updated>
+    <updated>2022-02-28T09:11:54.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -250,6 +250,13 @@
         <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE360] 방송 PD(연출) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EB%B0%A9%EC%86%A1-PD%28%EC%97%B0%EC%B6%9C%29-%ED%95%9C%EA%B5%AD/7474344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EB%B0%A9%EC%86%A1-PD%28%EC%97%B0%EC%B6%9C%29-%ED%95%9C%EA%B5%AD/7474344/"/>
+        <updated>2022-02-28T09:11:53.627Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] 커머스 운영 (글로벌) (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%9A%B4%EC%98%81-%28%EA%B8%80%EB%A1%9C%EB%B2%8C%29-%ED%95%9C%EA%B5%AD/4046944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%9A%B4%EC%98%81-%28%EA%B8%80%EB%A1%9C%EB%B2%8C%29-%ED%95%9C%EA%B5%AD/4046944/"/>
@@ -290,12 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr_-%ED%95%9C%EA%B5%AD/7064244/"/>
         <updated>2022-02-24T03:10:29.352Z</updated>
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KOZ Entertainment] A&R (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-A&amp;R-%ED%95%9C%EA%B5%AD/7415544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-A&amp;R-%ED%95%9C%EA%B5%AD/7415544/"/>
-        <updated>2022-02-24T02:04:13.743Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
