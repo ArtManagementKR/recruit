@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-03-02T08:14:10.729Z</updated>
+    <updated>2022-03-02T09:11:17.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[2022.02.04(금) 15:00 ~ 2022.03.04(금) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[YGX] 아카데미 운영(신입 및 경력) / 행정 지원 업무 담당자 *연장]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=90204</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=90204"/>
+        <updated>2022-03-02T09:11:01.002Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 10:00 ~ 2022.03.15(화) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IP사업(경력) / IP사업 담당자]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=87404</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=87404"/>
@@ -66,13 +73,6 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85923</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85923"/>
         <updated>2022-02-22T20:11:41.253Z</updated>
-        <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.27(일) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT개발(경력) / 데이터 엔지니어(DE) * 연장]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85920</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=85920"/>
-        <updated>2022-02-22T20:11:41.255Z</updated>
         <content type="html"><![CDATA[2022.01.27(목) 18:00 ~ 2022.02.27(일) 18:00]]></content>
     </entry>
 </feed>
