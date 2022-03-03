@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-03-03T09:11:06.807Z</updated>
+    <updated>2022-03-03T10:14:56.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=720"/>
         <updated>2022-01-24T09:10:01.381Z</updated>
         <content type="html"><![CDATA[2022-01-24 ~ 2022-03-16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 공시/IR 담당(경력) 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=736</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=736"/>
+        <updated>2022-03-03T10:14:39.263Z</updated>
+        <content type="html"><![CDATA[2022-03-03 ~ 2022-03-11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 웹디자인 담당자(경력) 모집]]></title>
@@ -67,12 +74,5 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=717"/>
         <updated>2022-01-19T08:12:03.692Z</updated>
         <content type="html"><![CDATA[2022-01-19 ~ 2022-02-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=732</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=732"/>
-        <updated>2022-03-02T05:10:11.168Z</updated>
-        <content type="html"><![CDATA[2022-02-10 ~ 2022-02-28]]></content>
     </entry>
 </feed>
