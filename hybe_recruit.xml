@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-03-04T06:13:59.310Z</updated>
+    <updated>2022-03-04T07:11:05.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -27,16 +27,16 @@
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Weverse Company] QA]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/"/>
+        <title type="html"><![CDATA[[Weverse Company] 프론트엔드 개발]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/"/>
         <updated>2022-03-03T03:13:47.080Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프론트엔드 개발]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/4054044/"/>
+        <title type="html"><![CDATA[[Weverse Company] QA]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-QA-%ED%95%9C%EA%B5%AD/4054744/"/>
         <updated>2022-03-03T03:13:47.080Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
