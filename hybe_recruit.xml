@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-03-14T05:32:52.257Z</updated>
+    <updated>2022-03-14T06:20:20.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr-%ED%95%9C%EA%B5%AD/6191944/"/>
         <updated>2022-03-14T03:13:35.279Z</updated>
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE] 사내변호사 (한국)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%82%AC%EB%82%B4%EB%B3%80%ED%98%B8%EC%82%AC-%28%ED%95%9C%EA%B5%AD%29-%ED%95%9C%EA%B5%AD/7653144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%82%AC%EB%82%B4%EB%B3%80%ED%98%B8%EC%82%AC-%28%ED%95%9C%EA%B5%AD%29-%ED%95%9C%EA%B5%AD/7653144/"/>
+        <updated>2022-03-14T06:20:20.111Z</updated>
+        <content type="html"><![CDATA[Legal]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(커머스)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6514144/"/>
         <updated>2022-03-12T02:32:27.706Z</updated>
         <content type="html"><![CDATA[Business Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 브랜드마케팅팀장 (IPX)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A7%88%EC%BC%80%ED%8C%85%ED%8C%80%EC%9E%A5-%28IPX%29-%ED%95%9C%EA%B5%AD/5903244/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A7%88%EC%BC%80%ED%8C%85%ED%8C%80%EC%9E%A5-%28IPX%29-%ED%95%9C%EA%B5%AD/5903244/"/>
-        <updated>2022-03-12T02:32:27.706Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
