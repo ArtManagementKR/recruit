@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-16T04:13:54.581Z</updated>
+    <updated>2022-03-16T05:11:10.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-03-16T04:13:30.033Z</updated>
+        <updated>2022-03-16T05:10:45.231Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -174,6 +174,27 @@
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[SOURCE MUSIC] A&R (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/7689944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-A&amp;R-%ED%95%9C%EA%B5%AD/7689944/"/>
+        <updated>2022-03-16T05:11:09.403Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOURCE MUSIC] 디지털마케팅 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EB%94%94%EC%A7%80%ED%84%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/7690044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EB%94%94%EC%A7%80%ED%84%B8%EB%A7%88%EC%BC%80%ED%8C%85-%ED%95%9C%EA%B5%AD/7690044/"/>
+        <updated>2022-03-16T05:11:09.408Z</updated>
+        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOURCE MUSIC] 그래픽디자인(VC)Jr (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EA%B7%B8%EB%9E%98%ED%94%BD%EB%94%94%EC%9E%90%EC%9D%B8%28VC%29Jr-%ED%95%9C%EA%B5%AD/7690144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EA%B7%B8%EB%9E%98%ED%94%BD%EB%94%94%EC%9E%90%EC%9D%B8%28VC%29Jr-%ED%95%9C%EA%B5%AD/7690144/"/>
+        <updated>2022-03-16T05:11:09.409Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(커뮤니티) (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%29-%ED%95%9C%EA%B5%AD/4111944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%29-%ED%95%9C%EA%B5%AD/4111944/"/>
@@ -200,26 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94-%EC%9A%B4%EC%98%81%C2%B7%EC%82%AC%EC%97%85PM-%ED%95%9C%EA%B5%AD/7668644/"/>
         <updated>2022-03-15T02:12:57.331Z</updated>
         <content type="html"><![CDATA[PM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 백엔드개발(커머스) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/3862044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%95%9C%EA%B5%AD/3862044/"/>
-        <updated>2022-03-14T03:13:35.268Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIGHIT MUSIC] 프로덕션코디네이터 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/5921544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/5921544/"/>
-        <updated>2022-03-14T03:13:35.268Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 그래픽디자인 Sr. (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EA%B7%B8%EB%9E%98%ED%94%BD%EB%94%94%EC%9E%90%EC%9D%B8-Sr_-%ED%95%9C%EA%B5%AD/6186044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EA%B7%B8%EB%9E%98%ED%94%BD%EB%94%94%EC%9E%90%EC%9D%B8-Sr_-%ED%95%9C%EA%B5%AD/6186044/"/>
-        <updated>2022-03-14T03:13:35.279Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
