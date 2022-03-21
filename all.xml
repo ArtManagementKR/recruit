@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-21T06:14:48.402Z</updated>
+    <updated>2022-03-21T07:11:32.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-03-21T06:14:19.252Z</updated>
+        <updated>2022-03-21T07:11:11.003Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[HR]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE] 총무 (부동산 관리) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%B4%9D%EB%AC%B4-%28%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B4%80%EB%A6%AC%29-%ED%95%9C%EA%B5%AD/7739644/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%B4%9D%EB%AC%B4-%28%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B4%80%EB%A6%AC%29-%ED%95%9C%EA%B5%AD/7739644/"/>
+        <updated>2022-03-21T07:11:32.193Z</updated>
+        <content type="html"><![CDATA[Service &amp; Support]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HYBE OSB] 스토리콘텐츠기획 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BD%98%ED%85%90%EC%B8%A0%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/4009544/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BD%98%ED%85%90%EC%B8%A0%EA%B8%B0%ED%9A%8D-%ED%95%9C%EA%B5%AD/4009544/"/>
@@ -214,12 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-DevOps-%ED%95%9C%EA%B5%AD/4085344/"/>
         <updated>2022-03-20T03:11:24.587Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIGHIT MUSIC] 정산관리 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/7009344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/7009344/"/>
-        <updated>2022-03-20T03:11:24.594Z</updated>
-        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
 </feed>
