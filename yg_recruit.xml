@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-03-23T00:51:44.011Z</updated>
+    <updated>2022-03-23T02:27:00.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[2022.03.16(수) 00:00 ~ 2022.03.30(수) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT사업(인턴) / NFT사업 담당자]]></title>
+        <title type="html"><![CDATA[NFT사업(인턴) / NFT사업 담당자 *연장]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91337</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91337"/>
         <updated>2022-03-15T08:14:29.681Z</updated>
-        <content type="html"><![CDATA[2022.03.15(화) 18:00 ~ 2022.03.29(화) 18:00]]></content>
+        <content type="html"><![CDATA[2022.03.15(화) 18:00 ~ 2022.04.03(일) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IP사업그룹(신입) / 행정 지원 담당자]]></title>
