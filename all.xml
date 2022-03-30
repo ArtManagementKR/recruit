@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-30T00:49:18.258Z</updated>
+    <updated>2022-03-30T02:29:48.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-03-30T00:48:57.017Z</updated>
+        <updated>2022-03-30T02:29:16.846Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[2022.03.16(수) 00:00 ~ 2022.03.30(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Weverse Company] 데이터엔지니어 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/"/>
+        <updated>2022-03-30T02:29:47.988Z</updated>
+        <content type="html"><![CDATA[Information Technology]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] 정산관리 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/4512344/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/4512344/"/>
@@ -214,12 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EA%B8%B0%ED%9A%8DMD%ED%8C%80%EC%9E%A5-%ED%95%9C%EA%B5%AD/7848044/"/>
         <updated>2022-03-29T06:14:40.260Z</updated>
         <content type="html"><![CDATA[MD]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 커머스 운영 (글로벌) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%9A%B4%EC%98%81-%28%EA%B8%80%EB%A1%9C%EB%B2%8C%29-%ED%95%9C%EA%B5%AD/4046944/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%9A%B4%EC%98%81-%28%EA%B8%80%EB%A1%9C%EB%B2%8C%29-%ED%95%9C%EA%B5%AD/4046944/"/>
-        <updated>2022-03-28T02:33:42.205Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
