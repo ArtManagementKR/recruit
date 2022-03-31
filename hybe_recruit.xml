@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-03-31T06:14:39.191Z</updated>
+    <updated>2022-03-31T07:12:02.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Game-Community-Manager-%ED%95%9C%EA%B5%AD/6733144/"/>
         <updated>2022-03-31T02:28:58.067Z</updated>
         <content type="html"><![CDATA[Game Business]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 자막제작지원*]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%90%EB%A7%89%EC%A0%9C%EC%9E%91%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7880344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%90%EB%A7%89%EC%A0%9C%EC%9E%91%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7880344/"/>
+        <updated>2022-03-31T07:12:01.522Z</updated>
+        <content type="html"><![CDATA[Service &amp; Support]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 미디어운영지원*]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%AF%B8%EB%94%94%EC%96%B4%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7880444/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%AF%B8%EB%94%94%EC%96%B4%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7880444/"/>
+        <updated>2022-03-31T07:12:01.522Z</updated>
+        <content type="html"><![CDATA[Service &amp; Support]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 데이터엔지니어]]></title>
@@ -59,20 +73,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%94%94%EC%9E%90%EC%9D%B8%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/6374944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%94%94%EC%9E%90%EC%9D%B8%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/6374944/"/>
         <updated>2022-03-29T02:29:58.479Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE360] 방송 PD(연출)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EB%B0%A9%EC%86%A1-PD%28%EC%97%B0%EC%B6%9C%29-%ED%95%9C%EA%B5%AD/7474344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EB%B0%A9%EC%86%A1-PD%28%EC%97%B0%EC%B6%9C%29-%ED%95%9C%EA%B5%AD/7474344/"/>
-        <updated>2022-03-29T02:29:58.481Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE360] 콘텐츠자료관리]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EC%BD%98%ED%85%90%EC%B8%A0%EC%9E%90%EB%A3%8C%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/7475244/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EC%BD%98%ED%85%90%EC%B8%A0%EC%9E%90%EB%A3%8C%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/7475244/"/>
-        <updated>2022-03-29T02:29:58.482Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
