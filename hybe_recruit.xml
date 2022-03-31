@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-03-31T00:47:22.668Z</updated>
+    <updated>2022-03-31T02:28:58.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 플랫폼사업전략]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5-%ED%95%9C%EA%B5%AD/7502344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5-%ED%95%9C%EA%B5%AD/7502344/"/>
+        <updated>2022-03-31T02:28:58.066Z</updated>
+        <content type="html"><![CDATA[Business Management]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE IM] Game Community Manager]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Game-Community-Manager-%ED%95%9C%EA%B5%AD/6733144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-Game-Community-Manager-%ED%95%9C%EA%B5%AD/6733144/"/>
+        <updated>2022-03-31T02:28:58.067Z</updated>
+        <content type="html"><![CDATA[Game Business]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weverse Company] 데이터엔지니어]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/</id>
@@ -60,19 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EC%BD%98%ED%85%90%EC%B8%A0%EC%9E%90%EB%A3%8C%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/7475244/"/>
         <updated>2022-03-29T02:29:58.482Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 데이터운영지원]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7476744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90-%ED%95%9C%EA%B5%AD/7476744/"/>
-        <updated>2022-03-29T02:29:58.483Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] IP마케팅_글로벌(IPX)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-IP%EB%A7%88%EC%BC%80%ED%8C%85_%EA%B8%80%EB%A1%9C%EB%B2%8C%28IPX%29-%ED%95%9C%EA%B5%AD/7848744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-IP%EB%A7%88%EC%BC%80%ED%8C%85_%EA%B8%80%EB%A1%9C%EB%B2%8C%28IPX%29-%ED%95%9C%EA%B5%AD/7848744/"/>
-        <updated>2022-03-29T06:14:40.259Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
