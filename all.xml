@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T08:15:22.416Z</updated>
+    <updated>2022-03-31T09:13:36.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-03-31T08:14:59.201Z</updated>
+        <updated>2022-03-31T09:13:13.334Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[Service &amp; Support]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[ADOR] 아티스트매니저 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%A4%EB%8B%88%EC%A0%80-%ED%95%9C%EA%B5%AD/7882744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%A4%EB%8B%88%EC%A0%80-%ED%95%9C%EA%B5%AD/7882744/"/>
+        <updated>2022-03-31T09:13:35.708Z</updated>
+        <content type="html"><![CDATA[Artist Management]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Weverse Company] 데이터엔지니어 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/4103344/"/>
@@ -213,13 +220,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%94%94%EC%9E%90%EC%9D%B8%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/6374944/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%94%94%EC%9E%90%EC%9D%B8%28%EB%B9%8C%EB%A6%AC%ED%94%84%EB%9E%A9-%EB%8B%B4%EB%8B%B9%29-%ED%95%9C%EA%B5%AD/6374944/"/>
         <updated>2022-03-29T02:29:58.479Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE360] 방송 PD(연출) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EB%B0%A9%EC%86%A1-PD%28%EC%97%B0%EC%B6%9C%29-%ED%95%9C%EA%B5%AD/7474344/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE360-%EB%B0%A9%EC%86%A1-PD%28%EC%97%B0%EC%B6%9C%29-%ED%95%9C%EA%B5%AD/7474344/"/>
-        <updated>2022-03-31T08:15:21.690Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
