@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-03-31T14:11:43.707Z</updated>
+    <updated>2022-03-31T15:12:24.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[2022.03.17(목) 14:00 ~ 2022.04.03(일) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인사(경력) / 인사 관리 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91789</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91789"/>
-        <updated>2022-03-17T00:45:12.260Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 00:00 ~ 2022.04.01(금) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NFT사업(인턴) / NFT사업 담당자 *연장]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91337</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91337"/>
         <updated>2022-03-15T08:14:29.681Z</updated>
         <content type="html"><![CDATA[2022.03.15(화) 18:00 ~ 2022.04.03(일) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인사(경력) / 인사 관리 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91789</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=91789"/>
+        <updated>2022-03-17T00:45:12.260Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 00:00 ~ 2022.04.01(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IT기획(경력) / 서비스 기획 담당자]]></title>
