@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-07T14:11:33.280Z</updated>
+    <updated>2022-04-07T15:11:22.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-04-07T14:11:03.604Z</updated>
+        <updated>2022-04-07T15:10:59.776Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[2022-03-28 ~ 2022-04-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 사업개발 담당자 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=755</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=755"/>
-        <updated>2022-03-22T09:13:09.016Z</updated>
-        <content type="html"><![CDATA[2022-03-22 ~ 2022-04-08]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 퍼포먼스디렉팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=759</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=759"/>
+        <updated>2022-04-07T15:11:06.285Z</updated>
+        <content type="html"><![CDATA[2022-03-28 ~ 2022-04-10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가수매니저(신입 및 경력) / 매니지먼트 담당자 (YG Entertainment ─ RECRUIT)]]></title>
@@ -188,6 +188,13 @@
         <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[PLEDIS Entertainment] 정산관리 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/8000944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/8000944/"/>
+        <updated>2022-04-07T15:11:21.439Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SOURCE MUSIC] 캐스팅 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EC%BA%90%EC%8A%A4%ED%8C%85-%ED%95%9C%EA%B5%AD/6120444/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EC%BA%90%EC%8A%A4%ED%8C%85-%ED%95%9C%EA%B5%AD/6120444/"/>
@@ -214,12 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8-PR-%ED%95%9C%EA%B5%AD/5869344/"/>
         <updated>2022-04-06T02:27:05.572Z</updated>
         <content type="html"><![CDATA[Communications]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 리테일사업PM_계약직 1년(육아휴직 대체) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%A6%AC%ED%85%8C%EC%9D%BC%EC%82%AC%EC%97%85PM_%EA%B3%84%EC%95%BD%EC%A7%81-1%EB%85%84%28%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81-%EB%8C%80%EC%B2%B4%29-%ED%95%9C%EA%B5%AD/7977544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%A6%AC%ED%85%8C%EC%9D%BC%EC%82%AC%EC%97%85PM_%EA%B3%84%EC%95%BD%EC%A7%81-1%EB%85%84%28%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81-%EB%8C%80%EC%B2%B4%29-%ED%95%9C%EA%B5%AD/7977544/"/>
-        <updated>2022-04-06T09:12:01.669Z</updated>
-        <content type="html"><![CDATA[PM]]></content>
     </entry>
 </feed>
