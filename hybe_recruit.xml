@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-04-07T08:17:02.184Z</updated>
+    <updated>2022-04-07T09:12:14.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/7987344/"/>
         <updated>2022-04-07T03:24:18.735Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총무(운영지원)*]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EC%B4%9D%EB%AC%B4%28%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90%29-%ED%95%9C%EA%B5%AD/7994044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EC%B4%9D%EB%AC%B4%28%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90%29-%ED%95%9C%EA%B5%AD/7994044/"/>
+        <updated>2022-04-07T09:12:13.446Z</updated>
+        <content type="html"><![CDATA[Service &amp; Support]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[SOURCE MUSIC] 캐스팅]]></title>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%98%81%EC%83%81%EC%BD%98%ED%85%90%EC%B8%A0%EB%B2%88%EC%97%ADPM-%ED%95%9C%EA%B5%AD/7979544/"/>
         <updated>2022-04-06T10:14:13.960Z</updated>
         <content type="html"><![CDATA[PM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] HRIS Sr.]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRIS-Sr_-%ED%95%9C%EA%B5%AD/7982844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRIS-Sr_-%ED%95%9C%EA%B5%AD/7982844/"/>
-        <updated>2022-04-06T12:20:38.337Z</updated>
-        <content type="html"><![CDATA[HR]]></content>
     </entry>
 </feed>
