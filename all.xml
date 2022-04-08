@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-08T08:14:01.549Z</updated>
+    <updated>2022-04-08T09:12:04.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-04-08T08:13:38.975Z</updated>
+        <updated>2022-04-08T09:11:43.166Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[2022-04-06 ~ 2022-04-15]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 웹디자이너 인턴 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=763</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=763"/>
-        <updated>2022-04-01T11:10:50.821Z</updated>
-        <content type="html"><![CDATA[2022-04-01 ~ 2022-04-10]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 CS 및 모니터링 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=757</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=757"/>
         <updated>2022-03-28T03:27:46.923Z</updated>
         <content type="html"><![CDATA[2022-03-28 ~ 2022-04-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM브랜드마케팅 웹디자이너 인턴 모집 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=763</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=763"/>
+        <updated>2022-04-01T11:10:50.821Z</updated>
+        <content type="html"><![CDATA[2022-04-01 ~ 2022-04-10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 퍼포먼스디렉팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
