@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-04-08T07:12:30.005Z</updated>
+    <updated>2022-04-08T08:14:01.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[Legal]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Weverse Company] 정산관리]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/8009744/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/8009744/"/>
+        <updated>2022-04-08T08:14:00.899Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[BIGHIT MUSIC] Visual Creative Sr.]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Visual-Creative-Sr_-%ED%95%9C%EA%B5%AD/7213044/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Visual-Creative-Sr_-%ED%95%9C%EA%B5%AD/7213044/"/>
@@ -67,12 +74,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EC%B4%9D%EB%AC%B4%28%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90%29-%ED%95%9C%EA%B5%AD/7994044/"/>
         <updated>2022-04-07T09:12:13.446Z</updated>
         <content type="html"><![CDATA[Service &amp; Support]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 재무/회계 Jr (WEV)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84-Jr-%28WEV%29-%ED%95%9C%EA%B5%AD/7997144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84-Jr-%28WEV%29-%ED%95%9C%EA%B5%AD/7997144/"/>
-        <updated>2022-04-07T11:11:22.078Z</updated>
-        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
 </feed>
