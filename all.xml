@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-11T02:44:56.322Z</updated>
+    <updated>2022-04-11T03:39:08.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-04-11T02:44:32.915Z</updated>
+        <updated>2022-04-11T03:38:45.970Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[Artist Management]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HYBE] 총무 (Mobility & Travel) (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%B4%9D%EB%AC%B4-%28Mobility-&amp;-Travel%29-%ED%95%9C%EA%B5%AD/8033344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%B4%9D%EB%AC%B4-%28Mobility-&amp;-Travel%29-%ED%95%9C%EA%B5%AD/8033344/"/>
+        <updated>2022-04-11T03:39:07.885Z</updated>
+        <content type="html"><![CDATA[Service &amp; Support]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[BELIFT LAB] 레이블사업기획/운영 (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6514144/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/6514144/"/>
@@ -214,12 +221,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%96%B4%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%28Account-Manager%29-%ED%95%9C%EA%B5%AD/6495744/"/>
         <updated>2022-04-09T02:20:22.774Z</updated>
         <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ADOR] 뉴미디어콘텐츠제작 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EC%9E%91-%ED%95%9C%EA%B5%AD/6880944/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EC%9E%91-%ED%95%9C%EA%B5%AD/6880944/"/>
-        <updated>2022-04-09T02:20:22.776Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
