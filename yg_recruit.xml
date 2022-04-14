@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-04-14T00:56:47.088Z</updated>
+    <updated>2022-04-14T02:43:08.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[2022.04.11(월) 11:00 ~ 2022.04.25(월) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[구매총무(신입) / 의상관리 파트 담당자 * 연장]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=92398</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=92398"/>
+        <updated>2022-03-23T08:23:31.434Z</updated>
+        <content type="html"><![CDATA[2022.03.23(수) 18:00 ~ 2022.04.20(수) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공연기획(경력) / 사업 기획 및 전략 담당자]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=93826</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=93826"/>
@@ -53,13 +60,6 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=92244"/>
         <updated>2022-03-23T05:10:48.180Z</updated>
         <content type="html"><![CDATA[2022.03.23(수) 00:00 ~ 2022.04.13(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구매총무(신입) / 의상관리 파트 담당자 * 연장]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=92398</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=92398"/>
-        <updated>2022-03-23T08:23:31.434Z</updated>
-        <content type="html"><![CDATA[2022.03.23(수) 18:00 ~ 2022.04.13(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배우홍보&마케팅팀(신입) / SNS 운영 및 관리 담당자]]></title>
