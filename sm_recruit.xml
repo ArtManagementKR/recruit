@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-04-17T13:19:24.693Z</updated>
+    <updated>2022-04-17T14:10:57.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=770"/>
         <updated>2022-04-06T11:10:29.261Z</updated>
         <content type="html"><![CDATA[2022-04-06 ~ 2022-04-25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 음반유통 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=764</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=764"/>
-        <updated>2022-04-10T14:10:31.709Z</updated>
-        <content type="html"><![CDATA[2022-04-04 ~ 2022-04-17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 음원유통 담당자 채용]]></title>
@@ -74,5 +67,12 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=773"/>
         <updated>2022-04-15T14:10:54.601Z</updated>
         <content type="html"><![CDATA[2022-04-11 ~ 2022-05-01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 스토리 PD 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=775</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=775"/>
+        <updated>2022-04-17T14:10:38.571Z</updated>
+        <content type="html"><![CDATA[2022-04-14 ~ 2022-05-15]]></content>
     </entry>
 </feed>
