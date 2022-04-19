@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://careers.hybecorp.com/go/ALL-JOBS/562844/</id>
     <title>HYBE ─ ALL JOBS</title>
-    <updated>2022-04-19T03:02:37.911Z</updated>
+    <updated>2022-04-19T04:26:57.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://careers.hybecorp.com/go/ALL-JOBS/562844/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%B4%9D%EB%AC%B4-%28%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B4%80%EB%A6%AC%29-%ED%95%9C%EA%B5%AD/7739644/"/>
         <updated>2022-04-19T03:02:37.192Z</updated>
         <content type="html"><![CDATA[Service &amp; Support]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE IPX] 상품디자인(패션/잡화)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%A8%EC%85%98%EC%9E%A1%ED%99%94%29-%ED%95%9C%EA%B5%AD/8140044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EC%83%81%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8%28%ED%8C%A8%EC%85%98%EC%9E%A1%ED%99%94%29-%ED%95%9C%EA%B5%AD/8140044/"/>
+        <updated>2022-04-19T04:26:56.472Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE OSB] UX/UI디자인 (스토리사업)]]></title>
@@ -66,13 +73,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EC%BA%90%EB%A6%AD%ED%84%B0%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010444/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EC%BA%90%EB%A6%AD%ED%84%B0%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010444/"/>
         <updated>2022-04-18T02:54:24.409Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PLEDIS Entertainment] A&R]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-A&amp;R-%ED%95%9C%EA%B5%AD/7015744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-A&amp;R-%ED%95%9C%EA%B5%AD/7015744/"/>
-        <updated>2022-04-18T02:54:24.410Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
