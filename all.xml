@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-20T01:01:00.092Z</updated>
+    <updated>2022-04-20T03:10:25.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[2022-04-20 ~ 2022-05-08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=777</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=777"/>
+        <updated>2022-04-20T03:10:08.856Z</updated>
+        <content type="html"><![CDATA[2022-04-20 ~ 2022-05-01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 재무/세무 담당자 모집 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=768</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=768"/>
@@ -150,13 +157,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=773"/>
         <updated>2022-04-15T14:10:54.601Z</updated>
         <content type="html"><![CDATA[2022-04-11 ~ 2022-05-01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 스토리 PD 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=775</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=775"/>
-        <updated>2022-04-17T14:10:38.571Z</updated>
-        <content type="html"><![CDATA[2022-04-14 ~ 2022-05-15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IP사업(경력) / IP사업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
@@ -229,6 +229,13 @@
         <content type="html"><![CDATA[2022.03.23(수) 00:00 ~ 2022.04.20(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[KOZ Entertainment] 프로덕션코디네이터 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/7368244/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-KOZ-Entertainment-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/7368244/"/>
+        <updated>2022-04-20T03:10:25.364Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SOURCE MUSIC] 아티스트마케팅Jr. (HYBE ─ ALL JOBS)]]></title>
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85Jr_-%ED%95%9C%EA%B5%AD/4669744/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-SOURCE-MUSIC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%BC%80%ED%8C%85Jr_-%ED%95%9C%EA%B5%AD/4669744/"/>
@@ -289,13 +296,6 @@
         <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%94%94%EC%9E%90%EC%9D%B8-%28Universe-BX-Designer%2C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009344/</id>
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%94%94%EC%9E%90%EC%9D%B8-%28Universe-BX-Designer%2C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%82%AC%EC%97%85%29-%ED%95%9C%EA%B5%AD/4009344/"/>
         <updated>2022-04-18T02:54:24.408Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE OSB] 스토리컨셉아트 (캐릭터디자인) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EC%BA%90%EB%A6%AD%ED%84%B0%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%BB%A8%EC%85%89%EC%95%84%ED%8A%B8-%28%EC%BA%90%EB%A6%AD%ED%84%B0%EB%94%94%EC%9E%90%EC%9D%B8%29-%ED%95%9C%EA%B5%AD/4010444/"/>
-        <updated>2022-04-18T02:54:24.409Z</updated>
         <content type="html"><![CDATA[Creative]]></content>
     </entry>
 </feed>
