@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-06T00:49:17.851Z</updated>
+    <updated>2022-05-06T02:41:01.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[2022-04-11 ~ 2022-05-01]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[영상제작(신입 및 경력) / 영상 연출 및 제작 PD (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97969</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97969"/>
+        <updated>2022-05-06T02:40:52.123Z</updated>
+        <content type="html"><![CDATA[2022.05.06(금) 00:00 ~ 2022.05.20(금) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[글로벌사업(신입) / 중국 플랫폼 관리 담당자 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98131</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98131"/>
@@ -222,11 +229,46 @@
         <content type="html"><![CDATA[2022.04.11(월) 11:00 ~ 2022.05.09(월) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L&S센터(경력) / ESG경영전략 및 운영 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=95297</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=95297"/>
-        <updated>2022-04-20T10:13:13.339Z</updated>
-        <content type="html"><![CDATA[2022.04.20(수) 18:00 ~ 2022.05.04(수) 18:00]]></content>
+        <title type="html"><![CDATA[[HYBE] 스튜디오엔지니어 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/7987344/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%ED%95%9C%EA%B5%AD/7987344/"/>
+        <updated>2022-05-06T02:41:01.066Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HYBE OSB] 스토리영상디자인 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%98%81%EC%83%81%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%9C%EA%B5%AD/4422944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%98%81%EC%83%81%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%9C%EA%B5%AD/4422944/"/>
+        <updated>2022-05-06T02:41:01.068Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BIGHIT MUSIC] Visual Creative Sr. (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Visual-Creative-Sr_-%ED%95%9C%EA%B5%AD/7213044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Visual-Creative-Sr_-%ED%95%9C%EA%B5%AD/7213044/"/>
+        <updated>2022-05-06T02:41:01.068Z</updated>
+        <content type="html"><![CDATA[Creative]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weverse Company] 재무/회계 Jr (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84-Jr-%28WEV%29-%ED%95%9C%EA%B5%AD/7997144/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84-Jr-%28WEV%29-%ED%95%9C%EA%B5%AD/7997144/"/>
+        <updated>2022-05-06T02:41:01.072Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총무(운영지원)* (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EC%B4%9D%EB%AC%B4%28%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90%29-%ED%95%9C%EA%B5%AD/7994044/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-%EC%B4%9D%EB%AC%B4%28%EC%9A%B4%EC%98%81%EC%A7%80%EC%9B%90%29-%ED%95%9C%EA%B5%AD/7994044/"/>
+        <updated>2022-05-06T02:41:01.073Z</updated>
+        <content type="html"><![CDATA[Service &amp; Support]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PLEDIS Entertainment] 정산관리 (HYBE ─ ALL JOBS)]]></title>
+        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/8000944/</id>
+        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%A0%95%EC%82%B0%EA%B4%80%EB%A6%AC-%ED%95%9C%EA%B5%AD/8000944/"/>
+        <updated>2022-05-06T02:41:01.074Z</updated>
+        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HYBE] 국내 PR Jr. (HYBE ─ ALL JOBS)]]></title>
@@ -255,47 +297,5 @@
         <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%98%81%EC%83%81%EC%BD%98%ED%85%90%EC%B8%A0%EB%B2%88%EC%97%ADPM-%ED%95%9C%EA%B5%AD/7979544/"/>
         <updated>2022-05-05T02:54:59.670Z</updated>
         <content type="html"><![CDATA[PM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] HRIS Sr. (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRIS-Sr_-%ED%95%9C%EA%B5%AD/7982844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-HRIS-Sr_-%ED%95%9C%EA%B5%AD/7982844/"/>
-        <updated>2022-05-05T02:54:59.671Z</updated>
-        <content type="html"><![CDATA[HR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE IPX] 리테일사업PM_계약직 1년(육아휴직 대체) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%A6%AC%ED%85%8C%EC%9D%BC%EC%82%AC%EC%97%85PM_%EA%B3%84%EC%95%BD%EC%A7%81-1%EB%85%84%28%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81-%EB%8C%80%EC%B2%B4%29-%ED%95%9C%EA%B5%AD/7977544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-IPX-%EB%A6%AC%ED%85%8C%EC%9D%BC%EC%82%AC%EC%97%85PM_%EA%B3%84%EC%95%BD%EC%A7%81-1%EB%85%84%28%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81-%EB%8C%80%EC%B2%B4%29-%ED%95%9C%EA%B5%AD/7977544/"/>
-        <updated>2022-05-05T02:54:59.674Z</updated>
-        <content type="html"><![CDATA[PM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PLEDIS Entertainment] 사업전략실장 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%EC%8B%A4%EC%9E%A5-%ED%95%9C%EA%B5%AD/8387444/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-PLEDIS-Entertainment-%EC%82%AC%EC%97%85%EC%A0%84%EB%9E%B5%EC%8B%A4%EC%9E%A5-%ED%95%9C%EA%B5%AD/8387444/"/>
-        <updated>2022-05-05T14:11:17.472Z</updated>
-        <content type="html"><![CDATA[Business Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(플랫폼) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%ED%94%8C%EB%9E%AB%ED%8F%BC%29-%ED%95%9C%EA%B5%AD/7954044/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%ED%94%8C%EB%9E%AB%ED%8F%BC%29-%ED%95%9C%EA%B5%AD/7954044/"/>
-        <updated>2022-05-04T03:01:11.942Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프로덕트디자인 (UX/UI) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%94%94%EC%9E%90%EC%9D%B8-%28UXUI%29-%ED%95%9C%EA%B5%AD/7953544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%94%94%EC%9E%90%EC%9D%B8-%28UXUI%29-%ED%95%9C%EA%B5%AD/7953544/"/>
-        <updated>2022-05-04T03:01:11.945Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 커뮤니티 기획/운영 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/7956644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B8%B0%ED%9A%8D%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/7956644/"/>
-        <updated>2022-05-04T03:01:11.947Z</updated>
-        <content type="html"><![CDATA[Marketing &amp; Sales]]></content>
     </entry>
 </feed>
