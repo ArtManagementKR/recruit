@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-09T10:13:53.304Z</updated>
+    <updated>2022-05-09T11:11:30.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -180,6 +180,13 @@
         <content type="html"><![CDATA[2022.05.04(수) 12:00 ~ 2022.05.18(수) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NFT사업(경력) / NFT사업 담당자*연장 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96419</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96419"/>
+        <updated>2022-04-25T11:11:06.437Z</updated>
+        <content type="html"><![CDATA[2022.04.25(월) 18:00 ~ 2022.05.16(월) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IP사업그룹(신입) / 행정 지원 담당자 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97569</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97569"/>
@@ -213,13 +220,6 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96950"/>
         <updated>2022-04-27T05:24:16.855Z</updated>
         <content type="html"><![CDATA[2022.04.27(수) 12:00 ~ 2022.05.11(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT사업(경력) / NFT사업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96419</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96419"/>
-        <updated>2022-04-25T11:11:06.437Z</updated>
-        <content type="html"><![CDATA[2022.04.25(월) 18:00 ~ 2022.05.09(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회계(경력) / 매입 담당자 *연장 (YG Entertainment ─ RECRUIT)]]></title>
