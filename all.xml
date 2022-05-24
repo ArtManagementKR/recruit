@@ -2,28 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T23:13:23.214Z</updated>
+    <updated>2022-05-24T02:36:43.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-05-12T23:12:54.847Z</updated>
+        <updated>2022-05-24T02:36:19.181Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=793</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=793"/>
+        <updated>2022-05-24T02:36:25.267Z</updated>
+        <content type="html"><![CDATA[2022-05-23 ~ 2022-06-01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=790</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=790"/>
+        <updated>2022-05-24T02:36:25.269Z</updated>
+        <content type="html"><![CDATA[2022-05-16 ~ 2022-05-27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 사회공헌(CSR) 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=788</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=788"/>
+        <updated>2022-05-10T10:13:34.561Z</updated>
+        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스엠엔터테인먼트 A&R 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=789</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=789"/>
+        <updated>2022-05-24T02:36:25.277Z</updated>
+        <content type="html"><![CDATA[2022-05-16 ~ 2022-05-29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 사업 법무 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=791</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=791"/>
+        <updated>2022-05-24T02:36:25.277Z</updated>
+        <content type="html"><![CDATA[2022-05-16 ~ 2022-05-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 글로벌 비지니스 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=792</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=792"/>
+        <updated>2022-05-24T02:36:25.279Z</updated>
+        <content type="html"><![CDATA[2022-05-18 ~ 2022-06-05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=556</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
+        <updated>2022-04-30T14:11:10.174Z</updated>
+        <content type="html"><![CDATA[2021-01-01 ~ 2022-06-30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 고객사 Travel Desk 담당 모집 (신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=787</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=787"/>
         <updated>2022-05-10T02:18:53.225Z</updated>
-        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=786</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=786"/>
-        <updated>2022-05-10T02:18:53.231Z</updated>
         <content type="html"><![CDATA[2022-05-10 ~ 2022-05-20]]></content>
     </entry>
     <entry>
@@ -34,20 +76,6 @@
         <content type="html"><![CDATA[2022-05-10 ~ 2022-05-20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 음원유통 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=782</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=782"/>
-        <updated>2022-04-28T14:09:23.908Z</updated>
-        <content type="html"><![CDATA[2022-04-28 ~ 2022-05-15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 스토리 PD 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=775</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=775"/>
-        <updated>2022-04-20T14:11:33.080Z</updated>
-        <content type="html"><![CDATA[2022-04-14 ~ 2022-05-15]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 퍼포먼스디렉팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=784</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=784"/>
@@ -55,32 +83,25 @@
         <content type="html"><![CDATA[2022-05-04 ~ 2022-05-17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 사회공헌(CSR) 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=788</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=788"/>
-        <updated>2022-05-10T10:13:34.561Z</updated>
-        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-27]]></content>
+        <title type="html"><![CDATA[공연기획(인턴 및 경력) / 공연 아트웍 및 홍보 마케팅 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99724</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99724"/>
+        <updated>2022-05-24T02:36:33.720Z</updated>
+        <content type="html"><![CDATA[2022.05.19(목) 00:00 ~ 2022.06.02(목) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=556</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
-        <updated>2022-04-30T14:11:10.174Z</updated>
-        <content type="html"><![CDATA[2021-01-01 ~ 2022-06-30]]></content>
+        <title type="html"><![CDATA[IP사업(경력) / IP사업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99477</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99477"/>
+        <updated>2022-05-24T02:36:33.721Z</updated>
+        <content type="html"><![CDATA[2022.05.17(화) 00:00 ~ 2022.05.31(화) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=770</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=770"/>
-        <updated>2022-05-09T09:13:26.487Z</updated>
-        <content type="html"><![CDATA[2022-04-06 ~ 2022-04-25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 웹디자이너 인턴 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=763</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=763"/>
-        <updated>2022-05-12T02:53:33.496Z</updated>
-        <content type="html"><![CDATA[2022-04-01 ~ 2022-04-10]]></content>
+        <title type="html"><![CDATA[IP사업(인턴) / IP사업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99284</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99284"/>
+        <updated>2022-05-24T02:36:33.726Z</updated>
+        <content type="html"><![CDATA[2022.05.16(월) 12:00 ~ 2022.05.30(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공연제작(경력) / 해외 투어 담당자 (YG Entertainment ─ RECRUIT)]]></title>
@@ -90,136 +111,45 @@
         <content type="html"><![CDATA[2022.05.12(목) 12:00 ~ 2022.05.29(일) 18:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤직마케팅(경력) / 정산, 계약 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98745</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98745"/>
+        <updated>2022-05-24T02:36:33.726Z</updated>
+        <content type="html"><![CDATA[2022.05.13(금) 00:00 ~ 2022.05.27(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤직마케팅(인턴 및 경력) / 제작,기획,프로모션,유통 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98734</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98734"/>
+        <updated>2022-05-24T02:36:33.728Z</updated>
+        <content type="html"><![CDATA[2022.05.13(금) 00:00 ~ 2022.05.27(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우홍보&마케팅팀(신입 및 경력) / 배우 홍보 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99664</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=99664"/>
+        <updated>2022-05-24T02:36:33.730Z</updated>
+        <content type="html"><![CDATA[2022.05.19(목) 11:00 ~ 2022.05.26(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IP사업그룹(신입) / 행정 지원 담당자*연장 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97569</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97569"/>
+        <updated>2022-05-02T03:22:23.685Z</updated>
+        <content type="html"><![CDATA[2022.05.02(월) 10:00 ~ 2022.05.22(일) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌사업(신입) / 중국 플랫폼 관리 담당자*연장 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98131</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98131"/>
+        <updated>2022-05-04T06:16:03.826Z</updated>
+        <content type="html"><![CDATA[2022.05.04(수) 00:00 ~ 2022.05.22(일) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[영상제작(신입 및 경력) / 영상 연출 및 제작 PD (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97969</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97969"/>
         <updated>2022-05-06T02:40:52.123Z</updated>
         <content type="html"><![CDATA[2022.05.06(금) 00:00 ~ 2022.05.20(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌사업(신입) / 중국 플랫폼 관리 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98131</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=98131"/>
-        <updated>2022-05-04T06:16:03.826Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 00:00 ~ 2022.05.18(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언론홍보센터(신입 및 경력) / 언론홍보 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97944</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97944"/>
-        <updated>2022-05-04T03:01:01.080Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 12:00 ~ 2022.05.18(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT사업(경력) / NFT사업 담당자*연장 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96419</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96419"/>
-        <updated>2022-04-25T11:11:06.437Z</updated>
-        <content type="html"><![CDATA[2022.04.25(월) 18:00 ~ 2022.05.16(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IP사업그룹(신입) / 행정 지원 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97569</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=97569"/>
-        <updated>2022-05-02T03:22:23.685Z</updated>
-        <content type="html"><![CDATA[2022.05.02(월) 10:00 ~ 2022.05.16(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시설운영(경력) / 영양사(육아휴직 대체인력) (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96500</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96500"/>
-        <updated>2022-04-25T11:11:06.454Z</updated>
-        <content type="html"><![CDATA[2022.04.26(화) 00:00 ~ 2022.05.13(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연기획(경력) / 협찬 제안 및 영업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96962</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96962"/>
-        <updated>2022-04-27T05:24:16.851Z</updated>
-        <content type="html"><![CDATA[2022.04.27(수) 12:00 ~ 2022.05.11(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연기획(경력) / 글로벌 마케팅 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96957</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96957"/>
-        <updated>2022-04-27T05:24:16.852Z</updated>
-        <content type="html"><![CDATA[2022.04.27(수) 12:00 ~ 2022.05.11(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연기획(경력) / 사업 기획 및 전략 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96950</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=96950"/>
-        <updated>2022-04-27T05:24:16.855Z</updated>
-        <content type="html"><![CDATA[2022.04.27(수) 12:00 ~ 2022.05.11(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 프로덕트기획(커뮤니티) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%29-%ED%95%9C%EA%B5%AD/4111944/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EA%B8%B0%ED%9A%8D%28%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%29-%ED%95%9C%EA%B5%AD/4111944/"/>
-        <updated>2022-05-12T02:53:52.075Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] SNS 운영 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-SNS-%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/7282744/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-SNS-%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/7282744/"/>
-        <updated>2022-05-12T02:53:52.076Z</updated>
-        <content type="html"><![CDATA[Communications]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BELIFT LAB] 레이블 운영·사업PM (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94-%EC%9A%B4%EC%98%81%C2%B7%EC%82%AC%EC%97%85PM-%ED%95%9C%EA%B5%AD/7668644/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EB%A0%88%EC%9D%B4%EB%B8%94-%EC%9A%B4%EC%98%81%C2%B7%EC%82%AC%EC%97%85PM-%ED%95%9C%EA%B5%AD/7668644/"/>
-        <updated>2022-05-12T02:53:52.077Z</updated>
-        <content type="html"><![CDATA[PM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIGHIT MUSIC] 프로덕션코디네이터 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/5921544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BIGHIT-MUSIC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EC%BD%94%EB%94%94%EB%84%A4%EC%9D%B4%ED%84%B0-%ED%95%9C%EA%B5%AD/5921544/"/>
-        <updated>2022-05-11T03:01:34.799Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ADOR] 그래픽디자인(VC) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EA%B7%B8%EB%9E%98%ED%94%BD%EB%94%94%EC%9E%90%EC%9D%B8%28VC%29-%ED%95%9C%EA%B5%AD/7659144/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-ADOR-%EA%B7%B8%EB%9E%98%ED%94%BD%EB%94%94%EC%9E%90%EC%9D%B8%28VC%29-%ED%95%9C%EA%B5%AD/7659144/"/>
-        <updated>2022-05-11T03:01:34.802Z</updated>
-        <content type="html"><![CDATA[Creative]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 경영기획(HYB) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B2%BD%EC%98%81%EA%B8%B0%ED%9A%8D%28HYB%29-%ED%95%9C%EA%B5%AD/7653844/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EA%B2%BD%EC%98%81%EA%B8%B0%ED%9A%8D%28HYB%29-%ED%95%9C%EA%B5%AD/7653844/"/>
-        <updated>2022-05-11T03:01:34.806Z</updated>
-        <content type="html"><![CDATA[Business Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BELIFT LAB] 아티스트의전 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/8062244/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-BELIFT-LAB-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EC%9D%98%EC%A0%84-%ED%95%9C%EA%B5%AD/8062244/"/>
-        <updated>2022-05-11T03:01:34.807Z</updated>
-        <content type="html"><![CDATA[Artist Management]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weverse Company] 재무/회계Sr (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr-%ED%95%9C%EA%B5%AD/6191944/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-Weverse-Company-%EC%9E%AC%EB%AC%B4%ED%9A%8C%EA%B3%84Sr-%ED%95%9C%EA%B5%AD/6191944/"/>
-        <updated>2022-05-11T03:01:34.801Z</updated>
-        <content type="html"><![CDATA[Finance &amp; Accounting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE]보상운영 (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%B3%B4%EC%83%81%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/8469244/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE%EB%B3%B4%EC%83%81%EC%9A%B4%EC%98%81-%ED%95%9C%EA%B5%AD/8469244/"/>
-        <updated>2022-05-11T03:01:34.811Z</updated>
-        <content type="html"><![CDATA[HR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HYBE] 시니어 기획자(블록체인 서비스) (HYBE ─ ALL JOBS)]]></title>
-        <id>https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90%28%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4%29-%ED%95%9C%EA%B5%AD/8469544/</id>
-        <link href="https://careers.hybecorp.com/job/%EC%84%9C%EC%9A%B8-HYBE-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90%28%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4%29-%ED%95%9C%EA%B5%AD/8469544/"/>
-        <updated>2022-05-11T03:01:34.812Z</updated>
-        <content type="html"><![CDATA[Information Technology]]></content>
     </entry>
 </feed>
