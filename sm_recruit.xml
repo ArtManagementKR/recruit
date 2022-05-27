@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-05-27T13:34:18.967Z</updated>
+    <updated>2022-05-27T14:11:12.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -25,20 +25,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=796"/>
         <updated>2022-05-25T08:15:26.173Z</updated>
         <content type="html"><![CDATA[2022-05-25 ~ 2022-05-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=790</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=790"/>
-        <updated>2022-05-24T02:36:25.269Z</updated>
-        <content type="html"><![CDATA[2022-05-16 ~ 2022-05-27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 사회공헌(CSR) 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=788</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=788"/>
-        <updated>2022-05-10T10:13:34.561Z</updated>
-        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에스엠엔터테인먼트 A&R 담당자 채용]]></title>
@@ -74,5 +60,19 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2022-04-30T14:11:10.174Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2022-06-30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=790</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=790"/>
+        <updated>2022-05-24T02:36:25.269Z</updated>
+        <content type="html"><![CDATA[2022-05-16 ~ 2022-05-27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 사회공헌(CSR) 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=788</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=788"/>
+        <updated>2022-05-10T10:13:34.561Z</updated>
+        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-27]]></content>
     </entry>
 </feed>
