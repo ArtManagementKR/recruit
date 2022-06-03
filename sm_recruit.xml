@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-06-03T00:50:10.325Z</updated>
+    <updated>2022-06-03T02:49:02.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=794"/>
         <updated>2022-05-24T08:21:38.018Z</updated>
         <content type="html"><![CDATA[2022-05-24 ~ 2022-06-08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 2022 2분기 정기채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=798</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=798"/>
+        <updated>2022-06-03T02:48:39.875Z</updated>
+        <content type="html"><![CDATA[2022-06-03 ~ 2022-06-16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
@@ -66,13 +73,6 @@
         <id>https://recruit.smentertainment.com/Employ?employNo=787</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=787"/>
         <updated>2022-05-31T02:59:47.072Z</updated>
-        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 글로벌패키지 일본어/영어 담당(신입) 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=785</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=785"/>
-        <updated>2022-06-02T03:42:03.272Z</updated>
         <content type="html"><![CDATA[2022-05-10 ~ 2022-05-20]]></content>
     </entry>
 </feed>
