@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-07T06:14:42.084Z</updated>
+    <updated>2022-06-07T07:12:29.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-06-07T06:14:19.393Z</updated>
+        <updated>2022-06-07T07:12:01.203Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -32,6 +32,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=794"/>
         <updated>2022-05-24T08:21:38.018Z</updated>
         <content type="html"><![CDATA[2022-05-24 ~ 2022-06-08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 음원유통 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=799</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=799"/>
+        <updated>2022-06-07T07:12:07.210Z</updated>
+        <content type="html"><![CDATA[2022-06-07 ~ 2022-06-16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 2022 2분기 정기채용 (SM Entertainment ─ RECRUIT)]]></title>
@@ -74,13 +81,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=790"/>
         <updated>2022-05-24T02:36:25.269Z</updated>
         <content type="html"><![CDATA[2022-05-16 ~ 2022-05-27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 고객사 Travel Desk 담당 모집 (신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=787</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=787"/>
-        <updated>2022-05-31T02:59:47.072Z</updated>
-        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가수매니저(신입 및 경력) / 매니지먼트 담당자 (YG Entertainment ─ RECRUIT)]]></title>
