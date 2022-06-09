@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-06-09T02:57:11.861Z</updated>
+    <updated>2022-06-09T03:51:00.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -48,20 +48,6 @@
         <content type="html"><![CDATA[2021-01-01 ~ 2022-06-30]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 중국어 컨텐츠 제작 부문 인턴 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=794</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=794"/>
-        <updated>2022-05-24T08:21:38.018Z</updated>
-        <content type="html"><![CDATA[2022-05-24 ~ 2022-06-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 글로벌 비지니스 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=792</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=792"/>
-        <updated>2022-05-24T02:36:25.279Z</updated>
-        <content type="html"><![CDATA[2022-05-18 ~ 2022-06-05]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=793</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=793"/>
@@ -74,5 +60,19 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=796"/>
         <updated>2022-05-25T08:15:26.173Z</updated>
         <content type="html"><![CDATA[2022-05-25 ~ 2022-05-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=790</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=790"/>
+        <updated>2022-06-09T03:50:41.700Z</updated>
+        <content type="html"><![CDATA[2022-05-16 ~ 2022-05-27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 고객사 Travel Desk 담당 모집 (신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=787</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=787"/>
+        <updated>2022-06-09T03:50:41.701Z</updated>
+        <content type="html"><![CDATA[2022-05-10 ~ 2022-05-20]]></content>
     </entry>
 </feed>
