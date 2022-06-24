@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-06-24T13:34:41.243Z</updated>
+    <updated>2022-06-24T14:09:51.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[2022-06-09 ~ 2022-06-30]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 항공운영 담당(경력) 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=812</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=812"/>
-        <updated>2022-06-14T06:15:16.030Z</updated>
-        <content type="html"><![CDATA[2022-06-14 ~ 2022-06-24]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 컨텐츠마케팅 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=817</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=817"/>
+        <updated>2022-06-24T14:09:34.536Z</updated>
+        <content type="html"><![CDATA[2022-06-22 ~ 2022-06-29]]></content>
     </entry>
 </feed>
