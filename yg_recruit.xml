@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-06-30T00:56:06.817Z</updated>
+    <updated>2022-06-30T03:10:20.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=104031"/>
         <updated>2022-06-23T07:10:56.870Z</updated>
         <content type="html"><![CDATA[2022.06.23(목) 16:00 ~ 2022.07.07(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌사업(경력) / 해외 프로모션 및 행사 담당자 *연장]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=104982</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=104982"/>
+        <updated>2022-06-30T03:10:09.891Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 18:00 ~ 2022.07.06(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IP사업(경력) / IP사업 담당자]]></title>
@@ -67,12 +74,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=101630"/>
         <updated>2022-06-09T05:11:34.101Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 00:00 ~ 2022.06.23(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케팅전략(경력) / 아티스트 전략 담당자 *연장]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=100692</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=100692"/>
-        <updated>2022-06-08T21:10:16.694Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 00:00 ~ 2022.06.21(화) 18:00]]></content>
     </entry>
 </feed>
