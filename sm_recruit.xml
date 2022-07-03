@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-07-03T13:20:47.997Z</updated>
+    <updated>2022-07-03T14:10:44.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -48,20 +48,6 @@
         <content type="html"><![CDATA[2022-07-01 ~ 2022-07-06]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 경영기획 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=818</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=818"/>
-        <updated>2022-06-23T03:05:41.504Z</updated>
-        <content type="html"><![CDATA[2022-06-23 ~ 2022-07-03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 녹음,편집 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=813</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=813"/>
-        <updated>2022-06-30T14:11:41.875Z</updated>
-        <content type="html"><![CDATA[2022-06-20 ~ 2022-07-03]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 연기자매니지먼트 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=815</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=815"/>
@@ -74,5 +60,19 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=821"/>
         <updated>2022-07-01T14:10:06.760Z</updated>
         <content type="html"><![CDATA[2022-06-27 ~ 2022-07-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 디자인 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=823</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=823"/>
+        <updated>2022-07-03T14:10:24.048Z</updated>
+        <content type="html"><![CDATA[2022-06-27 ~ 2022-07-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 도슨트/큐레이터 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=827</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=827"/>
+        <updated>2022-07-03T14:10:24.049Z</updated>
+        <content type="html"><![CDATA[2022-06-29 ~ 2022-07-14]]></content>
     </entry>
 </feed>
