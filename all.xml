@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-04T10:13:02.729Z</updated>
+    <updated>2022-07-04T11:19:30.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-07-04T10:12:40.207Z</updated>
+        <updated>2022-07-04T11:19:08.611Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[2022-06-30 ~ 2022-07-29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=836</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=836"/>
+        <updated>2022-07-04T08:15:01.416Z</updated>
+        <content type="html"><![CDATA[2022-07-04 ~ 2022-07-14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 유튜브/SNS 콘텐츠 마케터 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=830</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=830"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[2022-06-30 ~ 2022-07-14]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=836</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=836"/>
-        <updated>2022-07-04T08:15:01.416Z</updated>
-        <content type="html"><![CDATA[2022-07-04 ~ 2022-07-14]]></content>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 경영기획 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=838</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=838"/>
+        <updated>2022-07-04T11:19:14.217Z</updated>
+        <content type="html"><![CDATA[2022-07-04 ~ 2022-07-12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 글로벌패키지 오퍼레이션 언어 담당자 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[2022-06-21 ~ 2022-07-04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 MD 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=821</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=821"/>
-        <updated>2022-07-01T14:10:06.760Z</updated>
-        <content type="html"><![CDATA[2022-06-27 ~ 2022-07-10]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[상시 채용/장애인 채용]  구매총무(신입 및 경력) / 의상관리파트 지원 담당자 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=103697</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=103697"/>
         <updated>2022-06-20T09:11:50.017Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 00:00 ~ 2022.12.31(토) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경영기획(경력) / 기획 및 예산 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=105368</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=105368"/>
+        <updated>2022-07-04T11:19:22.242Z</updated>
+        <content type="html"><![CDATA[2022.07.04(월) 00:00 ~ 2022.07.18(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영상제작(경력) / 영상 연출 및 제작 PD (YG Entertainment ─ RECRUIT)]]></title>
@@ -144,12 +151,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=103085"/>
         <updated>2022-06-15T10:13:32.785Z</updated>
         <content type="html"><![CDATA[2022.06.15(수) 18:00 ~ 2022.06.29(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수매니저(신입 및 경력) / 매니지먼트 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=101451</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=101451"/>
-        <updated>2022-06-08T21:10:16.684Z</updated>
-        <content type="html"><![CDATA[2022.06.01(수) 00:00 ~ 2022.06.26(일) 18:00]]></content>
     </entry>
 </feed>
