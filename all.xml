@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-14T01:05:48.158Z</updated>
+    <updated>2022-07-14T03:47:38.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2022-07-14T01:05:25.167Z</updated>
+        <updated>2022-07-14T03:47:13.942Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -39,6 +39,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=828"/>
         <updated>2022-06-30T03:10:00.825Z</updated>
         <content type="html"><![CDATA[2022-06-30 ~ 2022-07-29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 경영기획 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=845</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=845"/>
+        <updated>2022-07-14T03:47:20.539Z</updated>
+        <content type="html"><![CDATA[2022-07-14 ~ 2022-07-24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 운영지원(국내 및 해외) 각 담당자 모집 (SM Entertainment ─ RECRUIT)]]></title>
@@ -74,13 +81,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=827"/>
         <updated>2022-07-10T14:10:11.580Z</updated>
         <content type="html"><![CDATA[2022-06-29 ~ 2022-07-14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 사업 법무 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=834</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=834"/>
-        <updated>2022-07-12T14:21:09.346Z</updated>
-        <content type="html"><![CDATA[2022-07-01 ~ 2022-07-17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[상시 채용/장애인 채용]  구매총무(신입 및 경력) / 의상관리파트 지원 담당자 (YG Entertainment ─ RECRUIT)]]></title>
