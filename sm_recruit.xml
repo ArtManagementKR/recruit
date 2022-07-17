@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-07-17T13:22:05.492Z</updated>
+    <updated>2022-07-17T14:10:49.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[2022-07-04 ~ 2022-07-22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 운영지원(국내 및 해외) 각 담당자 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=839</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=839"/>
-        <updated>2022-07-05T09:21:35.489Z</updated>
-        <content type="html"><![CDATA[2022-07-05 ~ 2022-07-17]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 도슨트/큐레이터 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=851</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=851"/>
+        <updated>2022-07-17T14:10:27.045Z</updated>
+        <content type="html"><![CDATA[2022-07-15 ~ 2022-07-24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 사업 법무 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=834</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=834"/>
-        <updated>2022-07-14T14:11:32.975Z</updated>
-        <content type="html"><![CDATA[2022-07-01 ~ 2022-07-17]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 앨범 기획/디자인 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=842</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=842"/>
+        <updated>2022-07-17T14:10:27.048Z</updated>
+        <content type="html"><![CDATA[2022-07-12 ~ 2022-07-25]]></content>
     </entry>
 </feed>
