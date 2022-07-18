@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-07-17T23:12:28.805Z</updated>
+    <updated>2022-07-18T01:00:31.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[2022.07.06(수) 00:00 ~ 2022.07.20(수) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경영기획(경력) / 기획 및 예산 담당자]]></title>
+        <title type="html"><![CDATA[경영기획(경력) / 기획 및 예산 담당자 *연장]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=105368</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=105368"/>
         <updated>2022-07-04T11:19:22.242Z</updated>
-        <content type="html"><![CDATA[2022.07.04(월) 00:00 ~ 2022.07.18(월) 18:00]]></content>
+        <content type="html"><![CDATA[2022.07.04(월) 00:00 ~ 2022.07.25(월) 23:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영상제작(경력) / 영상 연출 및 제작 PD]]></title>
