@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-07-18T08:16:09.195Z</updated>
+    <updated>2022-07-18T09:12:10.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -34,11 +34,25 @@
         <content type="html"><![CDATA[2022-06-30 ~ 2022-07-29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 글로벌패키지 오퍼레이션 언어 담당자 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=852</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=852"/>
+        <updated>2022-07-18T09:11:52.848Z</updated>
+        <content type="html"><![CDATA[2022-07-18 ~ 2022-07-25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 경영기획 담당 모집(신입/경력)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=845</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=845"/>
         <updated>2022-07-14T03:47:20.539Z</updated>
         <content type="html"><![CDATA[2022-07-14 ~ 2022-07-24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=836</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=836"/>
+        <updated>2022-07-04T08:15:01.416Z</updated>
+        <content type="html"><![CDATA[2022-07-04 ~ 2022-07-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 유튜브/SNS 콘텐츠 마케터 경력직 모집]]></title>
@@ -55,24 +69,10 @@
         <content type="html"><![CDATA[2022-06-30 ~ 2022-07-22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=836</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=836"/>
-        <updated>2022-07-04T08:15:01.416Z</updated>
-        <content type="html"><![CDATA[2022-07-04 ~ 2022-07-22]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 도슨트/큐레이터 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=851</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=851"/>
         <updated>2022-07-17T14:10:27.045Z</updated>
         <content type="html"><![CDATA[2022-07-15 ~ 2022-07-24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 앨범 기획/디자인 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=842</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=842"/>
-        <updated>2022-07-17T14:10:27.048Z</updated>
-        <content type="html"><![CDATA[2022-07-12 ~ 2022-07-25]]></content>
     </entry>
 </feed>
