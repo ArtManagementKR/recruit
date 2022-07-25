@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-07-25T01:00:30.088Z</updated>
+    <updated>2022-07-25T03:19:43.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=107170"/>
         <updated>2022-07-19T03:54:18.806Z</updated>
         <content type="html"><![CDATA[2022.07.19(화) 00:00 ~ 2022.08.02(화) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IP사업(인턴) / IP사업 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=108129</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=108129"/>
+        <updated>2022-07-25T03:19:34.652Z</updated>
+        <content type="html"><![CDATA[2022.07.25(월) 11:00 ~ 2022.07.31(일) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IP사업(경력) / IP사업 담당자]]></title>
@@ -67,12 +74,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=105815"/>
         <updated>2022-07-07T07:10:57.507Z</updated>
         <content type="html"><![CDATA[2022.07.07(목) 16:00 ~ 2022.07.21(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회계(신입) / 회계 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=105781</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=105781"/>
-        <updated>2022-07-06T12:24:11.922Z</updated>
-        <content type="html"><![CDATA[2022.07.06(수) 00:00 ~ 2022.07.20(수) 18:00]]></content>
     </entry>
 </feed>
