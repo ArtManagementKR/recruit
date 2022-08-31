@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-08-31T13:36:29.439Z</updated>
+    <updated>2022-08-31T14:13:22.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -34,11 +34,25 @@
         <content type="html"><![CDATA[2022-08-23 ~ 2022-09-12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=556</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
+        <updated>2022-08-31T14:13:04.197Z</updated>
+        <content type="html"><![CDATA[2021-01-01 ~ 2022-12-31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 가수매니지먼트 담당자 상시채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=856</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=856"/>
         <updated>2022-08-25T12:24:08.174Z</updated>
         <content type="html"><![CDATA[2022-07-14 ~ 2022-08-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 IR 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=883</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=883"/>
+        <updated>2022-08-31T14:13:04.199Z</updated>
+        <content type="html"><![CDATA[2022-08-23 ~ 2022-08-31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 MICE/이벤트 행사 담당 모집(신입/경력)]]></title>
@@ -59,20 +73,6 @@
         <id>https://recruit.smentertainment.com/Employ?employNo=880</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=880"/>
         <updated>2022-08-25T12:24:08.183Z</updated>
-        <content type="html"><![CDATA[2022-08-12 ~ 2022-08-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 동남아 경영관리 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=879</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=879"/>
-        <updated>2022-08-25T12:24:08.184Z</updated>
-        <content type="html"><![CDATA[2022-08-12 ~ 2022-08-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 사우디아라비아 경영기획 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=878</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=878"/>
-        <updated>2022-08-25T12:24:08.186Z</updated>
         <content type="html"><![CDATA[2022-08-12 ~ 2022-08-31]]></content>
     </entry>
 </feed>
