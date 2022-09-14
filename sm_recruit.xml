@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-09-14T01:06:47.648Z</updated>
+    <updated>2022-09-14T04:10:39.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=885"/>
         <updated>2022-09-12T15:14:10.034Z</updated>
         <content type="html"><![CDATA[2022-08-25 ~ 2022-09-23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 유튜브/SNS 콘텐츠 마케터 경력직 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=888</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=888"/>
+        <updated>2022-09-12T15:14:10.039Z</updated>
+        <content type="html"><![CDATA[2022-08-31 ~ 2022-09-18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠 협찬 세일즈 마케터 경력직 모집]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=887</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=887"/>
+        <updated>2022-09-12T15:14:10.041Z</updated>
+        <content type="html"><![CDATA[2022-08-31 ~ 2022-09-18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 CS 및 모니터링 담당자 채용]]></title>
@@ -34,18 +48,11 @@
         <content type="html"><![CDATA[2022-09-05 ~ 2022-09-18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 유튜브/SNS 콘텐츠 마케터 경력직 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=888</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=888"/>
-        <updated>2022-09-12T15:14:10.039Z</updated>
-        <content type="html"><![CDATA[2022-08-31 ~ 2022-09-18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 제작부문 콘텐츠 협찬 세일즈 마케터 경력직 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=887</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=887"/>
-        <updated>2022-09-12T15:14:10.041Z</updated>
-        <content type="html"><![CDATA[2022-08-31 ~ 2022-09-18]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 IR 담당자 경력 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=893</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=893"/>
+        <updated>2022-09-12T15:14:10.042Z</updated>
+        <content type="html"><![CDATA[2022-09-07 ~ 2022-09-18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 2022 3분기 정기채용]]></title>
@@ -53,13 +60,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=886"/>
         <updated>2022-09-12T15:14:10.041Z</updated>
         <content type="html"><![CDATA[2022-09-01 ~ 2022-09-18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 IR 담당자 경력 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=893</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=893"/>
-        <updated>2022-09-12T15:14:10.042Z</updated>
-        <content type="html"><![CDATA[2022-09-07 ~ 2022-09-18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 글로벌 라이선스 담당자 경력 채용]]></title>
