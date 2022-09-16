@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-16T08:16:38.245Z</updated>
+    <updated>2022-09-16T09:14:08.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -166,6 +166,13 @@
         <content type="html"><![CDATA[2022.06.20(월) 00:00 ~ 2022.12.31(토) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사진(경력) / 사진 촬영 및 편집 담당자 (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=114474</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=114474"/>
+        <updated>2022-09-16T09:14:00.349Z</updated>
+        <content type="html"><![CDATA[2022.09.16(금) 00:00 ~ 2022.10.04(화) 23:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CR센터(신입 및 경력) / 국내 PR 담당자 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=114267</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=114267"/>
@@ -220,12 +227,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=112242"/>
         <updated>2022-08-31T01:15:08.490Z</updated>
         <content type="html"><![CDATA[2022.08.29(월) 10:00 ~ 2022.09.08(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT사업(신입 및 경력) / NFT사업 담당자 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=111300</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=111300"/>
-        <updated>2022-08-31T01:15:08.490Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 11:00 ~ 2022.09.04(일) 23:59]]></content>
     </entry>
 </feed>
