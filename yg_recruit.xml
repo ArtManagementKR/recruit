@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2022-09-19T01:09:30.033Z</updated>
+    <updated>2022-09-19T04:22:18.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=103697"/>
         <updated>2022-08-31T01:15:08.487Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 00:00 ~ 2022.12.31(토) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가수매니저(신입 및 경력) / 매니지먼트 담당자]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=114842</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=114842"/>
+        <updated>2022-09-19T04:22:11.680Z</updated>
+        <content type="html"><![CDATA[2022.09.19(월) 12:00 ~ 2022.10.10(월) 23:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사진(경력) / 사진 촬영 및 편집 담당자]]></title>
@@ -67,12 +74,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=112510"/>
         <updated>2022-08-31T01:15:08.489Z</updated>
         <content type="html"><![CDATA[2022.08.30(화) 00:00 ~ 2022.09.12(월) 23:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자인센터(경력) / 웹 디자인 담당자]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=111808</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=111808"/>
-        <updated>2022-08-31T01:15:08.490Z</updated>
-        <content type="html"><![CDATA[2022.08.24(수) 18:00 ~ 2022.09.11(일) 23:59]]></content>
     </entry>
 </feed>
