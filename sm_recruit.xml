@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-10-23T20:15:07.075Z</updated>
+    <updated>2022-10-23T21:12:53.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 가수매니지먼트 담당자 상시채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=902</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=902"/>
-        <updated>2022-10-23T20:14:53.038Z</updated>
-        <content type="html"><![CDATA[2022-09-21 ~ 2022-11-30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 중국지역 영상 유통 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=917</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=917"/>
-        <updated>2022-10-23T20:14:53.042Z</updated>
-        <content type="html"><![CDATA[2022-10-13 ~ 2022-10-27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 앨범 기획/디자인 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=916</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=916"/>
-        <updated>2022-10-23T20:14:53.042Z</updated>
-        <content type="html"><![CDATA[2022-10-12 ~ 2022-10-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)에스엠브랜드마케팅 회계 담당 보훈대상자 특별 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=897</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=897"/>
-        <updated>2022-10-23T20:14:53.044Z</updated>
-        <content type="html"><![CDATA[2022-09-14 ~ 2022-11-30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=556</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
-        <updated>2022-10-23T20:14:53.044Z</updated>
-        <content type="html"><![CDATA[2021-01-01 ~ 2022-12-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 MD 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=918</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=918"/>
-        <updated>2022-10-23T20:14:53.047Z</updated>
-        <content type="html"><![CDATA[2022-10-17 ~ 2022-10-23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=915</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=915"/>
-        <updated>2022-10-23T20:14:53.048Z</updated>
-        <content type="html"><![CDATA[2022-10-11 ~ 2022-10-21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 CS 및 모니터링 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=910</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=910"/>
-        <updated>2022-10-23T20:14:53.048Z</updated>
-        <content type="html"><![CDATA[2022-10-04 ~ 2022-10-20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 FC매니지먼트 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=914</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=914"/>
-        <updated>2022-10-23T20:14:53.049Z</updated>
-        <content type="html"><![CDATA[2022-10-06 ~ 2022-10-19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 FC매니지먼트 인턴 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=912</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=912"/>
-        <updated>2022-10-23T20:14:53.052Z</updated>
-        <content type="html"><![CDATA[2022-10-06 ~ 2022-10-19]]></content>
-    </entry>
 </feed>
