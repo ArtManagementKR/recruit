@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-12-12T02:19:08.281Z</updated>
+    <updated>2022-12-12T03:17:08.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -41,7 +41,7 @@
         <content type="html"><![CDATA[2022-12-07 ~ 2022-12-16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스트림 미디어 코퍼레이션(SM ENTERTAINMENT 일본 계열사) 매니지먼트 담당자 채]]></title>
+        <title type="html"><![CDATA[스트림미디어코퍼레이션(SM ENTERTAINMENT 일본 계열사) 매니지먼트 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=954</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=954"/>
         <updated>2022-12-12T02:18:52.314Z</updated>
