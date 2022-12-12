@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-12-12T00:54:19.055Z</updated>
+    <updated>2022-12-12T02:19:08.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,20 @@
         <content type="html"><![CDATA[2022-12-07 ~ 2022-12-16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스트림 미디어 코퍼레이션(SM ENTERTAINMENT 일본 계열사) 매니지먼트 담당자 채]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=954</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=954"/>
+        <updated>2022-12-12T02:18:52.314Z</updated>
+        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 2022 4분기 정기채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=953</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=953"/>
+        <updated>2022-12-12T02:18:52.316Z</updated>
+        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=556</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
@@ -60,19 +74,5 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=948"/>
         <updated>2022-12-02T04:12:30.069Z</updated>
         <content type="html"><![CDATA[2022-12-02 ~ 2022-12-11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업(글로벌) 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=945</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=945"/>
-        <updated>2022-11-24T02:29:30.066Z</updated>
-        <content type="html"><![CDATA[2022-11-24 ~ 2022-12-02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=944</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=944"/>
-        <updated>2022-11-24T02:29:30.068Z</updated>
-        <content type="html"><![CDATA[2022-11-24 ~ 2022-12-02]]></content>
     </entry>
 </feed>
