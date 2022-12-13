@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-12-13T06:14:15.922Z</updated>
+    <updated>2022-12-13T07:10:20.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[2022-12-07 ~ 2022-12-16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 뮤직라이선싱 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=955</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=955"/>
+        <updated>2022-12-13T07:10:02.520Z</updated>
+        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스트림미디어코퍼레이션(SM ENTERTAINMENT 일본 계열사) 매니지먼트 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=954</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=954"/>
@@ -67,12 +74,5 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=946"/>
         <updated>2022-12-01T02:50:55.186Z</updated>
         <content type="html"><![CDATA[2022-12-01 ~ 2022-12-11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 글로벌패키지 오퍼레이션 행사 운영 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=948</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=948"/>
-        <updated>2022-12-02T04:12:30.069Z</updated>
-        <content type="html"><![CDATA[2022-12-02 ~ 2022-12-11]]></content>
     </entry>
 </feed>
