@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-16T07:10:12.802Z</updated>
+    <updated>2022-12-16T08:13:37.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -89,13 +89,6 @@
         <content type="html"><![CDATA[2022-11-01 ~ 2022-11-17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 CS 및 모니터링 영문 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=947</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=947"/>
-        <updated>2022-12-01T10:12:34.990Z</updated>
-        <content type="html"><![CDATA[2022-12-01 ~ 2022-12-23]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 온라인 항공권 예약 및 발권 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=949</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=949"/>
@@ -108,6 +101,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=952"/>
         <updated>2022-12-07T09:10:51.092Z</updated>
         <content type="html"><![CDATA[2022-12-07 ~ 2022-12-23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM브랜드마케팅 CS 및 모니터링 영문 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=947</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=947"/>
+        <updated>2022-12-01T10:12:34.990Z</updated>
+        <content type="html"><![CDATA[2022-12-01 ~ 2022-12-23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 글로벌패키지 오퍼레이션 행사 운영 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
