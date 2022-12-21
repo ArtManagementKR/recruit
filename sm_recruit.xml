@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-12-21T06:13:36.191Z</updated>
+    <updated>2022-12-21T07:10:05.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 온라인 항공권 예약 및 발권 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=949</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=949"/>
-        <updated>2022-12-06T02:15:13.182Z</updated>
-        <content type="html"><![CDATA[2022-12-06 ~ 2022-12-23]]></content>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=959</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=959"/>
+        <updated>2022-12-21T07:09:48.842Z</updated>
+        <content type="html"><![CDATA[2022-12-21 ~ 2023-01-02]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 제휴사업 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=952</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=952"/>
-        <updated>2022-12-07T09:10:51.092Z</updated>
-        <content type="html"><![CDATA[2022-12-07 ~ 2022-12-23]]></content>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업(글로벌) 담당 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=958</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=958"/>
+        <updated>2022-12-21T07:09:48.851Z</updated>
+        <content type="html"><![CDATA[2022-12-21 ~ 2023-01-02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 CS 및 모니터링 영문 담당자 채용]]></title>
@@ -32,6 +32,20 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=956"/>
         <updated>2022-12-13T09:11:07.728Z</updated>
         <content type="html"><![CDATA[2022-12-13 ~ 2022-12-23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 온라인 항공권 예약 및 발권 담당 모집(신입/경력)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=949</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=949"/>
+        <updated>2022-12-06T02:15:13.182Z</updated>
+        <content type="html"><![CDATA[2022-12-06 ~ 2022-12-23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM브랜드마케팅 제휴사업 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=952</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=952"/>
+        <updated>2022-12-07T09:10:51.092Z</updated>
+        <content type="html"><![CDATA[2022-12-07 ~ 2022-12-23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 뮤직라이선싱 담당자 채용]]></title>
@@ -60,19 +74,5 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=556"/>
         <updated>2022-11-28T14:10:50.956Z</updated>
         <content type="html"><![CDATA[2021-01-01 ~ 2022-12-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 MD 해외 수출 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=957</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=957"/>
-        <updated>2022-12-21T04:12:25.698Z</updated>
-        <content type="html"><![CDATA[2022-12-20 ~ 2023-01-01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=951</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=951"/>
-        <updated>2022-12-07T06:13:50.824Z</updated>
-        <content type="html"><![CDATA[2022-12-07 ~ 2022-12-16]]></content>
     </entry>
 </feed>
