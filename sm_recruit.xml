@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-12-25T13:13:49.008Z</updated>
+    <updated>2022-12-25T14:08:55.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -18,27 +18,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=958"/>
         <updated>2022-12-21T07:09:48.851Z</updated>
         <content type="html"><![CDATA[2022-12-21 ~ 2023-01-02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 뮤직라이선싱 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=955</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=955"/>
-        <updated>2022-12-13T07:10:02.520Z</updated>
-        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트림미디어코퍼레이션(SM ENTERTAINMENT 일본 계열사) 매니지먼트 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=954</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=954"/>
-        <updated>2022-12-12T02:18:52.314Z</updated>
-        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 2022 4분기 정기채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=953</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=953"/>
-        <updated>2022-12-12T02:18:52.316Z</updated>
-        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(주)SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
@@ -60,6 +39,27 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=965"/>
         <updated>2022-12-23T14:09:23.388Z</updated>
         <content type="html"><![CDATA[2022-12-22 ~ 2023-01-05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 뮤직라이선싱 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=955</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=955"/>
+        <updated>2022-12-13T07:10:02.520Z</updated>
+        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트림미디어코퍼레이션(SM ENTERTAINMENT 일본 계열사) 매니지먼트 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=954</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=954"/>
+        <updated>2022-12-12T02:18:52.314Z</updated>
+        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 2022 4분기 정기채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=953</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=953"/>
+        <updated>2022-12-12T02:18:52.316Z</updated>
+        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 글로벌패키지 오퍼레이션 행사 운영 담당 모집(신입/경력)]]></title>
