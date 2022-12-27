@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2022-12-27T00:50:13.226Z</updated>
+    <updated>2022-12-27T02:07:07.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[2022-12-22 ~ 2023-01-05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 연기자매니지먼트 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=967</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=967"/>
+        <updated>2022-12-27T02:06:51.029Z</updated>
+        <content type="html"><![CDATA[2022-12-27 ~ 2023-01-09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 뮤직라이선싱 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=955</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=955"/>
@@ -66,13 +73,6 @@
         <id>https://recruit.smentertainment.com/Employ?employNo=954</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=954"/>
         <updated>2022-12-12T02:18:52.314Z</updated>
-        <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 2022 4분기 정기채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=953</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=953"/>
-        <updated>2022-12-12T02:18:52.316Z</updated>
         <content type="html"><![CDATA[2022-12-12 ~ 2022-12-25]]></content>
     </entry>
 </feed>
