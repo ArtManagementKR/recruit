@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-30T05:10:09.561Z</updated>
+    <updated>2022-12-30T06:13:34.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -213,19 +213,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=122695"/>
         <updated>2022-11-16T17:21:49.863Z</updated>
         <content type="html"><![CDATA[2022.11.16(수) 11:00 ~ 2022.12.05(월) 23:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌경영관리 / 글로벌 DB 및 정산 담당자(신입)*연장 (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=119166</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=119166"/>
-        <updated>2022-12-12T08:14:22.620Z</updated>
-        <content type="html"><![CDATA[2022.10.21(금) 11:00 ~ 2022.11.14(월) 23:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영상제작 / 영상 연출 및 제작 PD(신입 및 경력) (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=120204</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=120204"/>
-        <updated>2022-12-26T08:13:37.986Z</updated>
-        <content type="html"><![CDATA[2022.10.28(금) 18:00 ~ 2022.11.14(월) 23:59]]></content>
     </entry>
 </feed>
