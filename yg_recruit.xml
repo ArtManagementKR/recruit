@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2023-01-03T09:10:56.192Z</updated>
+    <updated>2023-01-03T10:11:29.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[2022.11.30(수) 11:00 ~ 2022.12.12(월) 23:59]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가수매니저 / 매니지먼트 담당자(신입 및 경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=123304</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=123304"/>
-        <updated>2022-11-22T07:11:51.403Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 11:00 ~ 2022.12.12(월) 23:59]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[경영관리 / IR·공시 담당자(신입 및 경력) *연장]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=122586</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=122586"/>
@@ -46,12 +39,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=122579"/>
         <updated>2022-11-16T17:21:49.870Z</updated>
         <content type="html"><![CDATA[2022.11.16(수) 00:00 ~ 2022.12.07(수) 23:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우매니저 / 매니지먼트 담당자(신입 및 경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=122695</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=122695"/>
-        <updated>2022-11-16T17:21:49.863Z</updated>
-        <content type="html"><![CDATA[2022.11.16(수) 11:00 ~ 2022.12.05(월) 23:59]]></content>
     </entry>
 </feed>
