@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-16T13:20:00.947Z</updated>
+    <updated>2023-01-16T14:10:40.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2023-01-16T13:19:38.823Z</updated>
+        <updated>2023-01-16T14:10:16.110Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[2022-12-26 ~ 2023-01-20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 항공예약발권 담당 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=978</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=978"/>
-        <updated>2023-01-11T00:53:21.483Z</updated>
-        <content type="html"><![CDATA[2023-01-11 ~ 2023-01-16]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 아티스트 비주얼 기획 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=976</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=976"/>
         <updated>2023-01-09T06:13:46.100Z</updated>
         <content type="html"><![CDATA[2023-01-04 ~ 2023-02-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 항공예약발권 담당 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=978</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=978"/>
+        <updated>2023-01-11T00:53:21.483Z</updated>
+        <content type="html"><![CDATA[2023-01-11 ~ 2023-01-16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 웹 서비스 기획 담당 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
