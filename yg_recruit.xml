@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2023-02-14T09:12:13.971Z</updated>
+    <updated>2023-02-14T10:12:59.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[M&F센터 / 연습생 트레이너]]></title>
+        <title type="html"><![CDATA[M&F센터 / 연습생 트레이너(신입 및 경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=132391</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=132391"/>
         <updated>2023-02-14T06:14:57.909Z</updated>
