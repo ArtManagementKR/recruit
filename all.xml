@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-06T06:13:26.447Z</updated>
+    <updated>2023-04-06T07:09:58.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -96,6 +96,13 @@
         <content type="html"><![CDATA[2023-03-23 ~ 2023-12-31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 가수매니지먼트 담당자 상시채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1028</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1028"/>
+        <updated>2023-04-06T07:09:41.755Z</updated>
+        <content type="html"><![CDATA[2023-04-10 ~ 2023-04-30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 온라인 항공권 예약 및 발권 담당 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1023</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1023"/>
@@ -152,18 +159,18 @@
         <content type="html"><![CDATA[2023-04-06 ~ 2023-04-11]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 기업 및 브랜딩 홍보 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1027</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1027"/>
-        <updated>2023-04-04T07:09:39.775Z</updated>
-        <content type="html"><![CDATA[2023-04-04 ~ 2023-04-16]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상시 인재 POOL (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=136857</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=136857"/>
         <updated>2023-03-17T03:11:50.236Z</updated>
         <content type="html"><![CDATA[2023.03.17(금) 00:00 ~ 2023.12.31(일) 23:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A&R팀 / 신인걸그룹 A&R 담당 (신입 및 경력) (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=138985</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=138985"/>
+        <updated>2023-04-06T07:09:50.279Z</updated>
+        <content type="html"><![CDATA[2023.04.06(목) 00:00 ~ 2023.04.19(수) 23:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[YGX] 매니저 / 매니지먼트 담당자(신입 및 경력) (YG Entertainment ─ RECRUIT)]]></title>
@@ -220,12 +227,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=134618"/>
         <updated>2023-03-03T06:17:07.731Z</updated>
         <content type="html"><![CDATA[2023.03.03(금) 00:00 ~ 2023.03.27(월) 23:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A&R / 아티스트 담당자(경력) (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=135253</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=135253"/>
-        <updated>2023-03-06T11:10:21.626Z</updated>
-        <content type="html"><![CDATA[2023.03.06(월) 00:00 ~ 2023.03.20(월) 23:59]]></content>
     </entry>
 </feed>
