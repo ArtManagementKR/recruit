@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-24T05:10:05.769Z</updated>
+    <updated>2023-04-24T06:13:56.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -96,6 +96,13 @@
         <content type="html"><![CDATA[2023-03-23 ~ 2023-12-31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 항공예약발권 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1053</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1053"/>
+        <updated>2023-04-24T06:13:39.914Z</updated>
+        <content type="html"><![CDATA[2023-04-24 ~ 2023-05-07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 회계 담당자 모집 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1039</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1039"/>
@@ -150,13 +157,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1052"/>
         <updated>2023-04-23T14:08:23.929Z</updated>
         <content type="html"><![CDATA[2023-04-14 ~ 2023-04-30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 컨텐츠 기획/제작 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1049</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1049"/>
-        <updated>2023-04-23T14:08:23.931Z</updated>
-        <content type="html"><![CDATA[2023-04-19 ~ 2023-05-02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 상반기 CREATIVE INTERNSHIP (YG Entertainment ─ RECRUIT)]]></title>
