@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-30T13:10:37.986Z</updated>
+    <updated>2023-04-30T14:08:15.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[2023-03-23 ~ 2023-12-31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 가수매니지먼트 담당자 상시채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1028</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1028"/>
-        <updated>2023-04-06T07:09:41.755Z</updated>
-        <content type="html"><![CDATA[2023-04-10 ~ 2023-05-31]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 온라인 항공권 예약 및 발권 담당 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1059</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1059"/>
         <updated>2023-04-28T08:12:42.574Z</updated>
         <content type="html"><![CDATA[2023-04-28 ~ 2023-05-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 가수매니지먼트 담당자 상시채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1028</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1028"/>
+        <updated>2023-04-06T07:09:41.755Z</updated>
+        <content type="html"><![CDATA[2023-04-10 ~ 2023-05-31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM컬처앤콘텐츠 여행사업 법인영업 비자 담당 모집(신입/경력) (SM Entertainment ─ RECRUIT)]]></title>
@@ -138,25 +138,25 @@
         <content type="html"><![CDATA[2023-04-24 ~ 2023-05-07]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM브랜드마케팅 회계 담당자 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1039</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1039"/>
-        <updated>2023-04-14T08:13:12.884Z</updated>
-        <content type="html"><![CDATA[2023-04-14 ~ 2023-04-30]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 컨텐츠 기획/제작 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1049</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1049"/>
+        <updated>2023-04-30T14:07:59.293Z</updated>
+        <content type="html"><![CDATA[2023-04-19 ~ 2023-05-02]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 멀티기획운영 담당자 채용 (1년계약직) (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1046</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1046"/>
-        <updated>2023-04-23T14:08:23.923Z</updated>
-        <content type="html"><![CDATA[2023-04-17 ~ 2023-04-30]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 CRM마케팅 경력직 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1050</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1050"/>
+        <updated>2023-04-30T14:07:59.294Z</updated>
+        <content type="html"><![CDATA[2023-04-21 ~ 2023-05-07]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 컨텐츠 마케팅 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1045</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1045"/>
-        <updated>2023-04-28T14:09:27.832Z</updated>
-        <content type="html"><![CDATA[2023-04-18 ~ 2023-04-30]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 연기자 매니지먼트 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1038</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1038"/>
+        <updated>2023-04-30T14:07:59.296Z</updated>
+        <content type="html"><![CDATA[2023-04-12 ~ 2023-05-07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 상반기 CREATIVE INTERNSHIP (YG Entertainment ─ RECRUIT)]]></title>
