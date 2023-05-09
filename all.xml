@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-09T10:13:10.264Z</updated>
+    <updated>2023-05-09T11:08:43.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -159,13 +159,6 @@
         <content type="html"><![CDATA[2023-05-03 ~ 2023-05-14]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상시 인재 POOL (YG Entertainment ─ RECRUIT)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=136857</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=136857"/>
-        <updated>2023-05-09T05:09:30.874Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 00:00 ~ 2023.12.31(일) 23:59]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[YGX] 매니저 / 매니지먼트 담당자(신입 및 경력)_연장 (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=141544</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=141544"/>
@@ -227,5 +220,12 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=135485"/>
         <updated>2023-03-14T05:10:43.326Z</updated>
         <content type="html"><![CDATA[2023.03.14(화) 00:00 ~ 2023.03.28(화) 23:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘텐츠검수팀 / 콘텐츠 검수담당자(신입 및 경력) (YG Entertainment ─ RECRUIT)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=135943</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=135943"/>
+        <updated>2023-05-09T11:08:30.625Z</updated>
+        <content type="html"><![CDATA[2023.03.13(월) 00:00 ~ 2023.03.27(월) 23:59]]></content>
     </entry>
 </feed>
