@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-07T08:14:49.514Z</updated>
+    <updated>2023-07-07T09:11:44.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2023-07-07T08:14:26.860Z</updated>
+        <updated>2023-07-07T09:11:21.887Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -73,7 +73,7 @@
         <id>https://recruit.smentertainment.com/Employ?employNo=1114</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1114"/>
         <updated>2023-06-30T14:09:34.602Z</updated>
-        <content type="html"><![CDATA[2023-06-26 ~ 2023-07-09]]></content>
+        <content type="html"><![CDATA[2023-06-26 ~ 2023-07-16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 international A&R 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
