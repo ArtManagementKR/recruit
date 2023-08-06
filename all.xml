@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-06T13:10:41.723Z</updated>
+    <updated>2023-08-06T14:08:40.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
@@ -131,20 +131,6 @@
         <content type="html"><![CDATA[2023-08-01 ~ 2023-08-07]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 여행상품 기획 및 판매 담당 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1130</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1130"/>
-        <updated>2023-07-26T03:10:18.512Z</updated>
-        <content type="html"><![CDATA[2023-07-26 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 디지털 미디어 플래너 경력직 모집 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1129</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1129"/>
-        <updated>2023-07-25T03:10:29.707Z</updated>
-        <content type="html"><![CDATA[2023-07-25 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 국내A&R 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1131</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1131"/>
@@ -157,6 +143,20 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1136"/>
         <updated>2023-08-01T10:10:21.622Z</updated>
         <content type="html"><![CDATA[2023-08-01 ~ 2023-08-11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1138</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1138"/>
+        <updated>2023-08-06T14:08:24.053Z</updated>
+        <content type="html"><![CDATA[2023-08-04 ~ 2023-08-27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 국내A&R(경력직) 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1125</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1125"/>
+        <updated>2023-08-06T14:08:24.055Z</updated>
+        <content type="html"><![CDATA[2023-07-13 ~ 2023-08-31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포토스튜디오 / 사진 촬영 및 편집 담당자(신입 및 경력) (YG Entertainment ─ RECRUIT)]]></title>
