@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2023-08-09T13:15:14.323Z</updated>
+    <updated>2023-08-09T14:10:27.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[2023-08-03 ~ 2023-08-13]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 국내A&R 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1131</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1131"/>
-        <updated>2023-07-31T14:10:13.002Z</updated>
-        <content type="html"><![CDATA[2023-07-27 ~ 2023-08-09]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 IR 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1136</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1136"/>
         <updated>2023-08-01T10:10:21.622Z</updated>
         <content type="html"><![CDATA[2023-08-01 ~ 2023-08-11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1138</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1138"/>
+        <updated>2023-08-09T14:10:10.468Z</updated>
+        <content type="html"><![CDATA[2023-08-04 ~ 2023-08-27]]></content>
     </entry>
 </feed>
