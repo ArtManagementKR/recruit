@@ -2,91 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-19T06:14:23.426Z</updated>
+    <updated>2023-10-19T07:10:05.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 매니저 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=657&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=657&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.511Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 마케팅 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=658&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=658&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.511Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 해외 마케팅 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=659&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=659&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.511Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 팬마케팅 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=660&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=660&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.512Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 영상 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=661&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=661&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.513Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 Music 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=662&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=662&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.520Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 Production 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=663&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=663&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.522Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 Production Coordinator 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=664&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=664&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.524Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 컨텐츠지원 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=668&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=668&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.527Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 디자인 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=665&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=665&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.529Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트  공연  공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=672&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=672&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-24T03:11:22.382Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 JYP엔터테인먼트 연출가(퍼포먼스디렉터) 공개 채용 (JYP RECRUIT)]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=666&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=666&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2023-07-13T15:11:30.531Z</updated>
-        <content type="html"><![CDATA[2023-07-14 ~ 2023-08-06]]></content>
+        <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
+        <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
+        <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
+        <updated>2023-10-19T07:09:40.615Z</updated>
+        <content type="html"><![CDATA[<!-- 목록없음 -->
+                진행중인 채용공고가 없습니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 콘텐츠 디자인 담당 채용 (수시채용) (SM Entertainment ─ RECRUIT)]]></title>
