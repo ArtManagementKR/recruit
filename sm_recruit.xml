@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2024-01-10T00:45:21.834Z</updated>
+    <updated>2024-01-10T01:54:59.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 가수매니지먼트 담당자 상시채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1253</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1253"/>
+        <updated>2024-01-10T01:54:44.487Z</updated>
+        <content type="html"><![CDATA[2024-01-10 ~ 2024-01-24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 재무기획 경력직 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1252</id>
@@ -67,12 +74,5 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1237"/>
         <updated>2024-01-02T10:10:39.216Z</updated>
         <content type="html"><![CDATA[2023-11-28 ~ 2023-12-11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 BTL 기획 담당 경력직 모집]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1235</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1235"/>
-        <updated>2024-01-02T10:10:39.217Z</updated>
-        <content type="html"><![CDATA[2023-11-27 ~ 2023-12-10]]></content>
     </entry>
 </feed>
