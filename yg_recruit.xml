@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-01-11T08:14:01.329Z</updated>
+    <updated>2024-01-11T09:10:40.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이터사이언스 / 데이터 분석 및 모델링 담당자(경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=167926</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=167926"/>
+        <updated>2024-01-11T09:10:33.029Z</updated>
+        <content type="html"><![CDATA[2024.01.10(수) 00:00 ~ 2024.01.21(일) 23:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재무기획팀 / 재무기획 담당자(경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=165471</id>
@@ -66,13 +73,6 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166267</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166267"/>
         <updated>2023-12-31T09:09:19.772Z</updated>
-        <content type="html"><![CDATA[2024.01.01(월) 00:00 ~ 2024.01.15(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포토스튜디오 / 사진 촬영 및 편집 담당자(신입 및 경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166068</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166068"/>
-        <updated>2023-12-31T15:09:01.876Z</updated>
         <content type="html"><![CDATA[2024.01.01(월) 00:00 ~ 2024.01.15(월) 15:00]]></content>
     </entry>
 </feed>
