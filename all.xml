@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-14T13:11:17.406Z</updated>
+    <updated>2024-01-14T14:09:05.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2024-01-14T13:10:55.262Z</updated>
+        <updated>2024-01-14T14:08:44.858Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -18,13 +18,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1253"/>
         <updated>2024-01-10T01:54:44.487Z</updated>
         <content type="html"><![CDATA[2024-01-10 ~ 2024-01-24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 재무기획 경력직 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1252</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1252"/>
-        <updated>2023-12-27T14:08:50.722Z</updated>
-        <content type="html"><![CDATA[2023-12-27 ~ 2024-01-14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스튜디오리얼라이브(SME자회사) 제작부서 채용 (SM Entertainment ─ RECRUIT)]]></title>
@@ -46,6 +39,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=995"/>
         <updated>2023-12-20T14:08:09.331Z</updated>
         <content type="html"><![CDATA[2024-01-01 ~ 2024-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 재무기획 경력직 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1252</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1252"/>
+        <updated>2023-12-27T14:08:50.722Z</updated>
+        <content type="html"><![CDATA[2023-12-27 ~ 2024-01-14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM브랜드마케팅 콘텐츠 디자인 담당 채용 (수시채용) (SM Entertainment ─ RECRUIT)]]></title>
