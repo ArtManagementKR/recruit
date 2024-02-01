@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2024-02-01T02:20:20.461Z</updated>
+    <updated>2024-02-01T03:11:52.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1261"/>
         <updated>2024-01-29T06:12:43.669Z</updated>
         <content type="html"><![CDATA[2024-01-29 ~ 2024-02-11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 Payroll 담당자 채용의 건]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1262</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1262"/>
+        <updated>2024-02-01T03:11:38.096Z</updated>
+        <content type="html"><![CDATA[2024-02-01 ~ 2024-02-14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스튜디오리얼라이브(SME자회사)메타버스 콘텐츠 제작 유닛 채용]]></title>
@@ -67,12 +74,5 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1017"/>
         <updated>2024-02-01T02:20:04.046Z</updated>
         <content type="html"><![CDATA[2023-03-23 ~ 2023-12-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM컬처앤콘텐츠 호텔 예약대행 및 영업기획 담당 모집(신입/경력)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1244</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1244"/>
-        <updated>2024-02-01T02:20:04.048Z</updated>
-        <content type="html"><![CDATA[2023-12-11 ~ 2023-12-25]]></content>
     </entry>
 </feed>
