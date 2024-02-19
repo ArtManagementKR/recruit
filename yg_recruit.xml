@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-02-19T01:43:49.545Z</updated>
+    <updated>2024-02-19T02:18:13.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디자인팀 / 기업 브랜드 디자인 담당자(경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=171857</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=171857"/>
+        <updated>2024-02-19T02:18:07.225Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 00:00 ~ 2024.03.04(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[YG PLUS] MERCH 디자인 기획 담당자(경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=169520</id>
@@ -66,13 +73,6 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166194</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166194"/>
         <updated>2024-01-21T15:09:39.680Z</updated>
-        <content type="html"><![CDATA[2024.01.01(월) 00:00 ~ 2024.01.15(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비주얼팀 / 비주얼 스타일링 기획 및 실행 담당자(신입)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166066</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=166066"/>
-        <updated>2024-01-21T15:09:39.682Z</updated>
         <content type="html"><![CDATA[2024.01.01(월) 00:00 ~ 2024.01.15(월) 15:00]]></content>
     </entry>
 </feed>
