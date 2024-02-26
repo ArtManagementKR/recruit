@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-26T06:14:07.242Z</updated>
+    <updated>2024-02-26T07:11:29.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2024-02-26T06:13:43.939Z</updated>
+        <updated>2024-02-26T07:11:10.133Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[2024-02-20 ~ 2024-03-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 클래식 A&R 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <title type="html"><![CDATA[SM엔터테인먼트 SM Classics A&R 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1265</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1265"/>
         <updated>2024-02-21T07:09:43.927Z</updated>
