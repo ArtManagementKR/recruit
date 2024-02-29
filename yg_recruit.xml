@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-02-29T04:12:00.492Z</updated>
+    <updated>2024-02-29T05:12:24.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=172616</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=172616"/>
         <updated>2024-02-21T09:12:16.116Z</updated>
-        <content type="html"><![CDATA[2024.02.21(수) 00:00 ~ 2024.03.04(월) 15:00]]></content>
+        <content type="html"><![CDATA[2024.02.21(수) 00:00 ~ 2024.03.11(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디자인팀 / 기업 브랜드 디자인 담당자(경력)]]></title>
