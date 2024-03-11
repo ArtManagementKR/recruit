@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-03-11T04:13:29.006Z</updated>
+    <updated>2024-03-11T05:11:31.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=173572</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=173572"/>
         <updated>2024-02-28T12:16:11.446Z</updated>
-        <content type="html"><![CDATA[2024.02.28(수) 00:00 ~ 2024.03.11(월) 15:00]]></content>
+        <content type="html"><![CDATA[2024.02.28(수) 00:00 ~ 2024.03.18(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MERCH 기획 담당자(경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=173085</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=173085"/>
         <updated>2024-02-26T06:14:00.412Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 00:00 ~ 2024.03.11(월) 15:00]]></content>
+        <content type="html"><![CDATA[2024.02.26(월) 00:00 ~ 2024.03.18(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재무기획팀 / 재무기획 담당자(경력)]]></title>
