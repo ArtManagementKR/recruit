@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-13T05:10:45.790Z</updated>
+    <updated>2024-03-13T06:13:35.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2024-03-13T05:10:26.778Z</updated>
+        <updated>2024-03-13T06:13:12.754Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[2024-03-12 ~ 2024-03-26]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 SEA / MENA 지역 비지니스 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1275</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1275"/>
+        <updated>2024-03-13T06:13:18.211Z</updated>
+        <content type="html"><![CDATA[2024-03-13 ~ 2024-03-31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 기업회계 경력직 채용 (SM Entertainment ─ RECRUIT)]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1254</id>
         <link href="https://recruit.smentertainment.com/Employ?employNo=1254"/>
@@ -74,13 +81,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=995"/>
         <updated>2024-03-12T14:09:10.199Z</updated>
         <content type="html"><![CDATA[2024-01-01 ~ 2024-12-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 SM Classics A&R 담당자 채용 (SM Entertainment ─ RECRUIT)]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1265</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1265"/>
-        <updated>2024-02-21T07:09:43.927Z</updated>
-        <content type="html"><![CDATA[2024-02-21 ~ 2024-03-12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아시아팀 / 중화권 사업 및 프로모션 담당자 (경력) (YG Entertainment ─ RECRUIT)]]></title>
