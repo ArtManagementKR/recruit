@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2024-03-14T13:11:39.623Z</updated>
+    <updated>2024-03-14T14:10:04.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 FC매니지먼트 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1270</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1270"/>
-        <updated>2024-02-29T06:13:04.284Z</updated>
-        <content type="html"><![CDATA[2024-02-29 ~ 2024-03-14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 ScreaM Records A&R 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1266</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1266"/>
-        <updated>2024-02-22T07:10:21.449Z</updated>
-        <content type="html"><![CDATA[2024-02-22 ~ 2024-03-14]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 Content & Promotion 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1268</id>
@@ -74,5 +60,19 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1254"/>
         <updated>2024-03-12T14:09:10.198Z</updated>
         <content type="html"><![CDATA[2024-01-11 ~ 2024-03-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 재무회계 담당 보훈대상자 특별 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=995</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=995"/>
+        <updated>2024-03-14T14:09:47.359Z</updated>
+        <content type="html"><![CDATA[2024-01-01 ~ 2024-12-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 ScreaM Records A&R 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1266</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1266"/>
+        <updated>2024-02-22T07:10:21.449Z</updated>
+        <content type="html"><![CDATA[2024-02-22 ~ 2024-03-14]]></content>
     </entry>
 </feed>
