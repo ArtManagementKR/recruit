@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2024-03-17T13:12:02.198Z</updated>
+    <updated>2024-03-17T14:08:18.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 Content & Promotion 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1268</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1268"/>
-        <updated>2024-02-27T06:12:59.460Z</updated>
-        <content type="html"><![CDATA[2024-02-27 ~ 2024-03-17]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 A&R 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1271</id>
@@ -69,10 +62,17 @@
         <content type="html"><![CDATA[2024-01-01 ~ 2024-12-31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 ScreaM Records A&R 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1266</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1266"/>
-        <updated>2024-02-22T07:10:21.449Z</updated>
-        <content type="html"><![CDATA[2024-02-22 ~ 2024-03-14]]></content>
+        <title type="html"><![CDATA[SM엔터테인먼트 Content & Promotion 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1268</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1268"/>
+        <updated>2024-02-27T06:12:59.460Z</updated>
+        <content type="html"><![CDATA[2024-02-27 ~ 2024-03-17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 FC매니지먼트 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1270</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1270"/>
+        <updated>2024-03-17T14:08:04.194Z</updated>
+        <content type="html"><![CDATA[2024-02-29 ~ 2024-03-14]]></content>
     </entry>
 </feed>
