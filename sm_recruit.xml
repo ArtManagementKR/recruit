@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.smentertainment.com/</id>
     <title>SM Entertainment ─ RECRUIT</title>
-    <updated>2024-03-26T01:42:46.313Z</updated>
+    <updated>2024-03-26T02:16:14.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.smentertainment.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 채용운영보조 인턴 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1280</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1280"/>
+        <updated>2024-03-21T13:12:11.964Z</updated>
+        <content type="html"><![CDATA[2024-03-21 ~ 2024-03-31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 영상연출/제작 담당자 채용]]></title>
         <id>https://recruit.smentertainment.com/Employ?employNo=1274</id>
@@ -18,27 +25,6 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1273"/>
         <updated>2024-03-12T09:16:56.923Z</updated>
         <content type="html"><![CDATA[2024-03-12 ~ 2024-03-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 Artist Visual 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1282</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1282"/>
-        <updated>2024-03-25T04:12:56.516Z</updated>
-        <content type="html"><![CDATA[2024-03-25 ~ 2024-03-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝, 트레이닝 및 회계 담당자 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1281</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1281"/>
-        <updated>2024-03-25T04:12:56.518Z</updated>
-        <content type="html"><![CDATA[2024-03-25 ~ 2024-03-31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM엔터테인먼트 채용운영보조 인턴 채용]]></title>
-        <id>https://recruit.smentertainment.com/Employ?employNo=1280</id>
-        <link href="https://recruit.smentertainment.com/Employ?employNo=1280"/>
-        <updated>2024-03-21T13:12:11.964Z</updated>
-        <content type="html"><![CDATA[2024-03-21 ~ 2024-03-31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 콘텐츠 매니지먼트 경력직 채용]]></title>
@@ -67,6 +53,20 @@
         <link href="https://recruit.smentertainment.com/Employ?employNo=1275"/>
         <updated>2024-03-13T06:13:18.211Z</updated>
         <content type="html"><![CDATA[2024-03-13 ~ 2024-03-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 Artist Visual 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1282</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1282"/>
+        <updated>2024-03-25T04:12:56.516Z</updated>
+        <content type="html"><![CDATA[2024-03-25 ~ 2024-03-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM엔터테인먼트 트레이닝, 트레이닝 및 회계 담당자 채용]]></title>
+        <id>https://recruit.smentertainment.com/Employ?employNo=1281</id>
+        <link href="https://recruit.smentertainment.com/Employ?employNo=1281"/>
+        <updated>2024-03-25T04:12:56.518Z</updated>
+        <content type="html"><![CDATA[2024-03-25 ~ 2024-03-31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM엔터테인먼트 기업회계 경력직 채용]]></title>
