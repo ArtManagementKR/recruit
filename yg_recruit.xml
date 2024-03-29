@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-03-29T05:10:43.997Z</updated>
+    <updated>2024-03-29T06:13:00.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2024 YG Global Talent Recruiting] 미주유럽팀 / 사업 운영·관리 담당자 (경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176735</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176735"/>
+        <updated>2024-03-29T06:12:53.355Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2024 YG Global Talent Recruiting] 아시아팀 / 리서치 담당자 (신입)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176734</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176734"/>
+        <updated>2024-03-29T06:12:53.355Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2024 YG Global Talent Recruiting] 신인개발팀 / 연슴생 담당자(신입)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176727</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176727"/>
+        <updated>2024-03-29T06:12:53.358Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2024 YG Global Talent Recruiting] A&R / 아티스트 담당자(신입 및 경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176721</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176721"/>
+        <updated>2024-03-29T06:12:53.362Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디자인팀 / 기업 브랜드 디자인 담당자(경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=175185</id>
@@ -46,33 +74,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=173572"/>
         <updated>2024-03-26T20:11:10.784Z</updated>
         <content type="html"><![CDATA[2024.02.28(수) 00:00 ~ 2024.03.18(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MERCH 기획 담당자(경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=173085</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=173085"/>
-        <updated>2024-03-26T20:11:10.786Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 00:00 ~ 2024.03.18(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재무기획팀 / 재무기획 담당자(경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=172616</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=172616"/>
-        <updated>2024-03-26T20:11:10.787Z</updated>
-        <content type="html"><![CDATA[2024.02.21(수) 00:00 ~ 2024.03.11(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자인팀 / 기업 브랜드 디자인 담당자(경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=171857</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=171857"/>
-        <updated>2024-03-26T20:11:10.788Z</updated>
-        <content type="html"><![CDATA[2024.02.19(월) 00:00 ~ 2024.03.04(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지속가능경영팀 / ESG경영 운영 담당자(신입 및 경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=169160</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=169160"/>
-        <updated>2024-03-26T20:11:10.790Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 00:00 ~ 2024.02.12(월) 15:00]]></content>
     </entry>
 </feed>
