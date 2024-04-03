@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-04-03T00:42:27.704Z</updated>
+    <updated>2024-04-03T01:44:21.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미주유럽팀 / 사업 리딩 담당자 (경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=177278</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=177278"/>
+        <updated>2024-04-03T01:44:15.620Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2024 YG Global Talent Recruiting] 미주유럽팀 / 사업 운영·관리 담당자 (경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=177062</id>
@@ -66,13 +73,6 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176778</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176778"/>
         <updated>2024-04-01T01:55:25.861Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A&R / 아티스트 담당자(경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176793</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=176793"/>
-        <updated>2024-04-01T01:55:25.863Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
     </entry>
 </feed>
