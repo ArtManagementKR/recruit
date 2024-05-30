@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-05-30T06:15:08.949Z</updated>
+    <updated>2024-05-30T07:11:15.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공연제작 / 공연 연출 및 제작 담당자 (경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=183038</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=183038"/>
+        <updated>2024-05-30T07:11:09.163Z</updated>
+        <content type="html"><![CDATA[2024.05.30(목) 15:00 ~ 2024.06.10(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HR팀 / HRD (교육) 담당자 (경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=182626</id>
@@ -66,13 +73,6 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=177278</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=177278"/>
         <updated>2024-05-29T18:13:28.143Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 YG Global Talent Recruiting] 미주유럽팀 / 사업 운영·관리 담당자 (경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=177062</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=177062"/>
-        <updated>2024-05-29T18:13:28.144Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 00:00 ~ 2024.04.15(월) 15:00]]></content>
     </entry>
 </feed>
