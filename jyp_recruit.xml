@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.jype.com/Recruit</id>
     <title>JYP RECRUIT</title>
-    <updated>2024-06-03T12:20:09.643Z</updated>
+    <updated>2024-06-03T13:13:56.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.jype.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://recruit.jype.com/Recruit</id>
         <link href="https://recruit.jype.com/Recruit"/>
-        <updated>2024-06-03T12:19:45.185Z</updated>
+        <updated>2024-06-03T13:13:31.527Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
