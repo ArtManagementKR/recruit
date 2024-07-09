@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-07-09T09:12:10.979Z</updated>
+    <updated>2024-07-09T10:12:19.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[24년 3분기 정기채용] 디자인팀 / Brand eXperience Design 담당자(경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=187080</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=187080"/>
+        <updated>2024-07-09T10:12:13.089Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 00:00 ~ 2024.07.15(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[24년 3분기 정기채용] 공연기획팀 / 플랫폼 운영 담당자 (경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=186915</id>
@@ -66,13 +73,6 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185155</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185155"/>
         <updated>2024-06-28T01:58:18.450Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 00:00 ~ 2024.07.15(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24년 3분기 정기채용] 디지털사업팀 / 국내외 음원 유통∙프로모션 담당자 (신입)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185146</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185146"/>
-        <updated>2024-06-28T01:58:18.453Z</updated>
         <content type="html"><![CDATA[2024.07.01(월) 00:00 ~ 2024.07.15(월) 15:00]]></content>
     </entry>
 </feed>
