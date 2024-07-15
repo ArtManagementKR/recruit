@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-15T00:52:32.666Z</updated>
+    <updated>2024-07-15T02:04:43.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (JYP RECRUIT)]]></title>
         <id>https://ArtManagementKR.github.io/recruit/all.xml</id>
         <link href="https://ArtManagementKR.github.io/recruit/all.xml"/>
-        <updated>2024-07-15T00:52:08.325Z</updated>
+        <updated>2024-07-15T02:04:22.457Z</updated>
         <content type="html"><![CDATA[<!-- 목록없음 -->
                 진행중인 채용공고가 없습니다.]]></content>
     </entry>
@@ -17,14 +17,14 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185779</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185779"/>
         <updated>2024-07-09T22:11:44.434Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 00:00 ~ 2024.07.15(월) 15:00]]></content>
+        <content type="html"><![CDATA[2024.07.01(월) 00:00 ~ 2024.07.21(일) 23:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24년 3분기 정기채용] 디자인팀 / Brand eXperience Design 담당자(경력) (YG Entertainment ─ RECRUIT)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=187080</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=187080"/>
         <updated>2024-07-09T22:11:44.427Z</updated>
-        <content type="html"><![CDATA[2024.07.09(화) 00:00 ~ 2024.07.15(월) 15:00]]></content>
+        <content type="html"><![CDATA[2024.07.09(화) 00:00 ~ 2024.07.21(일) 23:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24년 3분기 정기채용] 비주얼팀 / 비주얼 스타일링 기획 및 디렉팅 담당자(신입) (YG Entertainment ─ RECRUIT)]]></title>
@@ -73,7 +73,7 @@
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185033</id>
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=185033"/>
         <updated>2024-07-12T06:15:41.728Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 00:00 ~ 2024.07.15(월) 15:00]]></content>
+        <content type="html"><![CDATA[2024.07.01(월) 00:00 ~ 2024.07.21(일) 23:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24년 3분기 정기채용] ESG팀 / ESG경영 운영 담당자 (신입 및 경력) (YG Entertainment ─ RECRUIT)]]></title>
