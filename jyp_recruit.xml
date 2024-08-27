@@ -2,91 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recruit.jype.com/Recruit</id>
     <title>JYP RECRUIT</title>
-    <updated>2024-08-27T05:11:54.407Z</updated>
+    <updated>2024-08-27T06:17:39.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://recruit.jype.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 매니저 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=741&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=741&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.904Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 마케팅 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=742&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=742&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.904Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 해외 마케팅 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=743&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=743&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.910Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 팬마케팅 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=744&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=744&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.911Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 영상 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=745&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=745&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.914Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 Music 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=746&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=746&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.915Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 Production 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=747&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=747&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.915Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 Production Coordinator 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=748&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=748&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.915Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 디자인 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=749&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=749&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.915Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트  공연  공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=750&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=750&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.916Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 연출가(퍼포먼스디렉터) 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=770&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=770&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-30T10:12:59.887Z</updated>
-        <content type="html"><![CDATA[2024-07-30 ~ 2024-08-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 JYP엔터테인먼트 안무가 공개 채용]]></title>
-        <id>https://recruit.jype.com/Recruit/Detail?Seq=751&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False</id>
-        <link href="https://recruit.jype.com/Recruit/Detail?Seq=751&amp;PageSize=12&amp;RcTP=0&amp;TempSaveST=False&amp;ExpST=13&amp;CampusST=0&amp;State=0&amp;SuppUseYN=False"/>
-        <updated>2024-07-22T15:12:44.916Z</updated>
-        <content type="html"><![CDATA[2024-07-23 ~ 2024-08-08]]></content>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://recruit.jype.com/Recruit</id>
+        <link href="https://recruit.jype.com/Recruit"/>
+        <updated>2024-08-27T06:17:15.588Z</updated>
+        <content type="html"><![CDATA[<!-- 목록없음 -->
+                진행중인 채용공고가 없습니다.]]></content>
     </entry>
 </feed>
