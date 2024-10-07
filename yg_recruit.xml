@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-10-07T02:20:49.218Z</updated>
+    <updated>2024-10-07T03:20:50.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[24년 4분기 정기채용] 공연기획팀 / 공연 기획 담당자 (경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=195066</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=195066"/>
+        <updated>2024-10-07T03:20:45.776Z</updated>
+        <content type="html"><![CDATA[2024.10.07(월) 00:00 ~ 2024.10.21(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[24년 4분기 정기채용] 법무&컴플라이언스팀 / 법무 담당자(경력)]]></title>
         <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194984</id>
@@ -67,12 +74,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194023"/>
         <updated>2024-10-02T09:13:46.961Z</updated>
         <content type="html"><![CDATA[2024.09.24(화) 00:00 ~ 2024.10.21(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24년 4분기 정기채용] 디지털사업팀 / 국내외 음원 유통 프로모션 담당자 (경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194858</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194858"/>
-        <updated>2024-10-04T05:12:43.292Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 00:00 ~ 2024.10.21(월) 15:00]]></content>
     </entry>
 </feed>
