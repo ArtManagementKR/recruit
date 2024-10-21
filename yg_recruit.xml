@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2024-10-21T06:19:01.926Z</updated>
+    <updated>2024-10-21T07:14:01.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=196193"/>
         <updated>2024-10-21T05:13:21.918Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 00:00 ~ 2024.10.28(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24년 4분기 정기채용] 경영관리팀 / 경영관리담당자(경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194847</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194847"/>
+        <updated>2024-10-21T07:13:56.544Z</updated>
+        <content type="html"><![CDATA[2024.10.07(월) 00:00 ~ 2024.10.28(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[24년 4분기 정기채용] 피트니스케어팀 / 연습생 트레이너(신입 및 경력)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=193534"/>
         <updated>2024-10-21T06:18:57.358Z</updated>
         <content type="html"><![CDATA[2024.10.15(화) 00:00 ~ 2024.10.28(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24년 4분기 정기채용] 법무&컴플라이언스팀 / 법무 담당자(경력)]]></title>
-        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194984</id>
-        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=194984"/>
-        <updated>2024-10-04T07:12:30.503Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 00:00 ~ 2024.10.21(월) 15:00]]></content>
     </entry>
 </feed>
