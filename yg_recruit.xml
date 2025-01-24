@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/list</id>
     <title>YG Entertainment ─ RECRUIT</title>
-    <updated>2025-01-24T00:56:57.481Z</updated>
+    <updated>2025-01-24T02:12:13.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://yg-entertainment.recruiter.co.kr/app/jobnotice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=204707"/>
         <updated>2025-01-14T11:10:49.208Z</updated>
         <content type="html"><![CDATA[2025.01.01(수) 00:00 ~ 2026.01.01(목) 23:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미주유럽팀 / 사업 운영·관리 담당자 (경력)]]></title>
+        <id>https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=205603</id>
+        <link href="https://yg-entertainment.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=205603"/>
+        <updated>2025-01-24T02:12:08.106Z</updated>
+        <content type="html"><![CDATA[2025.01.23(목) 00:00 ~ 2025.02.06(목) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팬사업팀 / FC담당자 (신입 및 경력)]]></title>
